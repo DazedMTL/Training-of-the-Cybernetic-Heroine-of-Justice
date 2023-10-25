@@ -1450,14 +1450,14 @@
                                 0,
                                 0,
                                 2,
-                                "市民"
+                                "Citizen"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひぃいい！」"
+                                "Eeeek!"
                             ]
                         },
                         {
@@ -1499,14 +1499,14 @@
                                 0,
                                 0,
                                 2,
-                                "子供の市民"
+                                "Child Citizen"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いやぁああああ！」"
+                                "Noooooo!"
                             ]
                         },
                         {
@@ -1757,7 +1757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「帝国軍！覚悟しなさい‼」"
+                                "Imperial Army! Prepare yourselves‼"
                             ]
                         },
                         {
@@ -1916,14 +1916,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぐはぁあ！なんだ貴様！」"
+                                "Guhah! Who the hell are you!"
                             ]
                         },
                         {
@@ -1941,7 +1941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エスカ！隠密行動の予定だろ!?」"
+                                "Esuka! Wasn't the plan to act covertly!?"
                             ]
                         },
                         {
@@ -1959,7 +1959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「大丈夫よ。叫ぶ暇も与えないから、それならオンミツでしょ？」"
+                                "It's okay. I won't even give them time to scream,\nso that's covert, right?"
                             ]
                         },
                         {
@@ -1977,7 +1977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「全然違うぞ!?」"
+                                "That's not it at all!?"
                             ]
                         },
                         {
@@ -1988,14 +1988,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こ、こいつサイボーグか！」"
+                                "Is, is this guy a cyborg!"
                             ]
                         },
                         {
@@ -2006,21 +2006,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「噂のレジスタンスか！"
+                                "So you're the rumored Resistance! Perfect, I'll\ntake you down and get a bonus!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょうどいい仕留めてボーナスゲットだ！」"
+                                ""
                             ]
                         },
                         {
@@ -2038,7 +2038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あら？逃げないのね、助かるわ」"
+                                "Oh? You're not running away, that helps."
                             ]
                         },
                         {
@@ -2146,7 +2146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「掃討完了。オンミツにね」"
+                                "The sweep is complete. Now, onto the secret\nmission."
                             ]
                         },
                         {
@@ -2164,14 +2164,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お前なんか言葉の意味勘違いしてるぞ。"
+                                "You're misunderstanding the meaning of your\nwords. Seriously, we need to retreat soon."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まったく、早いとこ撤退だ」"
+                                ""
                             ]
                         },
                         {
@@ -2221,14 +2221,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺の名前はシュウ。帝国軍の弾圧に抵抗するレジスタンスだ。"
+                                "My name is Shuu. I'm a part of the resistance,\nfighting against the oppression of the Imperial\nArmy. Today, I was supposed to be conducting\ncovert operations in the city to gather some\ninformation, but..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今日もある情報を探るため、街で隠密行動のハズだったのだが…。"
+                                ""
                             ]
                         },
                         {
@@ -2284,21 +2284,21 @@
                                 0,
                                 0,
                                 2,
-                                "市民"
+                                "Citizen"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、ありがとうございます…"
+                                "Ah, thank you... Could it be, you're the\nResistance? So you really do exist..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あなた達は、もしやレジスタンス？本当に実在したんだ…」"
+                                ""
                             ]
                         },
                         {
@@ -2316,14 +2316,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…はやくこの場を離れた方がいいわよ。"
+                                "...We should leave this place soon. The Imperial\nArmy will probably be back before long."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "帝国軍はまたすぐ来るだろうし」"
+                                ""
                             ]
                         },
                         {
@@ -2334,14 +2334,14 @@
                                 0,
                                 0,
                                 2,
-                                "子供の市民"
+                                "Child Citizen"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ありがとう！メカのお姉ちゃん！」"
+                                "Thank you! Mech Onee-san!"
                             ]
                         },
                         {
@@ -2399,7 +2399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「メ、メカ…」"
+                                "M, Mech..."
                             ]
                         },
                         {
@@ -2449,28 +2449,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こいつは俺のバディのエスカ。"
+                                "This is my buddy, Esuka. She was once attacked by\nthe Imperial Army and suffered near-fatal\ninjuries. Now, she's a cyborg with over 90% of her\nbody mechanized. Her body, adjusted for combat,\ndoesn't get hurt easily."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "昔帝国軍に襲われ瀕死の怪我を負い、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "全身の90％以上を機械化しているサイボーグだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "戦闘用に調整してある体はちょっとやそっとでは傷つかない。"
+                                ""
                             ]
                         },
                         {
@@ -2488,28 +2488,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とはいえ、人間的な暮らしができるよう知覚神経の代わりの機能が"
+                                "That being said, she is equipped with functions\nthat serve as a substitute for sensory nerves,\nallowing her to live a human-like life. She should\nfeel pain when injured, but she doesn't seem to\ncare and often acts recklessly, which is a cause\nfor concern."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "備わっており、傷つけば痛いはずなのだが。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本人は意に介した様子もなく、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "猪突気味な行動をとるのが悩みの種だ。"
+                                ""
                             ]
                         },
                         {
@@ -2527,14 +2527,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ制御するのはオペーレーターである俺の役目なので、"
+                                "Well, as the operator, it's my job to control her,\nso it could be said that it's due to my lack of\npower...."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "俺の力不足という事になるのだが…。"
+                                ""
                             ]
                         },
                         {
@@ -2575,14 +2575,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こんな子供にまで手をかけようとするなんて、"
+                                "The thought of them laying a hand on even a child\nmakes me sick."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "反吐が出るわ」"
+                                ""
                             ]
                         },
                         {
@@ -2593,21 +2593,21 @@
                                 0,
                                 0,
                                 2,
-                                "市民"
+                                "Citizen"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そういえば、オークションがどうとか言ってました…"
+                                "Speaking of which, you mentioned something about\nan auction... as for that merchandise."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その商品にすると」"
+                                ""
                             ]
                         },
                         {
@@ -2665,7 +2665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エスカ！」"
+                                "Esuka!"
                             ]
                         },
                         {
@@ -2683,14 +2683,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、どうやらオークションの日が近いという"
+                                "Yes, it seems the information about the auction\nday approaching is correct."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "情報は間違いないようね」"
+                                ""
                             ]
                         },
                         {
@@ -2708,7 +2708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「思わぬ収穫だな」"
+                                "This is an unexpected harvest."
                             ]
                         },
                         {
@@ -2726,7 +2726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「わたしのおかげね！」"
+                                "It's all thanks to me!"
                             ]
                         },
                         {
@@ -2744,14 +2744,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「調子にのるな。しかし、もしかするとさっきのように、"
+                                "Don't get carried away. However, there might be\nguys looking for the merchandise nearby, just\nlike earlier."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "『商品』を探しているやつらが近くにいるかもな」"
+                                ""
                             ]
                         },
                         {
@@ -2769,14 +2769,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうね！オークションまで時間がないみたいだし、"
+                                "That's right! It seems like there's not much time\nuntil the auction, so let's beat up a few more\npeople and gather information!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もう何人かボコボコにして情報を集めましょう！」"
+                                ""
                             ]
                         },
                         {
@@ -2794,28 +2794,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺たちは今、帝国で定期的に行われている"
+                                "Right now, we are gathering information about the\nhuman trafficking auctions that are regularly held\nin the empire. Of course, our goal is to stop\nthem, but we also aim to expose their true nature\nto international public opinion and heighten the\nmomentum against the empire."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "人身売買オークションについての情報を収集している。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もちろん中止させる事が目的だが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その実態を国際世論に訴え反帝国の気運を高めさせるのも狙いだ。"
+                                ""
                             ]
                         },
                         {
@@ -2833,14 +2833,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※この後選択肢が出ますセーブしますか？"
+                                "※There will be choices after this. Do you want to\nsave? (Depending on your choice, it may result in\na game over)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（選択肢によってはゲームオーバーになります）"
+                                ""
                             ]
                         },
                         {
@@ -2848,8 +2848,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "セーブする",
-                                    "いいえ"
+                                    "Save",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2967,7 +2967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうする」"
+                                "What will you do?"
                             ]
                         },
                         {
@@ -2975,8 +2975,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "情報収集続行だ",
-                                    "一度撤退しよう"
+                                    "Continue gathering information",
+                                    "Let's retreat for now"
                                 ],
                                 1,
                                 0,
@@ -3007,7 +3007,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「よし、慎重に頼むぞ」"
+                                "Alright, I'm counting on you to be careful."
                             ]
                         },
                         {
@@ -3062,7 +3062,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「いや、一度撤退だ」"
+                                "No, we should retreat for now."
                             ]
                         },
                         {
@@ -3080,14 +3080,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「なんでよ！もうすぐオークションなんでしょ⁉"
+                                "Why?! The auction is soon, right⁉ We should\nhurry..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "急いだほうが…」"
+                                ""
                             ]
                         },
                         {
@@ -3105,14 +3105,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「そうだな。でも今景品集めを行ってるという事は少なくとも"
+                                "That's true. But if they're still gathering\nprizes now, it probably won't happen today or\ntomorrow. Let's prepare thoroughly and try again."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "今日明日の話じゃないだろう、しっかり準備して、また出直そう」"
+                                ""
                             ]
                         },
                         {
@@ -3130,7 +3130,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「むー」"
+                                "Mmm."
                             ]
                         },
                         {
@@ -3389,14 +3389,14 @@
                                 1,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おらおら～、納税の時間だぜ～！」"
+                                "Hey, hey~ It's time to pay your taxes~!"
                             ]
                         },
                         {
@@ -3416,21 +3416,21 @@
                                 0,
                                 0,
                                 2,
-                                "市民"
+                                "Citizen"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お許しください！先週も納めたばかりではないですか！"
+                                "Please, have mercy! Didn't we just pay last week?\nAt this rate, we'll have nothing left to wear or\neat."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "このままでは着る物も食べる物も無くなってしまいます」"
+                                ""
                             ]
                         },
                         {
@@ -3441,14 +3441,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「問題ない、それなら代わりに貴様らのガキを徴収するだけだ」"
+                                "No problem, if that's the case, we'll just\nconscript your brats instead."
                             ]
                         },
                         {
@@ -3508,14 +3508,14 @@
                                 0,
                                 0,
                                 2,
-                                "子供の市民"
+                                "Child Citizen"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うぁああん！おとうさぁあん」"
+                                "Waaaah! Daddy!"
                             ]
                         },
                         {
@@ -3557,14 +3557,14 @@
                                 0,
                                 0,
                                 2,
-                                "市民"
+                                "Citizen"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁああ！それだけは許して下さい！お願いです」"
+                                "Ahhh! Please, I beg you, anything but that!"
                             ]
                         },
                         {
@@ -3606,21 +3606,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うるさい！オークションの商品がたらんのだ！"
+                                "Shut up! We need goods for the auction! What will\nhappen if we don't meet our quota? Our bonuses\nwill be cut!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ノルマ未達になったらどうする！ボーナスカットだぞ！」"
+                                ""
                             ]
                         },
                         {
@@ -3662,14 +3662,14 @@
                                 0,
                                 0,
                                 2,
-                                "市民"
+                                "Citizen"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんな！あんまりです！私が代わりになりますから！」"
+                                "That's too much! I'll take their place instead!"
                             ]
                         },
                         {
@@ -3680,14 +3680,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だまれ！貴様帝国軍人に意見する気か？許さん！死刑だ！」"
+                                "Shut up! Do you dare to argue with an Imperial\nsoldier? Unforgivable! It's a death sentence!"
                             ]
                         },
                         {
