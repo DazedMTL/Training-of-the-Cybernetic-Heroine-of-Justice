@@ -701,7 +701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「本部から連絡だ…」"
+                                "There's a message from the headquarters..."
                             ]
                         },
                         {
@@ -719,28 +719,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『オークションの件、確認した。"
+                                "I've checked on the auction matter. It seems that\nhuman hunting is becoming more active in other\nregions as well. There's no doubt that the auction\nwill be held in the near future. Now, as for the\ncrucial location, after gathering the\ninformation..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ほかの地域でも人間狩りが活発になっているようだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オークションが近日中に行われるのは間違いないだろう。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さて、肝心の場所だが情報をまとめた結果、"
+                                ""
                             ]
                         },
                         {
@@ -758,21 +758,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A市で行われるということまで絞り込めた。"
+                                "We've narrowed it down to the fact that it will be\nheld in City A. I would like you guys to search in\nCity A as well. Other teams are also scheduled to\nenter City A sequentially. That's all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "君たちにもA市の捜索をお願いする。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "他のチームも順次A市に入る予定だ。以上』"
+                                ""
                             ]
                         },
                         {
@@ -790,7 +790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よし、A市だな…」"
+                                "Alright, City A it is..."
                             ]
                         },
                         {
@@ -808,7 +808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『それと装備品も支給しておいたから確認しておいてくれ』"
+                                "Also, I've provided some equipment, so please\ncheck it."
                             ]
                         },
                         {
@@ -838,14 +838,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※最強装備を手に入れました。戦闘を楽に進めたい方は"
+                                "※You've obtained the strongest equipment. If you\nwant to make battles easier, please equip it to\nEsuka from the menu screen."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "メニュー画面からエスカに装備して下さい。"
+                                ""
                             ]
                         },
                         {
@@ -953,7 +953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「特に連絡はない」"
+                                "There's no particular message."
                             ]
                         },
                         {
@@ -1091,7 +1091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「寝てる…のか？パソコンをチェックしておくか…」"
+                                "Is she... asleep? Maybe I should check the\ncomputer..."
                             ]
                         },
                         {
@@ -1228,7 +1228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なになに？出撃？」"
+                                "What's that? Deploy?"
                             ]
                         },
                         {
@@ -1236,8 +1236,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "まだ休んでて",
-                                    "出撃だ"
+                                    "Still resting, huh?",
+                                    "It's a sortie"
                                 ],
                                 1,
                                 0,
@@ -1268,7 +1268,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ふぅん」"
+                                "Hmm."
                             ]
                         },
                         {
@@ -1307,7 +1307,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「なるほど、Ａ市があやしい訳ね！任せてよ！」"
+                                "I see, so A City is suspicious! Leave it to me!"
                             ]
                         },
                         {
@@ -1325,14 +1325,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「オークションは秘密裏に行われるけど当然警備は厳しいはずだ。"
+                                "The auction is held in secret, but of course, the\nsecurity should be tight. Please be careful."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "気を付けてくれ」"
+                                ""
                             ]
                         },
                         {
@@ -1566,14 +1566,14 @@
                                 0,
                                 0,
                                 2,
-                                "ハンバード"
+                                "Humbert"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エスカはマシーンの扱いが雑過ぎるぞ…」"
+                                "Esuka is too rough with the machine..."
                             ]
                         },
                         {
@@ -1591,7 +1591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まだかかりそうだ。パソコンをチェックしておくか…」"
+                                "It seems like it's going to take a while. Maybe I\nshould check the computer..."
                             ]
                         },
                         {
@@ -1660,7 +1660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よし、そろそろメンテナンス終了じゃ」"
+                                "Alright, it's about time to finish the\nmaintenance."
                             ]
                         },
                         {
@@ -1828,7 +1828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ただいまー」"
+                                "I'm home~"
                             ]
                         },
                         {
@@ -1946,7 +1946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お帰り、エスカ」"
+                                "Welcome back, Esuka."
                             ]
                         },
                         {
@@ -1974,21 +1974,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここが俺たちの拠点だ。といってもレジスタンスは"
+                                "This is our base. Although the Resistance has\nseveral bases, this is one of them. Only a few\npeople within the Resistance know the location of\nthe headquarters."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いくつも拠点を持っていて、ここはそのうちの一つだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本部の場所はレジスタンスでも一部の人間しか知らない。"
+                                ""
                             ]
                         },
                         {
@@ -2039,21 +2039,21 @@
                                 0,
                                 0,
                                 2,
-                                "ハンバード"
+                                "Humbert"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「むむ！また無茶をしたな！マシーンが泣いておるぞ！"
+                                "Hmm! You've done something reckless again! The\nmachine is crying out! It needs immediate\nmaintenance!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すぐにメンテナンスじゃ！」"
+                                ""
                             ]
                         },
                         {
@@ -2103,21 +2103,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この人はハンバード博士。"
+                                "This is Dr. Humbert. He's a collaborator with the\nResistance who defected from the Empire. He's also\nthe one who created Esuka's artificial body and\nsaved her life."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "帝国から亡命してきたレジスタンスの協力者だ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "エスカの義体を作り、命を救った張本人でもある。"
+                                ""
                             ]
                         },
                         {
@@ -2189,7 +2189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うるさいわね、だったらもっと頑丈なのにしてよ」"
+                                "You're so noisy. If that's the case, then make it\nmore durable."
                             ]
                         },
                         {
@@ -2207,7 +2207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エスカとりあえず今日は休め」"
+                                "Esuka, you should rest for today at least."
                             ]
                         },
                         {
@@ -2256,7 +2256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふんだ！私の体はこんなんじゃ疲れないって知ってるでしょ？」"
+                                "Hmph! You know my body doesn't get tired like\nthis, right?"
                             ]
                         },
                         {
@@ -2274,14 +2274,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「体の問題じゃなく心の問題だ、"
+                                "It's not a matter of the body, but of the heart.\nYou've been tense because of the auction recently,\nhaven't you? I'm worried about you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "最近オークションの事でずっと張りつめてただろ？心配なんだよ」"
+                                ""
                             ]
                         },
                         {
@@ -2308,7 +2308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…シュウがそういうなら、そうするけど…」"
+                                "...If Shuu says so, then I will..."
                             ]
                         },
                         {
@@ -2326,21 +2326,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エスカにはずっと探している妹がいる。"
+                                "Esuka has a younger sister she's been searching\nfor all this time. They were separated when they\nfled from the Imperial Army as children, and she\nhasn't been able to find any trace of her since\nthen."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "子供の頃帝国軍から逃げる際散り散りになり"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それっきり消息がつかめていない。"
+                                ""
                             ]
                         },
                         {
@@ -2358,21 +2358,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オークションには人間が多く集まる。"
+                                "Many people gather at the auction. There's a high\npossibility that there could be a clue about her\nsister there. It's no wonder that Esuka is\nanxious."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "妹の手がかりもある可能性が高い。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "エスカが焦るのも無理はないことだ。"
+                                ""
                             ]
                         },
                         {
@@ -2383,14 +2383,14 @@
                                 0,
                                 0,
                                 2,
-                                "ハンバード"
+                                "Humbert"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ではメンテナンスをはじめるぞ」"
+                                "Then let's begin the maintenance."
                             ]
                         },
                         {
@@ -2408,7 +2408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おれも準備しておくか」"
+                                "I guess I should also get ready."
                             ]
                         },
                         {

@@ -1449,14 +1449,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その後、駆け付けた俺たちは無事仲間を保護した。"
+                                "Afterwards, we who had rushed over were able to\nsafely protect our comrades. However, Esuka was\nnowhere to be found at the scene...."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しかし、その場にエスカの姿はなかった…。"
+                                ""
                             ]
                         },
                         {
@@ -1483,7 +1483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エスカ…一体どこに…」"
+                                "Esuka... where on earth could she be..."
                             ]
                         },
                         {

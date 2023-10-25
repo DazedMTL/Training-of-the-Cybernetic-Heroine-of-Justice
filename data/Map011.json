@@ -701,7 +701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「本部から連絡だ…」"
+                                "There's a message from the headquarters..."
                             ]
                         },
                         {
@@ -719,21 +719,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『今回は本当によくやった。"
+                                "You've really done well this time. The data you\nsent has been broadcasted overseas and is causing\na big stir. Although, it probably won't be\nreported domestically..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "送られてきたデータは海外へ発信され大きな反響を呼んでいる。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もっとも国内じゃ報道されることはないだろうが…"
+                                ""
                             ]
                         },
                         {
@@ -751,28 +751,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし、先ほどの陽動作戦で、何人かの仲間が逃げ切れず"
+                                "However, during the diversion operation earlier,\nsome of our comrades were unable to escape and\nwere captured by the imperial soldiers. They will\nlikely be tortured to extract information. We need\nto somehow rescue them. We know where they are\nbeing held."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "帝国兵に捕まってしまった。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "彼らから情報を引き出すために奴らは拷問にかけるだろう。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なんとか助け出す必要がある。捕まっている場所はわかっている。"
+                                ""
                             ]
                         },
                         {
@@ -790,7 +790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんとか彼らを助け出してくれ』"
+                                "Somehow, please help them."
                             ]
                         },
                         {
@@ -808,7 +808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「俺の作戦のせいで捕まった人が…くそっ！」"
+                                "The people who were captured because of my\nstrategy... Damn it!"
                             ]
                         },
                         {
@@ -894,7 +894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「特に連絡はない」"
+                                "There's no particular message."
                             ]
                         },
                         {
@@ -981,7 +981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「寝てる…のか？パソコンをチェックしておくか…」"
+                                "Is she... asleep? Maybe I should check the\ncomputer..."
                             ]
                         },
                         {
@@ -1118,7 +1118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なになに？出撃？」"
+                                "What's that? Deploy?"
                             ]
                         },
                         {
@@ -1126,8 +1126,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "まだ休んでて",
-                                    "出撃だ"
+                                    "Still resting, huh?",
+                                    "It's a sortie"
                                 ],
                                 1,
                                 0,
@@ -1158,7 +1158,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ふぅん」"
+                                "Hmm"
                             ]
                         },
                         {
@@ -1197,7 +1197,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「そんな…私を助けるために…」"
+                                "No way... You did it to help me..."
                             ]
                         },
                         {
@@ -1215,7 +1215,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「エスカのせいじゃない。俺の作戦のせいだ…」"
+                                "It's not Esuka's fault. It's because of my\nstrategy..."
                             ]
                         },
                         {
@@ -1233,14 +1233,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「シュウ…ううん、これは私たち二人のせいね。"
+                                "Shuu... No, this is both of our faults. We will\ndefinitely make this mission a success!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "この任務絶対成功させるわよ！」"
+                                ""
                             ]
                         },
                         {
@@ -1258,7 +1258,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「あぁ！」"
+                                "Ah!"
                             ]
                         },
                         {
@@ -1331,21 +1331,21 @@
                                 0,
                                 0,
                                 2,
-                                "ハンバード"
+                                "Humbert"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「エスカに外付けバッテリーを装備しておいた。"
+                                "I equipped Esuka with an external battery. It\nshould be useful in battle."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "戦闘の役にたつじゃろう」"
+                                ""
                             ]
                         },
                         {
@@ -1363,7 +1363,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「やるじゃない、流石博士！」"
+                                "You're quite something, as expected of the\nprofessor!"
                             ]
                         },
                         {
@@ -1412,7 +1412,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（何か嫌な予感がするけど、エスカを信じるしかない…）"
+                                "(I have a bad feeling about this, but I have no\nchoice but to trust Esuka...)"
                             ]
                         },
                         {
@@ -1586,21 +1586,21 @@
                                 0,
                                 0,
                                 2,
-                                "ハンバード"
+                                "Humbert"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まったく、派手にやったみたいじゃな、"
+                                "Really, you've done it quite extravagantly,\nEsuka... Stop jumping off high-rise buildings."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "エスカお前…高層ビルから飛び降りるとかやめろ」"
+                                ""
                             ]
                         },
                         {
@@ -1669,7 +1669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「すみません博士、俺の責任です」"
+                                "I'm sorry, Doctor, it's my responsibility."
                             ]
                         },
                         {
@@ -1718,7 +1718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「とにかく無事でよかった、エスカ」"
+                                "Anyway, thank goodness you're safe, Esuka."
                             ]
                         },
                         {
@@ -1736,7 +1736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「な、なによ…ほら早くメンテナンスしてよ」"
+                                "Wh-what are you waiting for... hurry up and\nperform maintenance."
                             ]
                         },
                         {
@@ -1787,21 +1787,21 @@
                                 0,
                                 0,
                                 2,
-                                "ハンバード"
+                                "Humbert"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「やれやれ、それと言われた通りエスカから送られてきたデータは"
+                                "Good grief, as you said, I've forwarded the data\nsent from Esuka to headquarters. I've already\nreceived a response from them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本部へ転送しておいた。さっそく本部から連絡がきておるぞ」"
+                                ""
                             ]
                         },
                         {
@@ -1871,14 +1871,14 @@
                                 0,
                                 0,
                                 2,
-                                "ハンバード"
+                                "Humbert"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「メンテナンスはもう少しかかるぞ」"
+                                "The maintenance will take a little longer."
                             ]
                         },
                         {
@@ -1940,14 +1940,14 @@
                                 0,
                                 0,
                                 2,
-                                "ハンバード"
+                                "Humbert"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よし、そろそろメンテナンス終了じゃ」"
+                                "Alright, it's about time to finish the\nmaintenance."
                             ]
                         },
                         {

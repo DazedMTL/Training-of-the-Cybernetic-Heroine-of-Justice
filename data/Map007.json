@@ -1435,7 +1435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ…はぁ…しっかりして！ここまでくればあと少しよ」"
+                                "Haa... Haa... Hang in there! We're almost there,\njust a little bit more."
                             ]
                         },
                         {
@@ -1446,14 +1446,14 @@
                                 0,
                                 0,
                                 2,
-                                "レジスタンス"
+                                "Resistance"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はい…おかげさまで少し歩けるようになってきました」"
+                                "Yes... Thanks to you, I've started to be able to\nwalk a little."
                             ]
                         },
                         {
@@ -2566,14 +2566,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ネズミ発見！この前はよくもやってくれたなぁあ！」"
+                                "Rat spotted! You really did a number on us last\ntime!"
                             ]
                         },
                         {
@@ -2591,7 +2591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しまった！追いつかれた！もう少しなのに！」"
+                                "Damn it! They've caught up! We were so close!"
                             ]
                         },
                         {
@@ -2602,14 +2602,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Empire Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「逃げられはしないぞ！ここで倒してこの前の汚名返上といこう」"
+                                "You won't escape! We'll defeat you here and redeem\nour previous disgrace!"
                             ]
                         },
                         {
@@ -2627,7 +2627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エスカ！大丈夫か⁉おれも仲間とそっちに向かう！」"
+                                "Esuka! Are you okay⁉ I'm heading your way with our\nallies!"
                             ]
                         },
                         {
@@ -2645,7 +2645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「大丈夫よ！あんなやつボコボコにしてやるんだから！」"
+                                "I'm fine! I'll beat the crap out of them!"
                             ]
                         },
                         {
@@ -2789,14 +2789,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Empire Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふははは！どうしたもう終わりか？」"
+                                "Fuhahaha! What's the matter, is it over already?"
                             ]
                         },
                         {
@@ -2814,7 +2814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くっ！しつこいわね！」"
+                                "Ugh! You're so persistent!"
                             ]
                         },
                         {
@@ -2832,7 +2832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（まずいな、増援に行くにはまだ時間がかかる）"
+                                "(This is bad, it's still going to take time to get\nreinforcements)"
                             ]
                         },
                         {
@@ -2850,7 +2850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「シュウ！心配しないで！隙をみてこの人と逃げるわ！」"
+                                "Shuu! Don't worry! I'll find an opening and escape\nwith this person!"
                             ]
                         },
                         {
@@ -2868,7 +2868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（…エスカだけなら…）"
+                                "(...If it's just Esuka...)"
                             ]
                         },
                         {
@@ -2886,7 +2886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「シュウ？どうしたの」"
+                                "Shuu? What's wrong?"
                             ]
                         },
                         {
@@ -2904,7 +2904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…エスカだけなら逃げだせる可能性が高い」"
+                                "...If it's just Esuka, there's a high chance she\ncan escape."
                             ]
                         },
                         {
@@ -2931,14 +2931,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だめよ！絶対ダメ！そんな事絶対しないから！"
+                                "No! Absolutely not! I won't do such a thing! I can\nstill keep going!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私ならまだやれる！」"
+                                ""
                             ]
                         },
                         {
@@ -2956,14 +2956,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※この後選択肢が出ますセーブしますか？"
+                                "※A choice will appear after this. Do you want to\nsave? (Depending on your choice, it may result in\na game over)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（選択肢によってはゲームオーバーになります）"
+                                ""
                             ]
                         },
                         {
@@ -2971,8 +2971,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "セーブする",
-                                    "いいえ"
+                                    "Save",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3031,7 +3031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうする"
+                                "What to do?"
                             ]
                         },
                         {
@@ -3039,8 +3039,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "エスカだけ逃がす",
-                                    "戦闘続行"
+                                    "Let only Esuka escape",
+                                    "Continue the fight"
                                 ],
                                 1,
                                 0,
@@ -3071,7 +3071,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「エスカ！お前だけでも」"
+                                "Esuka! At least you..."
                             ]
                         },
                         {
@@ -3099,7 +3099,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「シュウ！何度も言わせないで！」"
+                                "Shuu! Don't make me say it over and over!"
                             ]
                         },
                         {
@@ -3110,14 +3110,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ごちゃごちゃと…来ないならこちらからいくぞ！"
+                                "Enough chatter... If you won't come, then we'll\ncome to you!"
                             ]
                         },
                         {
@@ -3202,7 +3202,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「くっ！しまった！」"
+                                "Damn it! I messed up!"
                             ]
                         },
                         {
@@ -3271,7 +3271,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「はぁああああああぁあああ！」"
+                                "Haaaaaaaaa!"
                             ]
                         },
                         {
@@ -3289,7 +3289,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「⁉　やめろエスカ！」"
+                                "⁉Stop it, Esuka!"
                             ]
                         },
                         {
@@ -3309,14 +3309,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「な、なんの光!?」"
+                                "Wha, what's this light!?"
                             ]
                         },
                         {
@@ -3334,7 +3334,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「リミッター解除！」"
+                                "Limiters off!"
                             ]
                         },
                         {
@@ -3467,14 +3467,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「くっ！なんだこの強さは！おれの再生が間に合わないだと‼」"
+                                "Damn! What is this strength! My regeneration can't\nkeep up‼"
                             ]
                         },
                         {
@@ -3492,7 +3492,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「やめろエスカ！それ以上は持たないぞ！」"
+                                "Stop it, Esuka! You can't take any more!"
                             ]
                         },
                         {
@@ -3583,7 +3583,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「おぉおおぉおおおおおおりゃぁあああああああああああああ！」"
+                                "Ooooooooooryaaaaaaaaaaaaaaaaaaaa!"
                             ]
                         },
                         {
@@ -3793,14 +3793,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Empire Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ひぶぅうううううううう！」"
+                                "Hibuuuuuuuuuuuuu!"
                             ]
                         },
                         {
@@ -4049,14 +4049,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「はぁ…はぁ…ごめんなさい…時間を稼ぐから"
+                                "Ha...ha...I'm sorry... I'll buy some time, so\nescape on your own... Our friends should be here\nsoon..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あとは一人で逃げて…もうすぐ仲間が来るはずだから…」"
+                                ""
                             ]
                         },
                         {
@@ -4067,14 +4067,14 @@
                                 0,
                                 0,
                                 2,
-                                "レジスタンス"
+                                "Resistance"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「す、すみません…必ず助けに戻りますから…」"
+                                "I-I'm sorry... I promise to come back for help..."
                             ]
                         },
                         {
@@ -4321,7 +4321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…お願い…シュウ…」"
+                                "...Please... Shuu..."
                             ]
                         },
                         {
@@ -4362,7 +4362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エスカ！返事をしろ！エスカ！」"
+                                "Esuka! Respond! Esuka!"
                             ]
                         },
                         {

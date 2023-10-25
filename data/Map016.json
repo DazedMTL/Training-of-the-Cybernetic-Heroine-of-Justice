@@ -1981,7 +1981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「な、なんだこの化け物は…」"
+                                "Wha, what is this monster..."
                             ]
                         },
                         {
@@ -2046,21 +2046,21 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふはははは！ようこそレジスタンス君、"
+                                "Fuhahahaha! Welcome, Resistance boy, you've really\nmoved me by coming here all alone."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まさか一人で来るとは泣かせるじゃないか」"
+                                ""
                             ]
                         },
                         {
@@ -2118,7 +2118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「総統！貴様エスカはどこだ！」"
+                                "President! Where the hell is Esuka!"
                             ]
                         },
                         {
@@ -2129,21 +2129,21 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「目の前にいるだろう？バイオキマイラ。"
+                                "Isn't she right in front of you? The Bio Chimera.\nA touching collaboration of two weapons, the\ncyborg sister and the modified soldier sister."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "サイボーグの姉と改造兵士の妹、二つの兵器の感動的な合作だ」"
+                                ""
                             ]
                         },
                         {
@@ -2192,7 +2192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「妹…まさか…エスカの妹もここに…？」"
+                                "My sister... could it be... Esuka's sister is also\nhere...?"
                             ]
                         },
                         {
@@ -2203,21 +2203,21 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうだとも。もっとも合体の副反応で"
+                                "Indeed. However, due to the side effects of the\nfusion, they've turned into such a monster,\nfuhahahaha."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こんな化け物になってしまったがね、ふははははは」"
+                                ""
                             ]
                         },
                         {
@@ -2235,7 +2235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エスカ！エスカ聞こえるか！俺だ！頼むから返事してくれ」"
+                                "Esuka! Can you hear me, Esuka! It's me! Please, I\nbeg you, respond."
                             ]
                         },
                         {
@@ -2246,14 +2246,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふはははは！それでは私はゆっくり見学させてもらおうかね」"
+                                "Fuhahahaha! Well then, I suppose I'll just sit\nback and enjoy the show."
                             ]
                         },
                         {
@@ -2434,7 +2434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エスカのエネルギーが回復していく…！"
+                                "Esuka's energy is recovering...!"
                             ]
                         },
                         {
@@ -2482,7 +2482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…さすが博士、いい仕事してるわ…！」"
+                                "...As expected of the professor, you're doing a\ngood job...!"
                             ]
                         },
                         {
@@ -2500,7 +2500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エスカ！」"
+                                "Esuka!"
                             ]
                         },
                         {
@@ -2518,7 +2518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「離れててシュウ！ミコト…ごめんね…っ！」"
+                                "Stay back, Shuu! Mikoto... I'm sorry...!"
                             ]
                         },
                         {
@@ -2642,7 +2642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だめだ…俺じゃどうしようもない…」"
+                                "It's no use... I can't do anything about it..."
                             ]
                         },
                         {
@@ -2660,7 +2660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「シュウ…」"
+                                "Shuu..."
                             ]
                         },
                         {
@@ -2694,14 +2694,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「シュウ…ありがとう、後は任せて離れてて…！"
+                                "Shuu... Thank you, leave the rest to me and step\nback...! Mikoto... You're going to have to put up\nwith my selfishness..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ミコト…私のわがままに付き合ってもらうわよ…」"
+                                ""
                             ]
                         },
                         {
@@ -2719,7 +2719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エスカ…？一体何を…まさか…自爆…？」"
+                                "Esuka...? What on earth are you... Don't tell\nme... Self-destruction...?"
                             ]
                         },
                         {
@@ -2753,7 +2753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「シュウ…！ずっと…わたし…」"
+                                "Shuu...! Always... I..."
                             ]
                         },
                         {
@@ -2771,7 +2771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エスカァアアアアア！」"
+                                "Esukaaaaaaa!"
                             ]
                         },
                         {
@@ -3017,7 +3017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エスカぁあああああああぁああああ」"
+                                "Esukaaaaaaa"
                             ]
                         },
                         {
@@ -3035,7 +3035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「シュウ！シュゥウウウウゥゥウウウ！」"
+                                "Shuu! Shuuuuuuuuuu!"
                             ]
                         },
                         {
@@ -3055,14 +3055,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こ、こんなバカな…！」"
+                                "Th-this is absurd...!"
                             ]
                         },
                         {
@@ -3121,14 +3121,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今度はなんだ！」"
+                                "What is it this time!"
                             ]
                         },
                         {
@@ -3238,14 +3238,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「総統！大変です！国連軍が攻めてきました！」"
+                                "President! It's terrible! The United Nations army\nis attacking!"
                             ]
                         },
                         {
@@ -3273,14 +3273,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なにぃ？」"
+                                "What?"
                             ]
                         },
                         {
@@ -3291,21 +3291,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「例のオークションの動画のせいで、"
+                                "It seems that due to the video of the auction,\ninternational public opinion has united against\nthe empire."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "国際世論が反帝国でまとまったようです」"
+                                ""
                             ]
                         },
                         {
@@ -3325,21 +3325,21 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぐぬぬ…奴らの足並みがいつまでも揃うわけがない。"
+                                "Grr... There's no way they can keep up this united\nfront forever. No choice! We'll have to retreat\nback to our homeland for now!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "仕方ない！一度本国へ引くぞ‼」"
+                                ""
                             ]
                         },
                         {
@@ -3366,7 +3366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まて！貴様ぁ」"
+                                "Wait! You bastard!"
                             ]
                         },
                         {
@@ -3384,7 +3384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だめだエスカ！まだ動ける体じゃない…！」"
+                                "No, Esuka! Your body isn't ready to move yet...!"
                             ]
                         },
                         {
@@ -3402,7 +3402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも…あいつが…！あいつのせいで…！」"
+                                "But... because of him...! It's all his fault...!"
                             ]
                         },
                         {
@@ -3420,7 +3420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今はここから生き残る事だけ考えるんだ…！」"
+                                "Right now, we just need to focus on surviving\nthis...!"
                             ]
                         },
                         {
@@ -3438,7 +3438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うぁああああぁああああああああああああぁん」"
+                                "Uwaaaaaaaaaaaaaaah!"
                             ]
                         },
                         {
@@ -3673,14 +3673,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こ、こんなバカな…！」"
+                                "Th-this is ridiculous...!"
                             ]
                         },
                         {
@@ -3739,14 +3739,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今度はなんだ！」"
+                                "What is it this time!"
                             ]
                         },
                         {
@@ -3856,14 +3856,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「総統！大変です！国連軍が攻めてきました！」"
+                                "President! It's terrible! The United Nations army\nis attacking!"
                             ]
                         },
                         {
@@ -3891,14 +3891,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なにぃ？」"
+                                "What?"
                             ]
                         },
                         {
@@ -3909,21 +3909,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「例のオークションの動画のせいで、"
+                                "It seems that the international public opinion has\nunited against the empire due to the video of that\nauction."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "国際世論が反帝国でまとまったようです」"
+                                ""
                             ]
                         },
                         {
@@ -3943,21 +3943,21 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぐぬぬ…奴らの足並みがいつまでも揃うわけがない。"
+                                "Grr... There's no way they can keep up this united\nfront forever. No choice! We'll have to retreat\nback to our homeland for now!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "仕方ない！一度本国へ引くぞ‼」"
+                                ""
                             ]
                         },
                         {
@@ -3975,7 +3975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エスカ…そんな…」"
+                                "Esuka... no way..."
                             ]
                         },
                         {

@@ -1892,14 +1892,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "帝国軍、強化兵士製造工場。"
+                                "The Imperial Army, a factory for producing\nenhanced soldiers. Esuka was captured in this\nfacility."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "エスカはこの施設に捕らえられていた。"
+                                ""
                             ]
                         },
                         {
@@ -1926,14 +1926,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「母体E、20回目の強化兵士の出産開始します」"
+                                "Starting the birth of the 20th enhanced soldier\nfrom Mother Body E."
                             ]
                         },
                         {
@@ -1979,21 +1979,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エスカに繋がれた人工子宮から強化兵士が産まれる。"
+                                "Enhanced soldiers are born from the artificial\nwomb connected to Esuka. A few months after they\nare born, they will be deployed into actual\ncombat, likely to bare their fangs against the\nResistance."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "産まれた数か月も経てば実戦に投入され、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レジスタンスに牙を向くだろう"
+                                ""
                             ]
                         },
                         {
@@ -2020,14 +2020,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「出産完了、続いて21回目の強化兵士の受胎開始します」"
+                                "Birth complete, commencing conception of the 21st\nenhanced soldier next."
                             ]
                         },
                         {
@@ -2073,21 +2073,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "管から強化兵士の受精卵がエスカの体内へ運ばれていく。"
+                                "The fertilized egg of the enhanced soldier is\ntransported into Esuka's body through the tube.\nFrom now on, it will absorb Esuka's bioenergy to\ngrow, and in about a week, it will be able to give\nbirth just like before."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これからエスカの生体エネルギーを吸収して成長し、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "1週間もすれば先ほどの様に出産可能な形態になる。"
+                                ""
                             ]
                         },
                         {
@@ -2098,21 +2098,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しかしまぁ、無理やり生かされ続けて、"
+                                "But still, being forced to stay alive and continue\ngiving birth to enhanced soldiers, it's quite\ntragic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "強化兵士を生み続けるとは、悲惨だな」"
+                                ""
                             ]
                         },
                         {
@@ -2153,21 +2153,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おっと、21回目の受胎成功。"
+                                "Oh, successful conception for the 21st time.\nWhat's this? Are you happy? Is it instinct...\nhehehe."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なんだ？喜んでるのか？本能ってやつなのかねぇ…げへへ」"
+                                ""
                             ]
                         },
                         {
@@ -2185,14 +2185,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何度も行われる非道な行為でエスカの心は壊れてしまったが、"
+                                "Despite her spirit being broken by the inhumane\nacts performed on her time and time again, Esuka\nwould only show a happy expression when conception\noccurred."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "受精する時だけは嬉しそうな表情を浮かべるのであった。"
+                                ""
                             ]
                         },
                         {

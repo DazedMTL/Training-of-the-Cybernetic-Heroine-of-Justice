@@ -689,7 +689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「本部から連絡だ…」"
+                                "There's a message from the headquarters..."
                             ]
                         },
                         {
@@ -707,28 +707,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『エスカの件、言い訳はしない。ただ君たちが無事でよかった。"
+                                "About Esuka, I won't make any excuses. I'm just\nglad you guys are safe. As for Esuka's sister,\nnothing was found in the rubble of the\npresidential palace. Also, I've sent along Esuka's\nrecord data, so you can look at it anytime. Well\nthen, I'll contact you when there's a mission."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "エスカの妹の件だが、総統府の瓦礫からは何も見つからなかった。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それとエスカの記録データを一緒に送っておいたから、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いつでも見れるよ。それじゃぁまた、任務の時は連絡するよ』"
+                                ""
                             ]
                         },
                         {
@@ -746,7 +746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※パソコンからイベントを見れるようになりました。"
+                                "※You can now view events from the computer."
                             ]
                         },
                         {
@@ -833,7 +833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回想モードに入りますか？"
+                                "Would you like to enter reminiscence mode?"
                             ]
                         },
                         {
@@ -841,8 +841,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -1077,7 +1077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ただいまー」"
+                                "I'm home~"
                             ]
                         },
                         {
@@ -1095,14 +1095,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「やっぱりあの大臣、帝国と繋がってたわ！"
+                                "As I thought, that minister was indeed connected\nto the empire! I've got solid evidence too! It's a\nsecret!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ばっちり証拠も掴んだんだから！オンミツにね！"
+                                ""
                             ]
                         },
                         {
@@ -1120,7 +1120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お帰りエスカ」"
+                                "Welcome back, Esuka."
                             ]
                         },
                         {
@@ -1147,7 +1147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うん、ただいま」"
+                                "Yes, I'm back."
                             ]
                         },
                         {
@@ -1165,7 +1165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺たちは戦いは今日も続いている。"
+                                "Our battle continues even today."
                             ]
                         },
                         {

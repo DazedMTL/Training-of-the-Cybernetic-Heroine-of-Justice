@@ -2689,14 +2689,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここでじっとしてな」"
+                                "Stay still here."
                             ]
                         },
                         {
@@ -2892,7 +2892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「潜入成功ね…！」"
+                                "Infiltration successful...!"
                             ]
                         },
                         {
@@ -2931,7 +2931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…エスカ…！エスカ聞こえるか？」"
+                                "...Esuka...! Can you hear me, Esuka?"
                             ]
                         },
                         {
@@ -2949,7 +2949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「大丈夫よ！」"
+                                "It's alright!"
                             ]
                         },
                         {
@@ -2967,21 +2967,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「電波状況が良くない、"
+                                "The radio signal is poor, it seems like there's\nsome sort of trick to the building itself. In the\nworst case scenario, move according to your\njudgement, Esuka."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "建物自体になんらかの細工がしてあるみたいだ、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "最悪の場合はエスカの判断で動いてくれ」"
+                                ""
                             ]
                         },
                         {
@@ -2999,7 +2999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「了解！まかせといてよ！」"
+                                "Understood! Leave it to me!"
                             ]
                         },
                         {
@@ -3017,21 +3017,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まずは人身売買オークションが行われているという証拠集めだ、"
+                                "First, we need to gather evidence that a human\ntrafficking auction is taking place. The footage\nis being sent through Esuka's eyes. All you need\nto do is find the evidence, there's no need for\ncombat."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "エスカ目を通して、映像は送られてきている。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "証拠は見つけるだけでいい、戦闘は不要だからな」"
+                                ""
                             ]
                         },
                         {
@@ -3110,14 +3110,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うぅ…」"
+                                "Ugh..."
                             ]
                         },
                         {
@@ -3135,7 +3135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あはは！いい気味！」"
+                                "Ahaha! Serves you right!"
                             ]
                         },
                         {
@@ -4019,7 +4019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "電池を手に入れた！"
+                                "I've obtained the battery!"
                             ]
                         },
                         {
@@ -4268,7 +4268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "電池を手に入れた！"
+                                "I've obtained the battery!"
                             ]
                         },
                         {

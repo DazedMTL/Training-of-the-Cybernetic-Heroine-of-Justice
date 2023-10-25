@@ -1554,14 +1554,14 @@
                                 0,
                                 0,
                                 2,
-                                "赤い髪の少女"
+                                "The girl with red hair"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ミコト…！いい？迎えに来るまでここに隠れてて！」"
+                                "Mikoto...! Is that okay? Hide here until I come to\npick you up!"
                             ]
                         },
                         {
@@ -1572,14 +1572,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト\\mpd[rol]"
+                                "Mikoto\\mpd[rol]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うぇえ…おねぇちゃんも一緒に隠れようよ…」"
+                                "Uweh... Onee-chan, let's hide together..."
                             ]
                         },
                         {
@@ -1590,21 +1590,21 @@
                                 0,
                                 0,
                                 2,
-                                "赤い髪の少女"
+                                "Red-haired girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふふ…二人も入れないでしょ。"
+                                "Hehehe... We can't both hide here. We'll\ndefinitely meet again, so stay put, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "必ずまた会えるから、じっとしててね」"
+                                ""
                             ]
                         },
                         {
@@ -1615,14 +1615,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト\\mpd[rol]"
+                                "Mikoto\\mpd[rol]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「約束だよ…？絶対迎えに来てね…？」"
+                                "It's a promise, right...? You'll definitely come\nto get me, right...?"
                             ]
                         },
                         {
@@ -1715,14 +1715,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ガキだ！ガキがいたぞ！」"
+                                "It's a kid! There's a kid here!"
                             ]
                         },
                         {
@@ -1880,14 +1880,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「帝国軍から飯を盗むなんて罰当たりなクソガキだ」"
+                                "What a damn brat, stealing food from the Imperial\nArmy."
                             ]
                         },
                         {
@@ -1898,21 +1898,21 @@
                                 0,
                                 0,
                                 2,
-                                "赤い髪の少女"
+                                "Red-haired girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふん！元々私たちから奪っていったものでしょ！"
+                                "Hmph! It was originally stolen from us in the\nfirst place! Because of that... my mother is..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そのせいで…お母さんは…」"
+                                ""
                             ]
                         },
                         {
@@ -1923,14 +1923,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「コソドロがごちゃごちゃうるせぇ～！」"
+                                "This damn thief is so noisy!"
                             ]
                         },
                         {
@@ -2101,14 +2101,14 @@
                                 0,
                                 0,
                                 2,
-                                "赤い髪の少女"
+                                "Red-haired girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うぎゃぁあああっ！」"
+                                "Ugyaaaah!"
                             ]
                         },
                         {
@@ -2119,14 +2119,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぎゃはは！少しは反省したか！」"
+                                "Gyahahaha! Have you reflected even a little?"
                             ]
                         },
                         {
@@ -2160,21 +2160,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お、そいつか例のコソ泥は…！こいつのせいで俺まで怒られた！"
+                                "Oh, so it's that thief...! Because of this guy, I\ngot scolded too! I'll give him a piece of my mind."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お礼をしてやるぜ」"
+                                ""
                             ]
                         },
                         {
@@ -2192,7 +2192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "帝国軍人が落ちていた酒瓶を拾い、構える"
+                                "The Imperial Soldier picks up a fallen liquor\nbottle and readies himself."
                             ]
                         },
                         {
@@ -2262,14 +2262,14 @@
                                 0,
                                 0,
                                 2,
-                                "赤い髪の少女"
+                                "Red-haired girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いぎぃいいいぃいいっ!?」"
+                                "Ugyaaaah!?"
                             ]
                         },
                         {
@@ -2280,21 +2280,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぎゃはは！少しは反省したか！"
+                                "Gyahahaha! Have you reflected even a little? You\nhave comrades, right? If you talk, I'll let you\ngo."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "仲間がいるんだろ？喋ったら許してやるぞ？」"
+                                ""
                             ]
                         },
                         {
@@ -2328,14 +2328,14 @@
                                 0,
                                 0,
                                 2,
-                                "赤い髪の少女"
+                                "The girl with red hair"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うぅう…ふぐぅ…っ！」"
+                                "Uuu... Fuguu...!"
                             ]
                         },
                         {
@@ -2346,14 +2346,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お、なんだなかなか根性あるな」"
+                                "Oh, you've got quite the spirit, don't you?"
                             ]
                         },
                         {
@@ -2423,14 +2423,14 @@
                                 0,
                                 0,
                                 2,
-                                "赤い髪の少女"
+                                "Red-haired girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぎゃぁあああああぁああああああああっ！」"
+                                "Gyaaaaaaaaaaaaah!"
                             ]
                         },
                         {
@@ -2464,14 +2464,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうだ？喋る気になったか？」"
+                                "Well? Are you ready to talk?"
                             ]
                         },
                         {
@@ -2482,14 +2482,14 @@
                                 0,
                                 0,
                                 2,
-                                "赤い髪の少女"
+                                "Red-haired girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（だめ…お母さんと約束したんだ…ミコトは私が守るって…）"
+                                "(No... I promised mom... I said I would protect\nMikoto...)"
                             ]
                         },
                         {
@@ -2500,21 +2500,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「仕方ねぇ、帝国軍に歯向かった罰だ、"
+                                "Can't be helped, this is the punishment for\nopposing the Imperial Army. Regret that you\nweren't born into the Empire!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "帝国に産まれなかった事を後悔しな！」"
+                                ""
                             ]
                         },
                         {
@@ -2584,14 +2584,14 @@
                                 0,
                                 0,
                                 2,
-                                "赤い髪の少女"
+                                "Red-haired girl"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぃっぎぃいいいいいいっぃい!?」"
+                                "Iggyaaaaaaaaaaah!?"
                             ]
                         },
                         {
@@ -2602,14 +2602,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はははは！これで少しは食い意地も収まるだろ」"
+                                "Hahaha! This should curb your appetite a bit."
                             ]
                         },
                         {
@@ -2650,14 +2650,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お前ら、無くなった食糧の量からして犯人はまだいるはずだ、"
+                                "You guys, judging from the amount of food that's\ngone missing, there should still be a culprit\naround. Find them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "探せ」"
+                                ""
                             ]
                         },
                         {
@@ -2668,21 +2668,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おらっ！クソガキ！まだ死ぬんじゃねぇぞ。"
+                                "Hey! You little shit! Don't die just yet. I'm\ngoing to punish you thoroughly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "たっぷり懲らしめてやる」"
+                                ""
                             ]
                         },
                         {

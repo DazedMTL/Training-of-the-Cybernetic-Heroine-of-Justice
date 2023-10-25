@@ -1692,14 +1692,14 @@
                                 0,
                                 0,
                                 2,
-                                "少年の声"
+                                "Boy's Voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「博士！ハンバード博士！大変だ！女の子が落ちてたよ！」"
+                                "Doctor! Doctor Humbert! It's terrible! There was a\ngirl who fell!"
                             ]
                         },
                         {
@@ -1710,14 +1710,14 @@
                                 0,
                                 0,
                                 2,
-                                "老人の声"
+                                "Old Man's Voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「元の場所に戻してきなさい！エロガキめ！」"
+                                "Return it to its original place! You perverted\nbrat!"
                             ]
                         },
                         {
@@ -1728,14 +1728,14 @@
                                 0,
                                 0,
                                 2,
-                                "少年の声"
+                                "Boy's Voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「聞いてよ！死にかけなんだ、全身ひどい怪我で…」"
+                                "Listen! She's on the brink of death, with terrible\ninjuries all over her body..."
                             ]
                         },
                         {
@@ -1746,21 +1746,21 @@
                                 0,
                                 0,
                                 2,
-                                "少年の声"
+                                "Boy's Voice"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しっかりして！聞こえる？博士は凄い人なんだきっと助かるよ！"
+                                "Hang in there! Can you hear me? The doctor is an\namazing person, you'll surely be saved! My name\nis..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ぼくの名前は…」"
+                                ""
                             ]
                         },
                         {
@@ -1785,7 +1785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "会いたいな…シュウ…。"
+                                "I want to see you... Shuu...."
                             ]
                         },
                         {
@@ -1995,7 +1995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "国連軍の攻撃に紛れ、俺は総統府から脱出した。"
+                                "Amidst the United Nations' attack, I escaped from\nthe Presidential Palace."
                             ]
                         },
                         {
@@ -2013,21 +2013,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "帝国軍を俺たちの国から一度は追い出した国連軍と"
+                                "The United Nations and Resistance forces, who once\ndrove the Imperial Army out of our country, have\nsince been disorganized, and interference from the\nEmpire continues to this day."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レジスタンスだったが、その後は足並みが揃わず、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "帝国からの干渉は今もなお続いている。"
+                                ""
                             ]
                         },
                         {

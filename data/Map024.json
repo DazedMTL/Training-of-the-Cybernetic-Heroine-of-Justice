@@ -4598,28 +4598,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オークション会場ロビー。"
+                                "Auction venue lobby. Right now, the merchandise\nprepared by the Imperial Army was in the middle of\na demonstration for the auction."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今は帝国軍によって用意された『商品』がオークションに向け"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "実演を行っているところだった。"
+                                ""
                             ]
                         },
                         {
@@ -4671,21 +4671,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「へへへ…わかってるな、妙な真似はせず、"
+                                "Hehehe... You understand, don't you? Don't do\nanything strange, just quietly flatter the\nexecutives."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おとなしく重役たちに媚びてこい」"
+                                ""
                             ]
                         },
                         {
@@ -4703,7 +4703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くっ…絶対殺す…」"
+                                "Grr... I'll definitely kill you..."
                             ]
                         },
                         {
@@ -4714,21 +4714,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おかしな真似をしたらウサ耳爆弾が爆発して"
+                                "If you try anything funny, the bunny ear bomb will\nexplode and your brains will be mush, you know~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "脳みそがぐちゃぐちゃになるからな～」"
+                                ""
                             ]
                         },
                         {
@@ -4762,7 +4762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うるさいわね！わかってるわよ！バカ！」"
+                                "Shut up! I get it! Idiot!"
                             ]
                         },
                         {
@@ -4773,39 +4773,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「といっても、媚薬効果のあるナノマシンをしこたま"
+                                "Even so, we've pumped you full of nanomachines\nwith aphrodisiac effects, so it must be tough just\nstanding there, huh~?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ぶち込んでやったからなぁ、立ってるだけでも大変だろ～？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                "エスカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…っ！」"
+                                ""
                             ]
                         },
                         {
@@ -4823,7 +4805,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（大丈夫…すぐシュウが助けに来てくれる…）"
+                                "...!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "エスカ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "(It's okay... Shuu will come to rescue me soon...)"
                             ]
                         },
                         {
@@ -4850,14 +4850,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役"
+                                "Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おぉ～？これかね今回のレアものは？」"
+                                "Oh? Is this the rare item for this time?"
                             ]
                         },
                         {
@@ -4868,14 +4868,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こいつ、しっかりあいさつしないか！」"
+                                "Have this one give a proper greeting!"
                             ]
                         },
                         {
@@ -4893,14 +4893,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…元レジスタンスのサイボーグ…エスカです…。"
+                                "...I'm Esuka, a former resistance cyborg... I'll\ndo my best to be a pet that everyone will like\ntoday..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本日は皆さまのペットとして気に入られるようがんばります…」"
+                                ""
                             ]
                         },
                         {
@@ -4911,14 +4911,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役"
+                                "Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほっほっほ。これが噂の…どれどれ」"
+                                "Hohoho. So this is the rumored... let's see."
                             ]
                         },
                         {
@@ -4955,21 +4955,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役"
+                                "Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おぉ～いがいとやわらかいんだなぁ。"
+                                "Oh~ surprisingly soft, aren't you? Were you\ndealing with men even in the resistance, hmm?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レジスタンスでも男の相手をしてたのかな？ん？」"
+                                ""
                             ]
                         },
                         {
@@ -4987,7 +4987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（コロス、コロス、コロス、コロス…！）"
+                                "(Roll, roll, roll, roll...!)"
                             ]
                         },
                         {
@@ -5043,7 +5043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひゃっ！」"
+                                "Hyah!"
                             ]
                         },
                         {
@@ -5054,21 +5054,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役"
+                                "Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほほほほ！この可愛い反応だとレジスタンスには"
+                                "Hohoho! With such a cute reaction, it seems there\nwere no worthy men in the resistance, huh?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "甲斐性のある男は居なかったようだねぇ」"
+                                ""
                             ]
                         },
                         {
@@ -5102,7 +5102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こいつ…！」"
+                                "This guy...!"
                             ]
                         },
                         {
@@ -5113,14 +5113,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役"
+                                "Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふぅむ、もっと反応が見たい、玩具を持ってきたまえ」"
+                                "Hmm, I want to see more reactions, bring the toy."
                             ]
                         },
                         {
@@ -5168,7 +5168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…っ！」"
+                                "...!"
                             ]
                         },
                         {
@@ -5179,14 +5179,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほら、さっさと持ってこないか」"
+                                "Hey, hurry up and bring it over."
                             ]
                         },
                         {
@@ -5204,7 +5204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…わかってるわよ！」"
+                                "...I understand!"
                             ]
                         },
                         {
@@ -5222,7 +5222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『商品』は3種類自分で選んでもってくるのがルールだ。"
+                                "The rule is to choose and bring three types of\ngoods by yourself."
                             ]
                         },
                         {
@@ -5256,7 +5256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…ほら、持ってきたわよ」"
+                                "...Here, I brought them."
                             ]
                         },
                         {
@@ -5267,14 +5267,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役"
+                                "Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほほほ！エスカちゃんはこういうのが好みか～」"
+                                "Hohoho! So, Esuka-chan likes this sort of thing~"
                             ]
                         },
                         {
@@ -5292,7 +5292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、あんたが持って来いっていうから仕方なく…！」"
+                                "I... I only brought them because you told me\nto...!"
                             ]
                         },
                         {
@@ -5303,14 +5303,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役"
+                                "Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ではこれから試すか」"
+                                "Then, shall we try them out now?"
                             ]
                         },
                         {
@@ -5378,7 +5378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んんぅ…っ！」"
+                                "Nnng...!"
                             ]
                         },
                         {
@@ -5389,14 +5389,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役"
+                                "Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふふ、なんだ我慢しなくてもいいんだぞ」"
+                                "Fufufu, you don't have to hold back, you know."
                             ]
                         },
                         {
@@ -5414,7 +5414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぅ、うるさ…い」"
+                                "Ugh, annoying..."
                             ]
                         },
                         {
@@ -5458,7 +5458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひゃぁあっ!?」"
+                                "Hyaaah!?"
                             ]
                         },
                         {
@@ -5469,14 +5469,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役"
+                                "Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほっほ、そうそう素直に鳴けばいいんだ」"
+                                "Hohoho, that's right, it's good to moan honestly."
                             ]
                         },
                         {
@@ -5503,14 +5503,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国将軍"
+                                "Imperial General"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おぉ、やっておりますな、どれ私も試させてもらいますか」"
+                                "Oh, I see you're already at it. May I give it a\ntry as well?"
                             ]
                         },
                         {
@@ -5521,14 +5521,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役"
+                                "Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「これはこれは、お久しぶりです将軍」"
+                                "Well, well, long time no see, General."
                             ]
                         },
                         {
@@ -5596,7 +5596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁあんっ！」"
+                                "Ahh, ahn!"
                             ]
                         },
                         {
@@ -5607,21 +5607,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国軍人"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はっはっは、こいつにはずいぶん迷惑をかけられましたからな。"
+                                "Hahaha, she's caused us quite a bit of trouble.\nI've been wanting to get my hands on her for a\nwhile now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ぜひとも手に入れたいと思っていたのです」"
+                                ""
                             ]
                         },
                         {
@@ -5632,14 +5632,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役"
+                                "Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おぉ、これは手ごわい相手ができてしまいましたな」"
+                                "Oh, it seems we've got ourselves a formidable\nopponent."
                             ]
                         },
                         {
@@ -5657,7 +5657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぅ…もう…やめっ…！」"
+                                "Ugh... Enough... Stop...!"
                             ]
                         },
                         {
@@ -5715,7 +5715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁ…ひっ」"
+                                "Ah... hic!"
                             ]
                         },
                         {
@@ -5726,21 +5726,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国将軍"
+                                "Imperial General"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふふ、だが手に入れるにしても"
+                                "Hehehe, but even if we get our hands on her, it's\ntroublesome to discipline her if she's too\ndefiant."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あまり気が強いと躾が面倒だな」"
+                                ""
                             ]
                         },
                         {
@@ -5751,21 +5751,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ご心配なく、"
+                                "Don't worry, we'll make sure to train her into a\nsubmissive female before we deliver her."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お届けの際には従順なメスになるようしっかり躾けますので」"
+                                ""
                             ]
                         },
                         {
@@ -5799,7 +5799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んぅ…っ！」"
+                                "Nngh...!"
                             ]
                         },
                         {
@@ -5810,21 +5810,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国将軍"
+                                "Imperial General"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はははは！なんだもう限界か？優しい人間に買ってもらえるよう"
+                                "Hahaha! What's this, already at your limit? Make\nsure to appeal properly so a kind person will buy\nyou."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しっかりアピールしておくんだな」"
+                                ""
                             ]
                         },
                         {
@@ -5842,7 +5842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（い…いや…こんな下衆どもの前でぇ…）"
+                                "(N-No... Not in front of these lowlifes...)"
                             ]
                         },
                         {
@@ -5912,7 +5912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁあああああああ…っ！」"
+                                "Ahhhhhh...!"
                             ]
                         },
                         {
@@ -5923,14 +5923,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役"
+                                "Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほっほっほ、人前でみっともない。これは躾が大変そうですな」"
+                                "Hohoho, how disgraceful in public. This seems like\nit's going to be quite a task to discipline her."
                             ]
                         },
                         {
@@ -5941,21 +5941,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国将軍"
+                                "Imperial General"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いやぁ、なかなか可愛らしいじゃないか"
+                                "Well, isn't she quite adorable? I'd like to make\nher cry out shamelessly every night under my\ncommand."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私のもとで毎晩みっともなく鳴かせてみたい」"
+                                ""
                             ]
                         },
                         {
@@ -5989,7 +5989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぅう…さいぁく…」"
+                                "Ugh... The worst..."
                             ]
                         },
                         {
@@ -6000,14 +6000,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国将軍"
+                                "Imperial General"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ははは、まだまだ沢山客は来る。しっかりアピールするんだな」"
+                                "Hahaha, there are still many customers to come.\nMake sure to appeal properly."
                             ]
                         },
                         {
@@ -6025,14 +6025,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "将軍と呼ばれた男がエスカに値札をつける。"
+                                "The man called the general puts a price tag on\nEsuka. The auction starts from the highest price\non the tag."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "値札の中で一番高い価格からオークションが始まる仕組みだ"
+                                ""
                             ]
                         },
                         {
@@ -6059,14 +6059,14 @@
                                 0,
                                 0,
                                 2,
-                                "来場客"
+                                "Visitor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おぉ、こいつがレジスタンスのサイボーグか」"
+                                "Oh, so this is the Resistance's cyborg?"
                             ]
                         },
                         {
@@ -6077,14 +6077,14 @@
                                 0,
                                 0,
                                 2,
-                                "来場客"
+                                "Visitor"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どれ、俺にも試させてくれ」"
+                                "Let me have a try as well."
                             ]
                         },
                         {
@@ -6102,7 +6102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…っ、い、いや…」"
+                                "...N-No... Stop..."
                             ]
                         },
                         {
@@ -6139,7 +6139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "数時間後"
+                                "Several hours later"
                             ]
                         },
                         {
@@ -6157,14 +6157,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「皆様、そろそろオークションが開催されます。"
+                                "Ladies and gentlemen, the auction will soon\ncommence. Please make your way to the venue."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "会場へ移動をお願いします」"
+                                ""
                             ]
                         },
                         {
@@ -6196,14 +6196,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うへ、こいつはひどいな。まぁ今回の目玉だからな」"
+                                "Ugh, this is terrible. Well, she's the main\nattraction this time around."
                             ]
                         },
                         {
@@ -6221,7 +6221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぉ、ぉお…」"
+                                "A-Ah..."
                             ]
                         },
                         {
@@ -6232,21 +6232,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぎゃはは高値が付きそうで良かったなエスカちゃん"
+                                "Gyahahaha, it looks like you're going to fetch a\nhigh price, Esuka-chan. Make sure to liven up the\nauction for us."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オークションを盛り上げてくれよ」"
+                                ""
                             ]
                         },
                         {

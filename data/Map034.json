@@ -730,14 +730,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふぁ～休憩休憩」"
+                                "Phew~ Break time, break time."
                             ]
                         },
                         {
@@ -748,14 +748,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しかし、総統様様だぜ、新しく喫煙所を作ってくれるとは」"
+                                "But, it's all thanks to President Waltin, for\ncreating a new smoking area for us."
                             ]
                         },
                         {
@@ -766,14 +766,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほんとにな、最近は喫煙者は肩身が狭いぜ…」"
+                                "Really, lately us smokers have been feeling quite\nuncomfortable..."
                             ]
                         },
                         {
@@ -784,14 +784,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ははは！それにしてもふざけた灰皿だなぁ、笑えるぜ」"
+                                "Hahaha! Even so, what a ridiculous ashtray, it's\nhilarious."
                             ]
                         },
                         {
@@ -825,14 +825,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "帝国軍に捕らえられたエスカは頭部から"
+                                "Esuka, who was captured by the Imperial Army, had\nbeen severed from the head and remodeled into an\nashtray."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "切断され灰皿として改造されていた。"
+                                ""
                             ]
                         },
                         {
@@ -902,7 +902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いぎぃっ!?」"
+                                "Igii!?"
                             ]
                         },
                         {
@@ -913,14 +913,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぎゃはは！俺たちに歯向かった罰だ、しっかり反省しろよ？」"
+                                "Gyahahaha! This is your punishment for opposing\nus, make sure you reflect on it, okay?"
                             ]
                         },
                         {
@@ -990,7 +990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぉおぉおっ！」"
+                                "Oohh!"
                             ]
                         },
                         {
@@ -1001,14 +1001,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しっかり働いたら元に戻してもらえるんだろ？がんばれよ～」"
+                                "If you work hard, you'll be returned to your\noriginal form, right? Keep it up~"
                             ]
                         },
                         {
@@ -1019,21 +1019,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さてと仕事に戻るか、"
+                                "Well, time to get back to work. I have to go\naround and capture your comrades after all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お前の仲間を捕まえて回らないといけないからな」"
+                                ""
                             ]
                         },
                         {
@@ -1093,21 +1093,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ははは！今回のレジスタンスは手ごたえがなかったな"
+                                "Hahaha! This time, the resistance didn't put up\nmuch of a fight. They were begging for their\nlives."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "泣いて命乞いしてたぜ」"
+                                ""
                             ]
                         },
                         {
@@ -1125,7 +1125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁぁぅ…」"
+                                "Aahh..."
                             ]
                         },
                         {
@@ -1136,14 +1136,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さすがに何か月も経つと反応が悪いな」"
+                                "As expected, after several months, the response\nhas gotten worse."
                             ]
                         },
                         {
@@ -1213,7 +1213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぎゃぁああああああっつ！」"
+                                "Gyaaaaaaaaaah!"
                             ]
                         },
                         {
@@ -1224,21 +1224,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほらほら、もっと大きい声で叫べば"
+                                "Come on, if you scream louder, someone might come\nto help you, you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だれか助けにきてくれるかもしれないぞ？」"
+                                ""
                             ]
                         },
                         {
@@ -1308,7 +1308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁああぁあっ！ぁあああああああ！」"
+                                "Aaaaaah! Aaaaaaaaaa!"
                             ]
                         },
                         {
@@ -1319,14 +1319,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「弱っちい仲間でお前も残念だったな」"
+                                "It's a shame that you have such weak comrades,\nisn't it?"
                             ]
                         },
                         {
@@ -1337,14 +1337,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ははは！さて、もう一仕事するか」"
+                                "Hahaha! Well, time to get back to work."
                             ]
                         },
                         {
@@ -1411,14 +1411,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふぅ～疲れた疲れた、仕事の後の一服は格別だな！」"
+                                "Phew~ I'm tired, I'm tired. A smoke after work is\nexceptional!"
                             ]
                         },
                         {
@@ -1488,7 +1488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うぐぅ…うぅう…」"
+                                "Uguu... Uuu..."
                             ]
                         },
                         {
@@ -1499,14 +1499,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しかし、こいつの体はどこいったんだ？」"
+                                "But where did this one's body go?"
                             ]
                         },
                         {
@@ -1517,14 +1517,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さぁ？」"
+                                "Well?"
                             ]
                         },
                         {
@@ -1561,14 +1561,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お、上官たちいないみたいだぜ…！」"
+                                "Oh, it seems like the officers are not around...!"
                             ]
                         },
                         {
@@ -1579,14 +1579,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今のうちだな」"
+                                "Now's the time."
                             ]
                         },
                         {
@@ -1613,21 +1613,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「へっ！散々暴れやがって、"
+                                "Hmph! You've been causing such a ruckus, because\nof you my bonus got cut, didn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お前のせいでボーナスカットされちまったじゃねーか」"
+                                ""
                             ]
                         },
                         {
@@ -1690,14 +1690,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うぉおお！弱者の怒りを思い知れ…！」"
+                                "Whoa! Experience the wrath of the weak...!"
                             ]
                         },
                         {
@@ -1708,14 +1708,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「へへへ…！しっかり反省しろよ！」"
+                                "Hehehe...! Make sure you reflect on this!"
                             ]
                         },
                         {
@@ -1754,7 +1754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "翌朝"
+                                "The next morning"
                             ]
                         },
                         {
@@ -1770,21 +1770,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うげぇ…またかよ…"
+                                "Ugh... Again? Seriously, make sure to clean up\nproperly..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まったく、しっかり片付けていけよなぁ…」"
+                                ""
                             ]
                         },
                         {

@@ -2615,7 +2615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここって…」"
+                                "This place is..."
                             ]
                         },
                         {
@@ -2645,21 +2645,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「へへへ！商品にする前にしっかりペットとして"
+                                "Hehehe! Before we turn her into merchandise, we\nneed to properly train her as a pet...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "調教しておかねぇとな…！」"
+                                ""
                             ]
                         },
                         {
@@ -2677,7 +2677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひどすぎる…！見ていられないわ！」"
+                                "This is too cruel...! I can't stand to watch!"
                             ]
                         },
                         {
@@ -2695,7 +2695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「落ち着けエスカ…！今は抑えるんだ…！」"
+                                "Calm down, Esuka...! We have to hold back for\nnow...!"
                             ]
                         },
                         {
@@ -2713,7 +2713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも…」"
+                                "But..."
                             ]
                         },
                         {
@@ -2731,14 +2731,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※この後選択肢が出ますセーブしますか？"
+                                "※There will be a choice after this. Do you want to\nsave? (Depending on your choice, it may result in\na game over)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（選択肢によってはゲームオーバーになります）"
+                                ""
                             ]
                         },
                         {
@@ -2746,8 +2746,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "セーブする",
-                                    "いいえ"
+                                    "Save",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2806,7 +2806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうする"
+                                "What to do?"
                             ]
                         },
                         {
@@ -2814,8 +2814,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "やっぱりみてられない！",
-                                    "ごめんね…"
+                                    "I just can't stand by and watch!",
+                                    "I'm sorry"
                                 ],
                                 1,
                                 0,
@@ -2846,7 +2846,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「見捨てるなんてできない！」"
+                                "I can't just abandon them!"
                             ]
                         },
                         {
@@ -2982,14 +2982,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「な、なんだこいつ!?どこから入ってきた!?」"
+                                "Wh-what the hell!? Where did he come from!?"
                             ]
                         },
                         {
@@ -3007,7 +3007,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「どりゃあ！」"
+                                "Take this!"
                             ]
                         },
                         {
@@ -3125,14 +3125,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ひぃん！」"
+                                "Eek!"
                             ]
                         },
                         {
@@ -3181,7 +3181,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「さぁ！今のうちに私と一緒に…！」"
+                                "Now! While we have the chance, come with me...!"
                             ]
                         },
                         {
@@ -3210,14 +3210,14 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
+                                "Woman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ご、ご主人様に…手を出さないで…！」"
+                                "Please... don't lay a hand on my master...!"
                             ]
                         },
                         {
@@ -3341,7 +3341,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ど、どうして…」"
+                                "Wh-why..."
                             ]
                         },
                         {
@@ -3352,21 +3352,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「へへへ…調教の成果さ、そいつは"
+                                "Hehehe... It's the result of our training. She's\nhappier being our pet...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "俺たちにペットにされてた方が幸せなのさ…！」"
+                                ""
                             ]
                         },
                         {
@@ -3384,7 +3384,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「そ、んな…」"
+                                "No... way..."
                             ]
                         },
                         {
@@ -3439,7 +3439,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ごめん…ごめんね…」"
+                                "I'm sorry... I'm so sorry..."
                             ]
                         },
                         {
@@ -3691,7 +3691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここって…」"
+                                "This place is..."
                             ]
                         },
                         {
@@ -3721,21 +3721,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「へへへ！商品にする前にしっかりペットとして"
+                                "Hehehe! Before we turn her into merchandise, we\nneed to properly train her as a pet...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "調教しておかねぇとな…！」"
+                                ""
                             ]
                         },
                         {
@@ -3760,7 +3760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひどすぎる…！見ていられないわ！」"
+                                "This is too cruel...! I can't stand to watch!"
                             ]
                         },
                         {
@@ -3778,7 +3778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「落ち着けエスカ…！今は抑えるんだ…！」"
+                                "Calm down, Esuka...! We have to hold back for\nnow...!"
                             ]
                         },
                         {
@@ -3796,7 +3796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも…」"
+                                "But..."
                             ]
                         },
                         {
@@ -3814,14 +3814,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※この後選択肢が出ますセーブしますか？"
+                                "※A choice will appear after this. Do you want to\nsave? (Depending on your choice, it may result in\na game over.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（選択肢によってはゲームオーバーになります）"
+                                ""
                             ]
                         },
                         {
@@ -3829,8 +3829,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "セーブする",
-                                    "いいえ"
+                                    "Save",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3889,7 +3889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうする"
+                                "What to do?"
                             ]
                         },
                         {
@@ -3897,8 +3897,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "やっぱりみてられない！",
-                                    "ごめんね…"
+                                    "I just can't stand by and watch!",
+                                    "I'm sorry"
                                 ],
                                 1,
                                 0,
@@ -3929,7 +3929,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「見捨てるなんてできない！」"
+                                "I can't just abandon them!"
                             ]
                         },
                         {
@@ -4065,14 +4065,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「な、なんだこいつ!?どこから入ってきた!?」"
+                                "Wh-what the hell!? Where did he come from!?"
                             ]
                         },
                         {
@@ -4090,7 +4090,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「どりゃあ！」"
+                                "Take this!"
                             ]
                         },
                         {
@@ -4208,14 +4208,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ひぃん！」"
+                                "Eek!"
                             ]
                         },
                         {
@@ -4264,7 +4264,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「さぁ！今のうちに私と一緒に…！」"
+                                "Now! While we have the chance, come with me...!"
                             ]
                         },
                         {
@@ -4293,14 +4293,14 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
+                                "Woman"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ご、ご主人様に…手を出さないで…！」"
+                                "Please... don't lay a hand on my master...!"
                             ]
                         },
                         {
@@ -4424,7 +4424,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ど、どうして…」"
+                                "Wh-why..."
                             ]
                         },
                         {
@@ -4435,21 +4435,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「へへへ…調教の成果さ、そいつは"
+                                "Hehehe... It's the result of our training. She's\nhappier being our pet...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "俺たちにペットにされてた方が幸せなのさ…！」"
+                                ""
                             ]
                         },
                         {
@@ -4467,7 +4467,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「そ、んな…」"
+                                "Th-that can't be..."
                             ]
                         },
                         {
@@ -4522,7 +4522,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ごめん…ごめんね…」"
+                                "I'm sorry... I'm really sorry..."
                             ]
                         },
                         {

@@ -2164,7 +2164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You're misunderstanding the meaning of your\nwords. Seriously, we need to retreat soon."
+                                "You're misunderstanding the meaning of your words.\nSeriously, we need to retreat soon."
                             ]
                         },
                         {
@@ -2744,7 +2744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Don't get carried away. However, there might be\nguys looking for the merchandise nearby, just\nlike earlier."
+                                "Don't get carried away. However, there might be\nguys looking for the merchandise nearby, just like\nearlier."
                             ]
                         },
                         {
@@ -3105,7 +3105,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That's true. But if they're still gathering\nprizes now, it probably won't happen today or\ntomorrow. Let's prepare thoroughly and try again."
+                                "That's true. But if they're still gathering prizes\nnow, it probably won't happen today or tomorrow.\nLet's prepare thoroughly and try again."
                             ]
                         },
                         {

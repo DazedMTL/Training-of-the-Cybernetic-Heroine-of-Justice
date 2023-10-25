@@ -4652,7 +4652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ、はぁ、なんとか騒ぎに乗じて中にはいれたが…」"
+                                "Haa, haa, somehow I managed to sneak in during the\ncommotion..."
                             ]
                         },
                         {
@@ -4670,7 +4670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エスカ…どこにいる…」"
+                                "Esuka... where are you..."
                             ]
                         },
                         {
@@ -4700,14 +4700,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※シュウは戦闘能力が無いので、"
+                                "*Please be careful, as Shuu has no combat\nabilities, so make sure he doesn't get caught by\nthe enemy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "敵に捕まらないよう気を付けて下さい。"
+                                ""
                             ]
                         },
                         {
@@ -5107,7 +5107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エスカの反応…？この先にいるのか！」"
+                                "Esuka's reaction...? Is she ahead of us!"
                             ]
                         },
                         {
@@ -5125,7 +5125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※最終決戦ですセーブしますか？"
+                                "This is the final battle. Would you like to save?"
                             ]
                         },
                         {
@@ -5133,8 +5133,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "セーブする",
-                                    "いいえ"
+                                    "Save",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5202,7 +5202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エスカ…必ず助け出す…！」"
+                                "Esuka... I will definitely rescue you...!"
                             ]
                         },
                         {
@@ -5306,7 +5306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エスカの反応…？この先にいるのか！」"
+                                "Esuka's reaction...? Is she ahead?!"
                             ]
                         },
                         {
@@ -5324,7 +5324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※最終決戦ですセーブしますか？"
+                                "※This is the final battle, would you like to save?"
                             ]
                         },
                         {
@@ -5332,8 +5332,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "セーブする",
-                                    "いいえ"
+                                    "Save",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5401,7 +5401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エスカ…必ず助け出す…！」"
+                                "Esuka... I will definitely rescue you...!"
                             ]
                         },
                         {

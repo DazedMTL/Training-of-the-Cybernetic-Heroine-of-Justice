@@ -4160,14 +4160,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（な…なに…？身体が動かない…？"
+                                "(Wh...what...? I can't move my body...? What's\nhappening to me...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私どうなってるの…？）"
+                                ""
                             ]
                         },
                         {
@@ -4194,14 +4194,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Empire Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぶひひ！エスカちゃん！まちにまった結婚式ぶひね！」"
+                                "Buhaha! Esuka-chan! The long-awaited wedding,\nbuhi!"
                             ]
                         },
                         {
@@ -4212,14 +4212,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今日はお客様も招待してあるぶひよぉ」"
+                                "We've even invited guests for today, buhi!"
                             ]
                         },
                         {
@@ -4230,14 +4230,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エスカちゃんの脳みそとシュウくん脳みそぶひぃ！」"
+                                "Esuka-chan's brain and Shuu-kun's brain, buhii!"
                             ]
                         },
                         {
@@ -4271,14 +4271,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（う、うそでしょ…？私の身体…!?"
+                                "(N...no way...? My body...!? Does this mean I'm\njust a brain now...? And... Shuu too...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今私は脳みそだけってこと…？それに…シュウも…？）"
+                                ""
                             ]
                         },
                         {
@@ -4305,35 +4305,35 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あれ？エスカちゃんの脳みそがこっちにあるから、"
+                                "Huh? Since Esuka-chan's brain is over here, does\nthat mean my bride is just a doll, buhi? Hmm,\nphilosophy buhi! Well, as long as I can do as I\nplease with Esuka-chan's body, either way is fine\nwith me, buhii."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ぼくちんのお嫁さんはただの人形ぶひ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "う～ん哲学ぶひ！まぁぼくはエスカちゃんの体を好きにできれば"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どっちでも良いぶひぃ」"
+                                ""
                             ]
                         },
                         {
@@ -4344,21 +4344,21 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぼくたちの事は機械を通して直接二人の脳に伝わっているぶひ！"
+                                "Our actions are being directly transmitted to both\nof your brains through the machine, buhi! We're\ngoing to show you some lovey-dovey stuff, buhi!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "らぶらぶな所をみせつけようねぶひ！」"
+                                ""
                             ]
                         },
                         {
@@ -4399,21 +4399,21 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おぉ？なんか反応してるぶひ！おこってるのかなぁ？"
+                                "Oh? You're reacting, buhi! Are you angry? Buhii!\nTry saying something, buhi!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ぶひひ！なんとか言ってみろぶひ！」"
+                                ""
                             ]
                         },
                         {
@@ -4424,14 +4424,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さぁエスカちゃん、誓いのラブラブキッスぶひ」"
+                                "Now, Esuka-chan, let's have our lovey-dovey kiss\nof vows, buhi."
                             ]
                         },
                         {
@@ -4484,21 +4484,21 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぶひぃ～エスカちゃんやわらかくて気持ちィぶひ～"
+                                "Buhii~ Esuka-chan, you're so soft and it feels\ngood, buhi~ I can't believe you're a cyborg, buhi."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "サイボーグとは思えないぶひぃ」"
+                                ""
                             ]
                         },
                         {
@@ -4532,14 +4532,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（や、やめてよ…あんたなんかが私の身体にキスしないで…"
+                                "(St...stop it... Don't you dare kiss my body... It\nshould be Shuu who...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本当はシュウと…）"
+                                ""
                             ]
                         },
                         {
@@ -4566,21 +4566,21 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「キスしてたら、ちんちんが元気になっちゃったぶひ、"
+                                "After kissing, my dick got all excited, buhi.\nThat's strange, even though I released inside\nEsuka-chan ten times yesterday."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おかしいなぁ昨日10発もエスカちゃんの中にだしたのに」"
+                                ""
                             ]
                         },
                         {
@@ -4591,14 +4591,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Enhanced Empire Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ちょうどいいからラブラブエッチもみてもらうぶひ～」"
+                                "Perfect timing, you'll get to watch some lovey-\ndovey sex, buhi~"
                             ]
                         },
                         {
@@ -4651,21 +4651,21 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぉお！気持ちいぶひ！"
+                                "Oh! It feels good, buhi! Even without a brain,\nEsuka-chan's body is twitching, buhii."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "脳みそがなくてもエスカちゃんの体がビクビク動いてるぶひぃ」"
+                                ""
                             ]
                         },
                         {
@@ -4688,35 +4688,35 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぶひゃはは！そういえばシュウ君はエスカちゃんと"
+                                "Buhahaha! Speaking of which, Shuu-kun, you've\nnever had sex with Esuka-chan, have you? Did you\nknow? Esuka-chan was saving her first kiss for\nyou, buhi."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "エッチした事なかったんだぶひねぇ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "知ってたぶひ？エスカちゃんは君のために"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ファーストキスを取っておいたぶひよ？」"
+                                ""
                             ]
                         },
                         {
@@ -4727,21 +4727,21 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それに君とのエッチを妄想してオナニーした事もあるんだぶひ～"
+                                "And there were times when I masturbated\nfantasizing about having sex with you, buhi~ It's\ntough when you have a boyfriend who's not\ndependable, buhi~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "甲斐性のない彼氏がいると大変ぶひね～」"
+                                ""
                             ]
                         },
                         {
@@ -4775,7 +4775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（もういや…もういやぁああ…！やめて！やめてぇえええ！）"
+                                "(No more... No more...! Stop it! Stop it!)"
                             ]
                         },
                         {
@@ -4793,28 +4793,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エスカの必死の懇願は、ただ脳内に反響するだけだった。"
+                                "Esuka's desperate pleas only echoed in her mind.\nHaving lost control of her body and reduced to a\nmere consciousness, all Esuka could do was watch\nthe information being sent from the outside..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "身体の自由を奪われ、意識だけの存在になったエスカは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "外部から送り付けられてくる情報を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ただ見ていることしかできなかった…"
+                                ""
                             ]
                         },
                         {
@@ -4884,21 +4884,21 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぉほっ！みっともないエスカちゃんの事考えたら"
+                                "Ohoh! Thinking about the disgraceful Esuka-chan\nmakes me cum a lot!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いっぱいでるぅ！」"
+                                ""
                             ]
                         },
                         {
@@ -4937,14 +4937,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もしかしてシュウ君もエスカちゃんでオナってたりて！」"
+                                "Could it be that you, Shuu-kun, also masturbated\nthinking about Esuka-chan!"
                             ]
                         },
                         {
@@ -4955,21 +4955,21 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もっとももう二度とオナニーすらできないぶひねぇ！"
+                                "But you won't even be able to masturbate ever\nagain, buhi! Buhahahahaha!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ぶひゃひゃひゃひゃひゃ！」"
+                                ""
                             ]
                         },
                         {
@@ -5013,7 +5013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エスカ達が捕らえられて数か月後…"
+                                "Several months after Esuka and the others were\ncaptured..."
                             ]
                         },
                         {
@@ -5024,14 +5024,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぶひゃはぁ…！エスカちゃんのおマンコ気持ちいぶひぃ～」"
+                                "Buhaha...! Esuka-chan's pussy feels so good,\nbuhii~"
                             ]
                         },
                         {
@@ -5042,28 +5042,28 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぶひゃ…？また反応が悪くなってきたぶひね～"
+                                "Buhya...? The response is getting worse again,\nbuhi~ I can do better when people are watching,\nbuhi! Pull yourself together, buhi!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ぼくちんは人に見られてる方が頑張れるぶひ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しっかりするぶひ！」"
+                                ""
                             ]
                         },
                         {
@@ -5133,7 +5133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強化帝国兵が壊れたエスカ達の脳を修復させる。"
+                                "The Strengthened Imperial Soldier repairs the\nbroken minds of Esuka and the others."
                             ]
                         },
                         {
@@ -5160,21 +5160,21 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぶひゃひゃひゃ！休んでる暇は無いぶひよ～"
+                                "Buhahahaha! There's no time to rest, buhi~ I'll\nshow off our lovey-dovey newlywed life, buhi~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ぼくたちのラブラブ新婚生活をみせつけてやるぶひ～」"
+                                ""
                             ]
                         },
                         {
@@ -5192,28 +5192,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エスカは何度も心を閉ざそうとしたが、"
+                                "Esuka tried to close off her mind many times, but\nthe Strengthened Imperial Soldier wouldn't allow\nit. Until the Strengthened Imperial Soldier got\nbored, Esuka was forced to watch as her body was\ntoyed with..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "強化帝国兵はそれを許さなかった。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "強化帝国兵が飽きるまで、エスカは自分の身体が玩具にされる姿を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "見せつけられることになった…。"
+                                ""
                             ]
                         },
                         {

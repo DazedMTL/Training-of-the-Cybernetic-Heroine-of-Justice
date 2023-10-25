@@ -661,21 +661,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "帝国兵に捕まってしまった…"
+                                "I was captured by the imperial soldiers... Some\ntime passed after that..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それからしばらく後…"
+                                ""
                             ]
                         },
                         {
@@ -698,7 +698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くっ！離せ！エスカ！エスカはどこだ…！」"
+                                "Damn it! Let go! Esuka! Where is Esuka...!"
                             ]
                         },
                         {
@@ -709,21 +709,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんだお前あのガラクタを助けに来たのか…"
+                                "What, you came to save that piece of junk...\nYou're quite the fool to come alone!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "たった一人とは舐められたもんだぜ！」"
+                                ""
                             ]
                         },
                         {
@@ -743,14 +743,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「へへへ…そんなに会いたいなら合わせてやるよ」"
+                                "Hehehe... If you want to see her that badly, I'll\narrange it for you."
                             ]
                         },
                         {
@@ -801,14 +801,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エスカ…！そんな…」"
+                                "Esuka...! No way..."
                             ]
                         },
                         {
@@ -819,21 +819,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お前が捕まったって聞いたらこんなになるまで大暴れしてな、"
+                                "When we heard you were captured, you caused such a\nruckus until you ended up like this. It was quite\nthe ordeal! Hyahahaha!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大変だったぜ！ひゃははは！」"
+                                ""
                             ]
                         },
                         {
@@ -863,7 +863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エスカの救出に失敗してしまった…。"
+                                "I failed to rescue Esuka...."
                             ]
                         },
                         {

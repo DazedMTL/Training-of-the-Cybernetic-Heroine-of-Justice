@@ -4135,7 +4135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぅ…ん…」"
+                                "Uuh... Mm..."
                             ]
                         },
                         {
@@ -4146,14 +4146,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵\\mpd[b]"
+                                "Strengthened Imperial Soldier\\mpd[b]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぶひひひ！起きたぶひねぇ」"
+                                "Buhahaha! You're awake, huh?"
                             ]
                         },
                         {
@@ -4215,7 +4215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「な、解きなさいよこの拘束！」"
+                                "U-Untie these restraints now!"
                             ]
                         },
                         {
@@ -4226,21 +4226,21 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いやだぶひ～"
+                                "No way, buhi~ You're going to undergo my\ninterrogation from now on, buhi~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お前はこれからぼくちんの尋問をうけてもらうぶひ～」"
+                                ""
                             ]
                         },
                         {
@@ -4258,7 +4258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（なんとか隙をつくらないと）"
+                                "(I have to somehow create an opening...)"
                             ]
                         },
                         {
@@ -4292,14 +4292,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぶた君一人で大丈夫なわけ？"
+                                "Are you sure you can handle this alone, piggy?\nShouldn't you call your friends for help?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お仲間をよんできた方がいいんじゃない？」"
+                                ""
                             ]
                         },
                         {
@@ -4320,14 +4320,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「黙るぶひ！お前までぼくちんを失敗作あつかいするぶひ!?」"
+                                "Shut up, buhi! Are you also treating me like a\nfailure, buhi!?"
                             ]
                         },
                         {
@@ -4345,7 +4345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「な、なによ急に…」"
+                                "W-What's the rush..."
                             ]
                         },
                         {
@@ -4356,14 +4356,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今回はぼくちん一人で成功させてみんなに認めてもらうぶひ！」"
+                                "This time, I'll succeed on my own and earn\neveryone's recognition, buhi!"
                             ]
                         },
                         {
@@ -4381,7 +4381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はいはい…」"
+                                "Yes, yes..."
                             ]
                         },
                         {
@@ -4408,14 +4408,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぶひひ！ばかにするなぶひ！」"
+                                "Buhahi! Don't make fun of me, buhi!"
                             ]
                         },
                         {
@@ -4433,7 +4433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「な、なによこれ…⁉」"
+                                "W-What is this...⁉"
                             ]
                         },
                         {
@@ -4444,21 +4444,21 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「頭部切開装置ぶひ、なつかしいぶひ～"
+                                "The head-opening device, buhi, brings back\nmemories, buhi~ With this, my head was also\nthoroughly mixed up, buhi~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これでぼくちんもよく頭の中まぜまぜされてたぶひよ～」"
+                                ""
                             ]
                         },
                         {
@@ -4476,7 +4476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ば、ばか豚！やめなさいよ！」"
+                                "S-Stupid pig! Stop it!"
                             ]
                         },
                         {
@@ -4487,14 +4487,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いやぶひ～」"
+                                "No, buhi~"
                             ]
                         },
                         {
@@ -4564,7 +4564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぃぎぃああぁああ!?」"
+                                "I-Igiiiaaaa!?"
                             ]
                         },
                         {
@@ -4575,14 +4575,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふんぬぅ！さすがサイボーグ硬いぶひね！」"
+                                "Hmph! As expected, the cyborg is hard, buhi!"
                             ]
                         },
                         {
@@ -4600,7 +4600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あっ！いぎぃ…っ！やめて…やめてぇええ！」"
+                                "Ah! S-Stop... Stop it... Stop it!"
                             ]
                         },
                         {
@@ -4649,14 +4649,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おほ～とれたぶひ！きれいな脳みそだぶひ～」"
+                                "Ohoho, I got it, buhi! Such a beautiful brain,\nbuhi~"
                             ]
                         },
                         {
@@ -4674,7 +4674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひっ…ぁあ…」"
+                                "Hic... Ah..."
                             ]
                         },
                         {
@@ -4685,14 +4685,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「たしか、ぼくちんの時はここらへんに刺してたたぶひ」"
+                                "If I remember correctly, they poked around here\nwhen it was my turn."
                             ]
                         },
                         {
@@ -4762,7 +4762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おげぇええぇっ！」"
+                                "Ahhhhhh!"
                             ]
                         },
                         {
@@ -4773,14 +4773,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あらら、まちがえたぶひ？じゃあこっち」"
+                                "Oh, did I make a mistake, buhi? Then, over here."
                             ]
                         },
                         {
@@ -4850,7 +4850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んぉぉおおぉっ！」"
+                                "Nooooo!"
                             ]
                         },
                         {
@@ -4861,21 +4861,21 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「？なんかおかしいぶひ、まぁいいか。"
+                                "Huh? Something seems off, buhi. Well, never mind.\nLet's have you introduce yourself right away,\nbuhi!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さっそく自己紹介でもしてもらうぶひ！」"
+                                ""
                             ]
                         },
                         {
@@ -4923,7 +4923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁぁあっ…わ、わた、わたひのなまえふぁ…！エっエスカぁ…」"
+                                "A-Ah... M-My, my name is...! E-Esuka..."
                             ]
                         },
                         {
@@ -4941,7 +4941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強化帝国兵が刺さった針をいじると、反射的に口が動く。"
+                                "When the enhanced imperial soldier fiddles with\nthe needle he stuck in, her mouth moves\nreflexively."
                             ]
                         },
                         {
@@ -4952,21 +4952,21 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぶひひひひ！かわいい名前ぶひ！"
+                                "Buhihihi! What a cute name, buhi! Since we're\nhere, let's try various things, buhi!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "せっかくだからいろいろためしてみるぶひ！」"
+                                ""
                             ]
                         },
                         {
@@ -5036,7 +5036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おぉおおおおぉおっ！」"
+                                "Ooooooh!"
                             ]
                         },
                         {
@@ -5047,14 +5047,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぶひひ！」"
+                                "Buhihi!"
                             ]
                         },
                         {
@@ -5136,7 +5136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っぁああああぁあああああ！」"
+                                "Ahhhhhhhh!"
                             ]
                         },
                         {
@@ -5147,14 +5147,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぶひひ!?なんだこいついきなりお漏らしして…」"
+                                "Buhihi!? What's with this one, suddenly wetting\nherself..."
                             ]
                         },
                         {
@@ -5229,14 +5229,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぶひ！」"
+                                "Buhi!"
                             ]
                         },
                         {
@@ -5254,7 +5254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いくぅうぅうううううう！」"
+                                "I'm cumming!"
                             ]
                         },
                         {
@@ -5265,14 +5265,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Empire Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ～んここがお漏らしスイッチぶひ？おもしろいぶひ～」"
+                                "Haa~n, so this is the pee switch, buhi?\nInteresting, buhi~"
                             ]
                         },
                         {
@@ -5342,7 +5342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひっ…！」"
+                                "Hic...!"
                             ]
                         },
                         {
@@ -5424,7 +5424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁあがぁああっ！い、イクの、と、とまらなひぃいいっ」"
+                                "Ahhhh! I, I'm cumming, it, it won't stop!"
                             ]
                         },
                         {
@@ -5435,14 +5435,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぶひひひひ！」"
+                                "Buhihihihi!"
                             ]
                         },
                         {
@@ -5460,14 +5460,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エスカの反応が気に入ったのか、"
+                                "Perhaps pleased with Esuka's reaction, the\nStrengthened Imperial Soldier inserts the needle\nover and over again."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "強化帝国兵は何度も何度も針を挿入する。"
+                                ""
                             ]
                         },
                         {
@@ -5520,14 +5520,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さぁ、これで普通にしゃべれるぶひ？」"
+                                "Now, can you talk normally, buhi?"
                             ]
                         },
                         {
@@ -5545,7 +5545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひゅ…っひゅ…っこ、ころす、ころしてやるぅ…！」"
+                                "Hyu... Hyu... I, I'll kill, I'll kill you...!"
                             ]
                         },
                         {
@@ -5556,14 +5556,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぶひひひ！そんな事言っていいぶひ？」"
+                                "Buhihihi! Is it okay to say such things, buhi?"
                             ]
                         },
                         {
@@ -5645,7 +5645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いっくぅうぅっ！」"
+                                "I'm cumming!"
                             ]
                         },
                         {
@@ -5656,21 +5656,21 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぶひひひひひ！、こいつは最高だぶひ！ぼくのお嫁さんにして、"
+                                "Buhihihihi! This is the best, buhi! I'll make you\nmy bride and play with you every night, buhi!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "毎晩あそんでやるぶひ！」"
+                                ""
                             ]
                         },
                         {
@@ -5718,7 +5718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふ、ぅふざけるなぁっ！この…ぶたぁっ…！」"
+                                "D-don't mess with me! You... pig...!"
                             ]
                         },
                         {
@@ -5729,50 +5729,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お漏らししながらすごまれてもこわくないぶひ！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                "エスカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だれがお前みたいなブタの嫁になんかっ…！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                "強化帝国兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もしかして好きな男でもいたぶひ？」"
+                                "Even if you wet yourself and glare at me, I'm not\nscared, buhi!"
                             ]
                         },
                         {
@@ -5790,7 +5754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぅ…うるさい！とめなさいよ、これぇ…ん」"
+                                "Who would ever become the bride of a pig like\nyou...!"
                             ]
                         },
                         {
@@ -5801,21 +5765,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ショックぶひ…最近の若い子は乱れてるぶひ…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そいつの名前を教えろぶひ！見つけてぶち殺してやるぶひ！」"
+                                "Did you perhaps have a man you liked?"
                             ]
                         },
                         {
@@ -5833,7 +5790,50 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だ、だれがぁ…！あんたなんかにぃっ！」"
+                                "Ugh... Shut up! Stop this, please... Hmm."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Strengthened Imperial Soldier"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "What a shock, buhi... The young ones these days\nare so unruly, buhi...! Tell me his name, buhi!\nI'll find him and kill him, buhi!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "エスカ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Wh-who would...! With someone like you...!"
                             ]
                         },
                         {
@@ -5908,14 +5908,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぶすっとな！ぶひ！」"
+                                "Don't sulk! Buhi!"
                             ]
                         },
                         {
@@ -5933,14 +5933,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おぉおっほぉっ！シュ、シュウが、"
+                                "Ooh, ohh! Shu, I like Shuu, I love Shuu!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "シュウの事がすきぃい、だいすきぃい」"
+                                ""
                             ]
                         },
                         {
@@ -5951,14 +5951,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぶひひ！とんだビッチぶひ！これはお仕置きぶひね～！」"
+                                "Buhihi! What a bitch, buhi! This calls for a\npunishment, buhi~!"
                             ]
                         },
                         {
@@ -6040,7 +6040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おぉほぉおお！」"
+                                "Ooh, ohh!"
                             ]
                         },
                         {
@@ -6051,21 +6051,21 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Enhanced Empire Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぶひゃひゃひゃひゃひゃ！"
+                                "Buhahahahaha! I'll even hear about this and that\nfrom Esuka-chan, buhi~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "エスカちゃんのあんな事こんな事もきいちゃうぶひよ～」"
+                                ""
                             ]
                         },
                         {

@@ -701,7 +701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「本部から連絡だ…」"
+                                "There's a message from the headquarters..."
                             ]
                         },
                         {
@@ -719,28 +719,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『エスカの件、言い訳はしない。ただ君たちが無事でよかった。"
+                                "About Esuka, I won't make any excuses. I'm just\nglad you guys are safe. As for Esuka's sister,\nnothing was found in the rubble of the\npresidential palace. Also, I've sent along Esuka's\nrecord data, so you can look at it anytime. Well\nthen, I'll contact you when there's a mission."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "エスカの妹の件だが、総統府の瓦礫からは何も見つからなかった。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それとエスカの記録データを一緒に送っておいたから、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いつでも見れるよ。それじゃあまた、任務の時は連絡するよ』"
+                                ""
                             ]
                         },
                         {
@@ -770,7 +770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※パソコンからイベントを回想できるようになりました。"
+                                "※You can now recall events from the computer."
                             ]
                         },
                         {
@@ -869,7 +869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回想モードに入りますか？"
+                                "Do you want to enter reminiscence mode?"
                             ]
                         },
                         {
@@ -877,8 +877,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -1006,14 +1006,14 @@
                                 0,
                                 0,
                                 2,
-                                "ハンバード"
+                                "Humbert"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんか本部から連絡きとったぞ」"
+                                "I received a message from the headquarters."
                             ]
                         },
                         {
@@ -1100,7 +1100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「寝てる…のか？パソコンをチェックしておくか…」"
+                                "Is she... asleep? Maybe I should check the\ncomputer..."
                             ]
                         },
                         {

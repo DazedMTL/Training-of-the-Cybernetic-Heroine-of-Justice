@@ -2041,21 +2041,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「良かったなぁ将軍が落札してくれるとは、"
+                                "Thank goodness, the general is going to bid for\nyou. That person will take good care of you, you\nknow?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの人は可愛がってくれるぜぇ？」"
+                                ""
                             ]
                         },
                         {
@@ -2073,7 +2073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふ、ふざけないで、今度会ったら八つ裂きにしてあげるわ！」"
+                                "Don't joke around, next time we meet, I'll tear\nyou to pieces!"
                             ]
                         },
                         {
@@ -2084,21 +2084,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「へへへ、そうかい、じゃあクレームにならないよう"
+                                "Hehehe, is that so? Then I have to train you\nproperly so there won't be any complaints."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しっかり躾けておかなきゃな」"
+                                ""
                             ]
                         },
                         {
@@ -2158,7 +2158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぃぎ…⁉」"
+                                "Igii...⁉"
                             ]
                         },
                         {
@@ -2169,21 +2169,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうだ帝国特製の媚薬の味は、少しでも体に入れば"
+                                "How's the taste of the Empire's special\naphrodisiac? Even a little bit in your body will\nsurely turn you into a wreck, but I'll specially\npump it directly into your brain."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "廃人間違いなしだが、特別に脳みそに直接ぶち込んでやるぜ」"
+                                ""
                             ]
                         },
                         {
@@ -2253,7 +2253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ…がぁ…っ、こ、ころしてやるぅ…」"
+                                "Ah...gah... I'll... I'll kill you..."
                             ]
                         },
                         {
@@ -2264,14 +2264,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おぉ…さすがレジスタンスのサイボーグ、じゃあ次はコイツだ」"
+                                "Oh... As expected of the Resistance's cyborg, then\nnext is this one."
                             ]
                         },
                         {
@@ -2341,7 +2341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いぎゃあぁあああああああ！！」"
+                                "Aaaaaaaah!!"
                             ]
                         },
                         {
@@ -2352,21 +2352,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よーしお前は帝国の従順なメスブタだ！"
+                                "Good, you're the Empire's obedient female pig!\nI'll make sure you understand that well."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しっかり思い知らせてやるからな」"
+                                ""
                             ]
                         },
                         {
@@ -2436,7 +2436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁあああ！ち、ちがぅ！メスブタなんかじゃなひぃっ！」"
+                                "Aaaaaah! No, no! I'm not a female pig!"
                             ]
                         },
                         {
@@ -2447,14 +2447,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「違うだろ？お前はチンポの事しか頭にないメスブタだ！」"
+                                "Isn't that wrong? You're a female pig who only has\ndicks on her mind!"
                             ]
                         },
                         {
@@ -2495,7 +2495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ちが…私は…まけなぃい…」"
+                                "No... I... won't lose..."
                             ]
                         },
                         {
@@ -2506,14 +2506,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「へへへ…なかなかしぶといな…次はこいつだ」"
+                                "Hehehe... Quite stubborn, aren't you... Next is\nthis one."
                             ]
                         },
                         {
@@ -2583,14 +2583,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁあああっ!?なに、これ!?おチンポが沢山…⁉"
+                                "Aaaaaah!? What is this!? So many dicks...⁉ Stop\nit! Don't show me such things!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "やめて！こんなもの見せないでっ！」"
+                                ""
                             ]
                         },
                         {
@@ -2608,7 +2608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "取り付けられたバイザーからエスカの脳内に映像が流し込まれる。"
+                                "Images are streamed directly into Esuka's brain\nthrough the visor that's been attached to her."
                             ]
                         },
                         {
@@ -2619,21 +2619,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひゃはは！網膜に直接映してるんだ、諦めな"
+                                "Hyahaha! I'm projecting it directly onto your\nretina, I'll make sure you can only think about\ndicks, so give up!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちんぽの事しか考えられなくしてやるぜ」"
+                                ""
                             ]
                         },
                         {
@@ -2703,14 +2703,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁあああっ！助けて！"
+                                "Aaaaaah! Help me! My mind is getting all messed up\nby dicks...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おチンポに頭の中ぐちゃぐちゃにされちゃうぅ…！」"
+                                ""
                             ]
                         },
                         {
@@ -2721,14 +2721,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だめだ、従順になるまで続けるからな～」"
+                                "No good, I'll continue until you become obedient~"
                             ]
                         },
                         {
@@ -2798,7 +2798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おぉおおおおおおおぉおおおおおっ!?」"
+                                "Ooooooooooh!?"
                             ]
                         },
                         {
@@ -2809,21 +2809,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しっかり体中開発してどこへ出しても恥ずかしくない"
+                                "I'm going to thoroughly train your body so that\nyou won't be embarrassed no matter where you go as\na female pig, be grateful!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "メスブタにしてやるからな、ありがたく思えよ！」"
+                                ""
                             ]
                         },
                         {
@@ -2841,7 +2841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いやぁああっ！おチンポいやぁあああっ！」"
+                                "Nooooo! I don't want the dicks!"
                             ]
                         },
                         {
@@ -2864,7 +2864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "数日後"
+                                "A few days later"
                             ]
                         },
                         {
@@ -2903,7 +2903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぉ…ぉおおお…」"
+                                "O...Oooooo..."
                             ]
                         },
                         {
@@ -2914,14 +2914,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よぉし、順調なようだな、おい、お前はなんだ言ってみろ」"
+                                "Good, it seems to be going smoothly. Hey, you, try\nsaying something."
                             ]
                         },
                         {
@@ -2955,7 +2955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁあ…あたしぁ…帝国の…従順なメスブタれすぅ…」"
+                                "Aaah... I... I'm the Empire's... obedient female\npig..."
                             ]
                         },
                         {
@@ -2966,14 +2966,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よぉし、しっかりご主人様のおチンポにご奉仕するんだぞ！」"
+                                "Alright, make sure to serve your master's dick\nproperly!"
                             ]
                         },
                         {
@@ -3005,7 +3005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「！」"
+                                "!"
                             ]
                         },
                         {
@@ -3039,7 +3039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おチンポ！おチンポ！おチンポ下さい！おチンポ！おチンポ！」"
+                                "Dick! Dick! Please give me dick! Dick! Dick!"
                             ]
                         },
                         {
@@ -3050,21 +3050,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひゃはは！すっかり脳みそまで性感帯になったようだな…"
+                                "Hyahaha! It seems your brain has completely become\nan erogenous zone... It's about time to ship you\nout, the customers are eagerly waiting."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そろそろ出荷するか、お客様もお待ちかねだ」"
+                                ""
                             ]
                         },
                         {
@@ -3091,14 +3091,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「最後の仕上げ…これお前は死ぬまで帝国の所有物だ！」"
+                                "The final touch... You are the property of the\nEmpire until you die!"
                             ]
                         },
                         {
@@ -3116,28 +3116,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "帝国軍が焼印機を取り出す。"
+                                "The Imperial Army takes out a branding machine.\nThis brand is something the Imperial Army uses on\nprisoners and such, it contains nanomachines,\nwhich can immediately identify the location, and\ncan also cause a very small explosion with the\npush of a button."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この焼印は帝国軍が捕虜等に行うもので、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ナノマシンがふくまれており、居場所がすぐに特定されるほか、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ボタン一つでごく小規模な爆発を起こす事も出来る。"
+                                ""
                             ]
                         },
                         {
@@ -3207,7 +3207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おぉおおぉおおおおおおっ!?」"
+                                "O...Oooooo...!?"
                             ]
                         },
                         {
@@ -3218,14 +3218,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しっかり忠誠を誓えよメスブタ～」"
+                                "Swear your loyalty properly, you female pig~"
                             ]
                         },
                         {
@@ -3273,7 +3273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んおお…誓います…帝国に忠誠をちかいますぅ…」"
+                                "Nnnooo... I swear... I pledge my loyalty to the\nEmpire..."
                             ]
                         },
                         {
@@ -3284,14 +3284,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふふ…これでお客様も満足するだろう」"
+                                "Hehehe... With this, the customers should be\nsatisfied."
                             ]
                         },
                         {

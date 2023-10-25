@@ -4135,28 +4135,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "帝国軍に捕まってから毎日過酷な尋問を受けている。"
+                                "Every day since being captured by the Imperial\nArmy, I've been subjected to harsh interrogations.\nBoth my body and spirit are worn out, but there\nwas hope. It seems that Esuka is alive. I\ndefinitely heard the Imperial Army talking about\nEsuka."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "身も心もボロボロだが、希望はあった。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "エスカが生きているらしいのだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "帝国軍がエスカの事を話しているのが確かに聞こえた。"
+                                ""
                             ]
                         },
                         {
@@ -4167,14 +4167,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「レジスタンス、お前は処刑だ」"
+                                "Resistance member, you're going to be executed."
                             ]
                         },
                         {
@@ -4192,7 +4192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くっ…」"
+                                "Ugh..."
                             ]
                         },
                         {
@@ -4203,14 +4203,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だが、最後にいい思いをさせてやるぜ…！」"
+                                "But, I'll let you have a good time in the end...!"
                             ]
                         },
                         {
@@ -4445,7 +4445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁは！あなたが今度の相手？かわい～」"
+                                "Ah ha! Are you my next partner? How cute~"
                             ]
                         },
                         {
@@ -4463,7 +4463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(エ、エスカ…？今エスカの声が…）"
+                                "(E, Esuka...? Was that Esuka's voice just now...?)"
                             ]
                         },
                         {
@@ -4507,7 +4507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エ…エスカ…？」"
+                                "E...Esuka...?"
                             ]
                         },
                         {
@@ -4525,7 +4525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エ…？ちがうよぉ？私は帝国軍専用オナホロボよろしくね！」"
+                                "Eh...? No, that's not right. I'm the Imperial\nArmy's exclusive onahole robot. Nice to meet you!"
                             ]
                         },
                         {
@@ -4543,14 +4543,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、そんな…。そうか…帝国軍に何かされたんだな…！"
+                                "Th, that's... I see... Something was done to you\nby the Imperial Army...! It's too cruel...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ひどすぎる…！」"
+                                ""
                             ]
                         },
                         {
@@ -4596,7 +4596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もぉ～、さっきから何言ってるの？さっさとはじめよ！」"
+                                "Geez, what have you been saying since a while ago?\nLet's get started already!"
                             ]
                         },
                         {
@@ -4614,7 +4614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エスカ…絶対元に戻してやるからな…」"
+                                "Esuka... I'll definitely bring you back to your\nold self..."
                             ]
                         },
                         {
@@ -4688,7 +4688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「れろ…ぇろ…んっ…」"
+                                "Lero... ero... nn..."
                             ]
                         },
                         {
@@ -4706,14 +4706,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "突然エスカに接吻され、こんな状況にもかかわらず"
+                                "Suddenly kissed by Esuka, despite the situation,\nI'm losing control of my rationality."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "理性の制御が効かなくなっていく。"
+                                ""
                             ]
                         },
                         {
@@ -4731,7 +4731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁは、キスきもちいい？」"
+                                "Ah ha, does the kiss feel good?"
                             ]
                         },
                         {
@@ -4765,7 +4765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "我慢できずシュウの股間が反応してしまった。"
+                                "Unable to hold back, Shuu's crotch reacted."
                             ]
                         },
                         {
@@ -4818,14 +4818,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あれ～キスだけでおっきくなっちゃった…？"
+                                "Oh my, did you get hard just from a kiss...? Mm,\nyour cock twitching is so cute..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "んふ、おちんぽぴくぴくしててかわぃい…」"
+                                ""
                             ]
                         },
                         {
@@ -4843,14 +4843,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でもごめんね、私のおマンコは帝国軍の皆様のものだから、"
+                                "But I'm sorry, my pussy belongs to everyone in the\nImperial Army, so you can't use it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "君は使えないの…」"
+                                ""
                             ]
                         },
                         {
@@ -4898,39 +4898,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも代わりに、オナホで抜いてあげる…！"
+                                "But in exchange, I'll help you get off with this\nonahole...! Isn't it cute? It looks just like\nme... Hmm, maybe it's my alter ego?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "かわいいでしょ！私にそっくり…うぅん私の分身かな？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                "エスカ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「穴だって私のおマンコと同じ形になってるんだよぉ、ぁはは！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他のレジスタンスの人もこれでみんな気持ち良くなったんだよ～」"
+                                ""
                             ]
                         },
                         {
@@ -4948,7 +4923,32 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「みんな死んじゃったけど！」"
+                                "The hole is shaped just like my pussy, ahaha! All\nthe other Resistance members felt good with this\ntoo~"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "エスカ？"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "But everyone's dead!"
                             ]
                         },
                         {
@@ -5018,7 +5018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どぉ？きもちぃい？」"
+                                "How is it? Does it feel good?"
                             ]
                         },
                         {
@@ -5036,14 +5036,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "会話の内容は不快だったが、"
+                                "The content of the conversation was unpleasant,\nbut the shape of the onahole was so exquisite that\nmy hips involuntarily lifted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オナホの形自体は絶妙で思わず腰が浮く。"
+                                ""
                             ]
                         },
                         {
@@ -5061,14 +5061,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁはは！君のおチンポだと奥まで入りきらないから"
+                                "Ahaha! Your cock can't reach all the way inside,\nso I'll twist and turn it for you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ぐりぐりしてあげるね！」」"
+                                ""
                             ]
                         },
                         {
@@ -5138,14 +5138,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぐりぐりぃ！ぐりぐりぃ！"
+                                "Guri guri! Guri guri! Your cock is being squeezed\ntightly, it feels good, doesn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おチンポぎゅって潰されて気持ちいでしょ？」"
+                                ""
                             ]
                         },
                         {
@@ -5163,14 +5163,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "慣れた手つきで嗜虐的にオナホを動かされ、あっと言う間に"
+                                "With her experienced hands moving the onahole\nsadistically, I reach my limit in no time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "我慢の限界に達する。"
+                                ""
                             ]
                         },
                         {
@@ -5240,7 +5240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んふ、もうでちゃったんだ～気持ちよかった？」"
+                                "Mm, you already came~ Did it feel good?"
                             ]
                         },
                         {
@@ -5274,14 +5274,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁ～まだ元気だねぇ、興奮しちゃった？"
+                                "Ah, you're still energetic, aren't you? Did you\nget excited? I'll give you a service, so this\ntime, please play with the onahole yourself."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "サービスしてあげるから今度は自分でオナホいじってね」"
+                                ""
                             ]
                         },
                         {
@@ -5327,7 +5327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "言われた通りオナホを動かすと、エスカはまた接吻を始める。"
+                                "As I moved the onahole as instructed, Esuka began\nto kiss me again.   As I moved the onahole as\ninstructed, Esuka began to kiss me again."
                             ]
                         },
                         {
@@ -5361,7 +5361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「れろ…ぇろ…んふ、乳首もいじめてあげるね…」"
+                                "Lero... ero... nfu, I'll tease your nipples too..."
                             ]
                         },
                         {
@@ -5405,7 +5405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁは、そんなに乱暴にオナホいじったらこわれちゃうよ…？」"
+                                "Ahaha, if you handle the onahole so roughly, it\nmight break, you know...?"
                             ]
                         },
                         {
@@ -5423,14 +5423,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何も考えられず手に持ったオナホを爪が突き刺さるほど"
+                                "Unable to think of anything else, I moved my hand\nholding the onahole frantically, to the point\nwhere my nails were digging into it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ただ一心不乱に手を動かす。"
+                                ""
                             ]
                         },
                         {
@@ -5507,21 +5507,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁ～あオナホこわれちゃったね～、"
+                                "Ahh, the onahole broke, didn't it? It seems like\nyou're satisfied too, so let's call it a day!\nDon't worry, this medicine won't hurt, I'll make\nyou drink it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "君も満足したみたいだし終わりにしよっか！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫、苦しくないよ、このお薬、私が飲ませてあげる」"
+                                ""
                             ]
                         },
                         {
@@ -5567,14 +5567,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ん…。だんだん心臓が動かなくなってきたね、"
+                                "Mm... Your heart is gradually stopping, isn't it?\nYou'll be able to die feeling really good, you\nknow."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "きもちよぉ～く死ねるからね」"
+                                ""
                             ]
                         },
                         {
@@ -5592,14 +5592,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エスカから口移しで薬を飲み込むと、"
+                                "I could feel the strength leaving my body as I\nswallowed the medicine that Esuka had passed to me\nmouth-to-mouth."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "体中から力が抜けていくのが分かった。"
+                                ""
                             ]
                         },
                         {
@@ -5634,7 +5634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(だめだ…眠くなってきた…）"
+                                "(No good... I'm getting sleepy...)"
                             ]
                         },
                         {
@@ -5677,14 +5677,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「終わったか？」"
+                                "Is it over?"
                             ]
                         },
                         {
@@ -5707,7 +5707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ～い、もうお薬飲ませました！」"
+                                "Yes, I've already given him the medicine!"
                             ]
                         },
                         {
@@ -5718,50 +5718,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よしよし、しかしお前もひどい奴だな、ははは！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                "エスカ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もぉ～わけわかんない事言わないでぇ、ご褒美くださぁ～い」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                "強化帝国兵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はははは！よしよし、壊れるまで使いまわしてやるからな！」"
+                                "Good, good, but you're quite a cruel one, hahaha!"
                             ]
                         },
                         {
@@ -5779,7 +5743,43 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁは！うれしぃですぅ！」"
+                                "Stop saying things I don't understand, just give\nme my reward~"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Strengthened Imperial Soldier"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Hahaha! Alright, alright, I'll use it until it\nbreaks!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "エスカ？"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Ah ha! I'm so happy!"
                             ]
                         },
                         {
@@ -5802,7 +5802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（エスカ…助けられなくてごめん…）"
+                                "(Esuka... I'm sorry I couldn't save you...)"
                             ]
                         },
                         {

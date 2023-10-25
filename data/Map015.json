@@ -4585,7 +4585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「は、離しなさい！このっ！変態！」"
+                                "L-let go of me! You... pervert!"
                             ]
                         },
                         {
@@ -4596,14 +4596,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふははは、私の子を孕めるんだ光栄に思いたまえ」"
+                                "Fuhahaha, consider it an honor to bear my child."
                             ]
                         },
                         {
@@ -4758,14 +4758,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんだこの騒ぎは！」"
+                                "What's all this commotion!"
                             ]
                         },
                         {
@@ -4776,14 +4776,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト"
+                                "Mikoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ご主人様、外で爆発があったようです」"
+                                "Master, it seems there was an explosion outside."
                             ]
                         },
                         {
@@ -4825,21 +4825,21 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほう、レジスタンスどもが助けに来たか…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかしこの騒ぎ、相当の数での襲撃のようだな…ん？」"
+                                "However, this commotion... seems like a\nconsiderable number of attacks...huh?"
                             ]
                         },
                         {
@@ -5096,7 +5096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「残念だったわね！だれがあんたの子供なんて生むもんか！」"
+                                "What a pity! Who would want to bear your child!"
                             ]
                         },
                         {
@@ -5116,21 +5116,21 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さっきの衝撃で拘束が外れたか"
+                                "The restraints must have come undone due to the\nshock earlier. Good, I'll evacuate just in case.\nMikoto, kill Esuka."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よし、私は念のため避難する。ミコト、エスカを殺せ」"
+                                ""
                             ]
                         },
                         {
@@ -5141,14 +5141,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト"
+                                "Mikoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しかしご主人様、せっかくのレアものを…」"
+                                "But Master, it's such a rare specimen..."
                             ]
                         },
                         {
@@ -5159,14 +5159,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私の命以上にレアなものなどあるものか！」"
+                                "Is there anything more rare than my life!"
                             ]
                         },
                         {
@@ -5215,7 +5215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ミコト…！そんなやつのいう事聞かないで…！」"
+                                "Mikoto...! Don't listen to what that guy says...!"
                             ]
                         },
                         {
@@ -5226,14 +5226,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト"
+                                "Mikoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お姉ちゃん！私を困らせないで！」"
+                                "Onee-san! Don't trouble me!"
                             ]
                         },
                         {
@@ -5251,7 +5251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ミコト…本気でぶつからね…！」"
+                                "Mikoto... Don't seriously fight me...!"
                             ]
                         },
                         {
@@ -5278,7 +5278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁああああああぁあああ！リミッター解除！」"
+                                "Haaaaaaaah! Limiter release!"
                             ]
                         },
                         {
@@ -5391,14 +5391,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト"
+                                "Mikoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あはははは！なかなかやるねお姉ちゃん！でも私の方が…！」"
+                                "Ahahahaha! You're doing pretty well, Onee-san! But\nI'm...!"
                             ]
                         },
                         {
@@ -5425,7 +5425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まだまだぁああああああああああああ！」"
+                                "I'm not done yet!"
                             ]
                         },
                         {
@@ -5436,14 +5436,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト"
+                                "Mikoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「⁉　はやい…こんなスピードがでるはずが…」"
+                                "⁉So fast... I didn't expect such speed..."
                             ]
                         },
                         {
@@ -5573,14 +5573,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト"
+                                "Mikoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うわぁああああああぁあああああ！」"
+                                "Uwaaaaaaaaaaaaa!"
                             ]
                         },
                         {
@@ -5598,7 +5598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ…！はぁ…！悪い子…なんだから…」"
+                                "Haa...! Haa...! You're such a... naughty boy..."
                             ]
                         },
                         {
@@ -5630,14 +5630,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト\\mpd[sad]"
+                                "Mikoto\\mpd[sad]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁああああああんお姉ちゃんがぶったぁああ！」"
+                                "Ahhhhhh! Onee-san, you're so rough!"
                             ]
                         },
                         {
@@ -5719,21 +5719,21 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト\\mpd[sad]"
+                                "Mikoto\\mpd[sad]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぅうう…どうして私を置いていなくなっちゃったの…"
+                                "Uuu... Why did you leave me behind... I've been\nwaiting all this time..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ずっと待ってたのに…」"
+                                ""
                             ]
                         },
                         {
@@ -5751,7 +5751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ごめんね…約束守れなくて…でも今度こそ…」"
+                                "I'm sorry... I couldn't keep my promise... but\nthis time for sure..."
                             ]
                         },
                         {
@@ -5776,7 +5776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ミコト…！私と一緒に帰ろう…！」"
+                                "Mikoto...! Let's go home together...!"
                             ]
                         },
                         {
@@ -5787,21 +5787,21 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト\\mpd[sad]"
+                                "Mikoto\\mpd[sad]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぅうううぅそんなむずかしいこといわないでぇ…"
+                                "Uuuuuu... Don't say such difficult things... My\nhead is starting to hurt..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あたまがいたくなっちゃうぅ…」"
+                                ""
                             ]
                         },
                         {
@@ -5819,7 +5819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ミコト！私の事を信じて！」"
+                                "Mikoto! Believe in me!"
                             ]
                         },
                         {
@@ -5839,14 +5839,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト"
+                                "Mikoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お、お姉ちゃん…」"
+                                "O-Onee-san..."
                             ]
                         },
                         {
@@ -5866,14 +5866,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「やれやれ、やはり改造兵士は信用できんな」"
+                                "Good grief, as expected, I can't trust these\nmodified soldiers."
                             ]
                         },
                         {
@@ -5964,14 +5964,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト\\mpd[sad]"
+                                "Mikoto\\mpd[sad]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うぅうああああああぁああ!?」"
+                                "Uuuuaaaaaaaaah!?"
                             ]
                         },
                         {
@@ -5989,7 +5989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ミコト!?ミコトどうしたの⁉」"
+                                "Mikoto!? What happened to Mikoto⁉"
                             ]
                         },
                         {
@@ -6052,7 +6052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ミコトに何をしたの!?"
+                                "What did you do to Mikoto!?"
                             ]
                         },
                         {
@@ -6063,28 +6063,28 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「改造兵士は不慮の事故が多くてねぇ、"
+                                "There are many unforeseen accidents with modified\nsoldiers, you see. As a safety measure, bombs are\nimplanted in their brains. If I press the switch\nlike this, they're designed to explode shortly\nafter."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "セーフティーとして脳に爆弾がしかけられているのだよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こうやって私がスイッチを押せば、じきに爆発するという設計さ」"
+                                ""
                             ]
                         },
                         {
@@ -6102,7 +6102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「このクズ…！どこまで卑劣なの…！」"
+                                "This scum...! How low can he go...!"
                             ]
                         },
                         {
@@ -6113,28 +6113,28 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「君が悪いのだよ。最初から言う事を聞いていればいいものを。"
+                                "It's your fault, you know. If only you had\nlistened from the start. What will you do? Are you\ngoing to watch as your long-lost sister's head\ngets blown off? If you obediently follow me, I'll\nsave both of you..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうするせっかく会えた妹の頭が吹き飛ぶのを見学していくかね？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大人しく私に従うなら二人ともたすけてやるぞ…？」"
+                                ""
                             ]
                         },
                         {
@@ -6152,7 +6152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…くっ！」"
+                                "...Tch!"
                             ]
                         },
                         {
@@ -6170,14 +6170,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※この後選択肢が出ますセーブしますか？"
+                                "※A choice will appear after this. Do you want to\nsave? (Depending on your choice, it may result in\na game over.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（選択肢によってはゲームオーバーになります）"
+                                ""
                             ]
                         },
                         {
@@ -6185,8 +6185,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "セーブする",
-                                    "いいえ"
+                                    "Save",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6304,7 +6304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうする"
+                                "What will you do?"
                             ]
                         },
                         {
@@ -6312,8 +6312,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "おとなしく従う",
-                                    "強硬突破！"
+                                    "Comply quietly",
+                                    "Force a breakthrough!"
                                 ],
                                 1,
                                 0,
@@ -6353,7 +6353,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「く…分かったわ…ミコトを助けてあげて…」"
+                                "F...Fine... Please, help Mikoto..."
                             ]
                         },
                         {
@@ -6387,14 +6387,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト"
+                                "Mikoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うがぁああっ！」"
+                                "Ughh!"
                             ]
                         },
                         {
@@ -6443,7 +6443,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ミ、ミコト…？」"
+                                "M...Mikoto...?"
                             ]
                         },
                         {
@@ -6454,14 +6454,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「むむっ？脳へのダメージが大きくて暴走したか？」"
+                                "Hmm? Has the damage to the brain caused a rampage?"
                             ]
                         },
                         {
@@ -6501,7 +6501,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「答えは簡単でしょ！あんたをぶちのめして！ボタンを奪う！」"
+                                "The answer is simple! I'll beat you down and take\nthe button!"
                             ]
                         },
                         {
@@ -6586,14 +6586,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ひぇっ！」"
+                                "Eek!"
                             ]
                         },
                         {
@@ -6611,7 +6611,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「爆発の解除スイッチは…これね！」"
+                                "The switch to deactivate the explosion... is this\none!"
                             ]
                         },
                         {
@@ -6662,14 +6662,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト\\mpd[sad]"
+                                "Mikoto\\mpd[sad]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うぅ…」"
+                                "Ugh..."
                             ]
                         },
                         {
@@ -6718,7 +6718,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「さぁ！あんた覚悟できてんでしょうね！」"
+                                "Now! You're prepared for this, aren't you!"
                             ]
                         },
                         {
@@ -6729,14 +6729,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ひぇええええええええ」"
+                                "Eeeeeeeeeek!"
                             ]
                         },
                         {
@@ -6858,7 +6858,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「そ、んな…体が…」"
+                                "N...No... My body..."
                             ]
                         },
                         {
@@ -6885,46 +6885,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（そりゃそうか…メンテナンスも受けずにリミッターを何回も"
+                                "(Of course... If I keep releasing the limiter\nwithout maintenance, there will be a limit... I'm\nsorry for making you go along with my\nselfishness...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "解除したら、限界もくるか…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ごめんね、私のわがままにつき合わせちゃって…）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                "総統"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ふ、ふははははは！どうやら故障のようだな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "よしお前たちこの不快な姉妹を例の実験室へ運べ」"
+                                ""
                             ]
                         },
                         {
@@ -6935,14 +6910,39 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「は！」"
+                                "Hahaha! It seems like a malfunction! Alright, you\nguys, take this unpleasant sister to that\nexperimental room."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Imperial Soldier"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Yes!"
                             ]
                         },
                         {
@@ -7118,14 +7118,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト"
+                                "Mikoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おねぇちゃん！おねえちゃん！」"
+                                "Onee-chan! Onee-chan!"
                             ]
                         },
                         {
@@ -7294,7 +7294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「や、やめて、ミコト！あんたミコトに何したのよ！」"
+                                "S-stop it, Mikoto! What did you do to Mikoto!"
                             ]
                         },
                         {
@@ -7305,14 +7305,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「筋力強化の副作用で、陰核まで肥大化してしまってねぇ」"
+                                "Due to the side effects of strength enhancement,\neven her clitoris has become enlarged."
                             ]
                         },
                         {
@@ -7330,7 +7330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「クズ野郎…っ！」"
+                                "You bastard...!"
                             ]
                         },
                         {
@@ -7393,14 +7393,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト"
+                                "Mikoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おねえちゃん！だぁいすき」"
+                                "Onee-chan! I love you so much!"
                             ]
                         },
                         {
@@ -7418,7 +7418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「や、やめて！ミコト…！」"
+                                "S-stop it! Mikoto...!"
                             ]
                         },
                         {
@@ -7429,14 +7429,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト"
+                                "Mikoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうして私から逃げるのっ！」"
+                                "Why are you running away from me!"
                             ]
                         },
                         {
@@ -7518,7 +7518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁああああっ！」"
+                                "Ahhhhhh!"
                             ]
                         },
                         {
@@ -7536,7 +7536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「や、やめて…ミコトぉ…」"
+                                "S-stop it... Mikoto..."
                             ]
                         },
                         {
@@ -7606,7 +7606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぶぇっ…！」"
+                                "Bleh...!"
                             ]
                         },
                         {
@@ -7617,14 +7617,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト"
+                                "Mikoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふふ…さっきの仕返しだよ！」"
+                                "Hehehe... This is payback for earlier!"
                             ]
                         },
                         {
@@ -7682,7 +7682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぉごっ…！」"
+                                "Ah...!"
                             ]
                         },
                         {
@@ -7693,14 +7693,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト"
+                                "Mikoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ねぇお姉ちゃんもっと抵抗してよ！興奮できないでしょ？」"
+                                "Hey, Onee-chan, resist more! You can't get\nexcited, can you?"
                             ]
                         },
                         {
@@ -7751,21 +7751,21 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト"
+                                "Mikoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…もっと痛めつければいいのかなぁっ!?"
+                                "...Should I torment you more!? After all, people\ntighten up the most right before they die!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "他の人も死ぬ前が一番絞まるもんね！」"
+                                ""
                             ]
                         },
                         {
@@ -7783,7 +7783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「か…は…」"
+                                "Ka...ha..."
                             ]
                         },
                         {
@@ -7846,14 +7846,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト"
+                                "Mikoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁあっ！お姉ちゃん気持ちいいよ！もっと！もっと抵抗して！」"
+                                "Ahh! Onee-chan, it feels good! More! Resist more!"
                             ]
                         },
                         {
@@ -7871,7 +7871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「は、ひゅ…っ」"
+                                "Ha...hyu..."
                             ]
                         },
                         {
@@ -7946,14 +7946,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト"
+                                "Mikoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁああっ！イク！イクイクイクイク！」"
+                                "Ahhhh! I'm coming! I'm coming, coming, coming,\ncoming!"
                             ]
                         },
                         {
@@ -8016,14 +8016,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト"
+                                "Mikoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「イっくぅううううううううううう」"
+                                "I'm cumminggggggggggg!"
                             ]
                         },
                         {
@@ -8034,14 +8034,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト"
+                                "Mikoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁあっ！た、たいへんお姉ちゃんが…」"
+                                "Ah! It's terrible, Onee-chan is..."
                             ]
                         },
                         {
@@ -8052,14 +8052,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「心配しなくてもいい、エスカ君はちゃんと修理してあげるよ」"
+                                "Don't worry, I'll properly fix you up, Esuka."
                             ]
                         },
                         {
@@ -8070,14 +8070,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト"
+                                "Mikoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほ、ほんとですか！ご主人様」"
+                                "Is, is that true?! Master."
                             ]
                         },
                         {
@@ -8088,14 +8088,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（さてと、この強化兵士はもう限界だな…）"
+                                "(Well, this enhanced soldier has reached her\nlimit...)"
                             ]
                         },
                         {
@@ -8158,14 +8158,14 @@
                                 0,
                                 0,
                                 2,
-                                "ミコト"
+                                "Mikoto"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…っ！あ、あがぁあっ！」"
+                                "...Ah, ah, ahh!"
                             ]
                         },
                         {
@@ -8176,21 +8176,21 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぬはははは！さて代わりの強化兵士をつくらなければな、"
+                                "Nuhahahaha! Now, I must create a replacement\nenhanced soldier. Will you cooperate with me,\nEsuka?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "協力してもらうぞエスカ君？」"
+                                ""
                             ]
                         },
                         {

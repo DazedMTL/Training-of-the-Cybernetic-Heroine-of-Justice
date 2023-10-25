@@ -1049,7 +1049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エスカ！敵だ！」"
+                                "Esuka! It's an enemy!"
                             ]
                         },
                         {
@@ -1182,21 +1182,21 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おしゃべりな豚め！ペラペラと…。"
+                                "You chatty pig! Blabbering on and on... Intruder!\nDon't think you can escape!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "侵入者！逃げられるとは思うなよ！」"
+                                ""
                             ]
                         },
                         {
@@ -1214,14 +1214,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くっ！こいつ改造兵士か…逃げるのは難しそうね…"
+                                "Damn! Is this a modified soldier... It seems\ndifficult to escape... Shuu! Give me instructions!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "シュウ！指示を！」"
+                                ""
                             ]
                         },
                         {
@@ -1239,14 +1239,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※この後選択肢が出ますセーブしますか？"
+                                "※After this, a choice will appear. Do you want to\nsave? (Depending on the choice, it may result in\ngame over)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（選択肢によってはゲームオーバーになります）"
+                                ""
                             ]
                         },
                         {
@@ -1254,8 +1254,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "セーブする",
-                                    "いいえ"
+                                    "Save",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -1314,7 +1314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうする"
+                                "What should we do?"
                             ]
                         },
                         {
@@ -1322,8 +1322,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "どうにかして逃げるんだ！",
-                                    "時間を稼いでくれ！"
+                                    "We have to find a way to escape!",
+                                    "Buy us some time!"
                                 ],
                                 1,
                                 0,
@@ -1354,7 +1354,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「どうにかして脱出してくれ！」"
+                                "Somehow, please escape!"
                             ]
                         },
                         {
@@ -1372,7 +1372,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うぇえ!?もーしかたないなー、こういう時は…」"
+                                "Ugh!? Can't be helped then, in times like this..."
                             ]
                         },
                         {
@@ -1406,7 +1406,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「強硬突破よ！」"
+                                "We'll break through forcefully!"
                             ]
                         },
                         {
@@ -1491,14 +1491,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ぐはぁあ!?」"
+                                "Guhah!?"
                             ]
                         },
                         {
@@ -1516,7 +1516,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「やった…？」"
+                                "Did we...?"
                             ]
                         },
                         {
@@ -1527,14 +1527,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「超再生能力をもつ俺には無駄だぁ！」"
+                                "It's useless against me who possesses super\nregeneration abilities!"
                             ]
                         },
                         {
@@ -1659,7 +1659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「しまった！」"
+                                "Damn it!"
                             ]
                         },
                         {
@@ -1677,7 +1677,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「エスカ！」"
+                                "Esuka!"
                             ]
                         },
                         {
@@ -1744,7 +1744,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「時間を稼いでくれ！何とかする！」"
+                                "Buy us some time! I'll figure something out!"
                             ]
                         },
                         {
@@ -1762,7 +1762,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ふんっ別に倒してもいいんでしょ…！」"
+                                "Hmph! It's fine if I defeat him, right...!"
                             ]
                         },
                         {
@@ -1922,7 +1922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ…！はぁ…！」"
+                                "Haa...! Haa...!"
                             ]
                         },
                         {
@@ -1933,21 +1933,21 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なかなかやるな！"
+                                "You're doing quite well! But how long can you last\nin front of me with my super regeneration ability?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だが超再生能力をもつおれの前にいつまでもつかな？」"
+                                ""
                             ]
                         },
                         {
@@ -1965,7 +1965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「コイツ…！」"
+                                "This guy...!"
                             ]
                         },
                         {
@@ -2152,14 +2152,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「何！何事だ！」"
+                                "What! What's going on!"
                             ]
                         },
                         {
@@ -2314,21 +2314,21 @@
                                 0,
                                 0,
                                 2,
-                                "ブローカー"
+                                "Broker"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今回もなんとか品数足りそうだ…"
+                                "It seems like we'll have enough goods this time...\nWith the President and many executives present, we\ncan't afford to fail."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "総統をはじめ、重役が大勢いらっしゃるからな、失敗はできん」"
+                                ""
                             ]
                         },
                         {
@@ -2346,7 +2346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「その話、詳しく教えてもらえる？」"
+                                "Can you tell me more about that?"
                             ]
                         },
                         {
@@ -2556,21 +2556,21 @@
                                 0,
                                 0,
                                 2,
-                                "ブローカー"
+                                "Broker"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「!?　な、なんだ貴様！どこから入った!?"
+                                "What!? Who are you! How did you get in!? No, I\nmust call security..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "い、いや警備を呼ばないと…」"
+                                ""
                             ]
                         },
                         {
@@ -2639,7 +2639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おっと、じっとしてなさい、首ねじ切るわよ」"
+                                "Whoa, stay still or I'll cut your throat."
                             ]
                         },
                         {
@@ -2659,14 +2659,14 @@
                                 0,
                                 0,
                                 2,
-                                "ブローカー"
+                                "Broker"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「サ、サイボーグか…！や、やめてくれぇ殺さないでぇ」"
+                                "A, a cyborg...! P, please stop, don't kill me!"
                             ]
                         },
                         {
@@ -2684,7 +2684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それじゃあさっきの話、教えてくれる？シュウ、通信大丈夫？」"
+                                "So, will you tell me about the conversation from\nearlier? Shuu, is the communication okay?"
                             ]
                         },
                         {
@@ -2702,7 +2702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁ、大丈夫だ」"
+                                "Ah, it's okay."
                             ]
                         },
                         {
@@ -2720,7 +2720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「オークションについて証言して、人身売買は本当なのね」"
+                                "So you're testifying about the auction, confirming\nthat human trafficking is real."
                             ]
                         },
                         {
@@ -2731,28 +2731,28 @@
                                 0,
                                 0,
                                 2,
-                                "ブローカー"
+                                "Broker"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほ、本当だ、帝国のお偉いさんの中じゃ"
+                                "Yes, it's true. Among the imperial elites, owning\na human as a pet is a kind of status symbol. The\nrarer the human you own, the more you can boast\nabout it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "人間をペットにするのは一種のステータスなんだ、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "よりレアな人間を飼ってるほど自慢できるってわけだ」"
+                                ""
                             ]
                         },
                         {
@@ -2770,7 +2770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「レアな人間…？」"
+                                "A rare human...?"
                             ]
                         },
                         {
@@ -2781,14 +2781,14 @@
                                 0,
                                 0,
                                 2,
-                                "ブローカー"
+                                "Broker"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「人間も容姿の違いとかいろいろあるだろ…」"
+                                "There are various differences in human appearances\ntoo..."
                             ]
                         },
                         {
@@ -2806,7 +2806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「反吐が出るわね…それでオークションはいつ行われるの？」"
+                                "That's disgusting... So when is the auction taking\nplace?"
                             ]
                         },
                         {
@@ -2817,14 +2817,14 @@
                                 0,
                                 0,
                                 2,
-                                "ブローカー"
+                                "Broker"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「来週だ…毎年…その日だ、総統の誕生日…」"
+                                "It's next week... Every year... On that day,\nPresident Waltin's birthday..."
                             ]
                         },
                         {
@@ -2842,7 +2842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エスカ、そろそろ切り上げよう、敵に見つかる」"
+                                "Esuka, we should wrap this up soon, we might be\nspotted by the enemy."
                             ]
                         },
                         {
@@ -2860,7 +2860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「最後にひとつだけ！あなたミコトって女の子知ってる？」"
+                                "Just one last thing! Do you know a girl named\nMikoto?"
                             ]
                         },
                         {
@@ -2871,21 +2871,21 @@
                                 0,
                                 0,
                                 2,
-                                "ブローカー"
+                                "Broker"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いや、ペットの名前なんていちいち…"
+                                "No, I don't remember every pet's name... But, I\nthink there was a pet with that name owned by the\nPresident..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、たしか総統のペットにそんな名前の…」"
+                                ""
                             ]
                         },
                         {
@@ -2903,7 +2903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ちょっと！はっきりしゃべりなさいよ！聞こえないでしょ！」"
+                                "Hey! Speak clearly! I can't hear you!"
                             ]
                         },
                         {
@@ -2961,14 +2961,14 @@
                                 0,
                                 0,
                                 2,
-                                "ブローカー"
+                                "Broker"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うぎゃぁあああああああ」"
+                                "Ugyaaaaaaaaa!"
                             ]
                         },
                         {
@@ -3424,14 +3424,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほ、報告です！レジスタンスどもが襲撃してきました！」"
+                                "R-report! The resistance has launched an attack!"
                             ]
                         },
                         {

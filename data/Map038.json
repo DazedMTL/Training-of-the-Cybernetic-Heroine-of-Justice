@@ -816,14 +816,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "総統府地下秘密研究室"
+                                "In the secret underground laboratory of the\nPresidential Palace, Esuka had undergone a certain\npregnancy modification."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "エスカはここで、絶対妊娠改造を受けていた。"
+                                ""
                             ]
                         },
                         {
@@ -874,7 +874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うぅ…っ！」"
+                                "Ugh...!"
                             ]
                         },
                         {
@@ -885,14 +885,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふぅむなかなか頑丈だな」"
+                                "Hmm, quite sturdy, isn't she?"
                             ]
                         },
                         {
@@ -910,7 +910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「みてなさい！すぐに仲間が助けに来てくれるんだから！」"
+                                "Just you watch! My friends will come to rescue me\nsoon!"
                             ]
                         },
                         {
@@ -921,14 +921,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はははは！そいつは楽しみだ」"
+                                "Hahaha! I'm looking forward to that."
                             ]
                         },
                         {
@@ -998,7 +998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あがぁっ！」"
+                                "Aghh!"
                             ]
                         },
                         {
@@ -1009,14 +1009,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふふ、中はそうなっているのか」"
+                                "Hehehe, so that's how it is inside."
                             ]
                         },
                         {
@@ -1086,7 +1086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「や、やめろぉ！」"
+                                "S-stop it!"
                             ]
                         },
                         {
@@ -1097,14 +1097,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふん、良くできた人造内臓だが生殖機能まではないようだな」"
+                                "Hmph, well-made artificial organs, but it seems\nthey don't include reproductive functions."
                             ]
                         },
                         {
@@ -1122,7 +1122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お前たちのせいで…私は全部奪われた！絶対許さない…！」"
+                                "Because of you all... I've lost everything! I'll\nnever forgive you...!"
                             ]
                         },
                         {
@@ -1133,14 +1133,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おぉ…それは申し訳ない。お詫びとして私からプレゼントだ」"
+                                "Oh... I apologize for that. As an apology, here's\na gift from me."
                             ]
                         },
                         {
@@ -1184,7 +1184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「な、なによそのキモいの…！」"
+                                "Wh-what is that disgusting thing...!"
                             ]
                         },
                         {
@@ -1195,64 +1195,21 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひどいなぁ、これは君の妹に使っていた人工膣だよ。"
+                                "How cruel, this is the artificial vagina that was\nused on your sister. She insisted on providing it\nfor you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "是非君にと妹君が提供してくれたよ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                "エスカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「き、きさまぁっ！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                "総統"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一年中排卵状態の、妊娠率100％の特注品だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君の妹も気に入っていたんだよ？良かったじゃないか」"
+                                ""
                             ]
                         },
                         {
@@ -1270,7 +1227,50 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こ、殺してやる！絶対！絶対！」"
+                                "Y-you bastard!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "President"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "It's a custom-made item that keeps you ovulating\nall year round, with a 100% pregnancy rate. Your\nsister liked it too, didn't she? Isn't that good?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "エスカ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I-I'll kill you! Definitely! Absolutely!"
                             ]
                         },
                         {
@@ -1340,7 +1340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あがぁああああぁああっ!?」"
+                                "Aghhhhhhhhh!?"
                             ]
                         },
                         {
@@ -1351,21 +1351,21 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふむふむ、少し大きかったな、君発育が悪いんだねぇ、"
+                                "Hmm, it seems a bit too big for you. You're not\nvery developed, are you? Is your sister plump?\nWell, it doesn't matter. Please bear with it until\nit adheres."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "妹が太ってるのか？まぁいい。癒着するまで我慢してくれよ」"
+                                ""
                             ]
                         },
                         {
@@ -1411,7 +1411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぅう…お腹の中で動いてるぅ…」"
+                                "Ahh... It's moving inside my stomach..."
                             ]
                         },
                         {
@@ -1422,14 +1422,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふふ、うまく行ったようだな」"
+                                "Hehehe, it seems to have worked well."
                             ]
                         },
                         {
@@ -1499,7 +1499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ!?」"
+                                "Huh!?"
                             ]
                         },
                         {
@@ -1510,14 +1510,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おほっ！さっそく排卵が始まったか、流石姉妹だ適応が早いな」"
+                                "Oh! Ovulation has started already, as expected of\nsisters, you adapt quickly."
                             ]
                         },
                         {
@@ -1535,7 +1535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っぐぅ…っ！許さない…！許さない…！」"
+                                "Guh...! I won't forgive you...! I won't forgive\nyou...!"
                             ]
                         },
                         {
@@ -1546,14 +1546,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さてさて、ちゃんと機能しているか試してみるか…」"
+                                "Well then, let's test if it's functioning\nproperly..."
                             ]
                         },
                         {
@@ -1597,7 +1597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いやっ！やめろ！さわるなっ！」"
+                                "No! Stop it! Don't touch me!"
                             ]
                         },
                         {
@@ -1624,14 +1624,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「心配するな、なかなか評判がいいんだぞ？私のテクニックは」"
+                                "Don't worry, my technique has quite a good\nreputation, you know?"
                             ]
                         },
                         {
@@ -1649,7 +1649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「吐き気がするわ！死ね！死ねぇ！」"
+                                "I feel nauseous! Die! Just die!"
                             ]
                         },
                         {
@@ -1724,14 +1724,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぬふふ…おお、見た目はあれだがなかなかだぞ」"
+                                "Nufufu... Oh, it may look like that, but it's\nquite something."
                             ]
                         },
                         {
@@ -1749,7 +1749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁあああっ…！さいぁく…」"
+                                "Ahh...! This is the worst..."
                             ]
                         },
                         {
@@ -1807,7 +1807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぬけぇ…ぬいてよぉ…っ！」"
+                                "Pull it out... Please, pull it out...!"
                             ]
                         },
                         {
@@ -1818,14 +1818,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くはははは！どうしたどうした、もう弱気か？」"
+                                "Kuhahaha! What's the matter, what's the matter,\nalready feeling weak?"
                             ]
                         },
                         {
@@ -1895,7 +1895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おぐっ！」"
+                                "Ugh!"
                             ]
                         },
                         {
@@ -1906,14 +1906,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうそう、その調子だ、腹に力を入れてしっかり絞めろぉっ！」"
+                                "Yes, yes, that's the way, put some strength into\nyour stomach and squeeze tightly!"
                             ]
                         },
                         {
@@ -1971,7 +1971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁあっ…んっ」"
+                                "Ahh... Mm..."
                             ]
                         },
                         {
@@ -1982,14 +1982,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんだなんだ、ずいぶん可愛らしい声を出すじゃないか」"
+                                "What's this, what's this, you're making quite a\ncute noise, aren't you?"
                             ]
                         },
                         {
@@ -2023,7 +2023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「う、うるさい…んっ」"
+                                "Shut... up... Mm..."
                             ]
                         },
                         {
@@ -2034,14 +2034,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ははは！素直になれ、感じているんだろう？」"
+                                "Hahaha! Just be honest, you're feeling it, aren't\nyou?"
                             ]
                         },
                         {
@@ -2059,7 +2059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁん…っ、だ、だまりなさよぉ…！ぜんぜん…そんな事ない…」"
+                                "Ahn...! Sh-shut up...! That's not... true at\nall..."
                             ]
                         },
                         {
@@ -2070,14 +2070,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうか、そうかではもう少し奥までいくぞっ！」"
+                                "I see, I see. Then let's go a little deeper!"
                             ]
                         },
                         {
@@ -2159,7 +2159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んんぅううううぅうっ！」"
+                                "Nnnuuuuuuu!"
                             ]
                         },
                         {
@@ -2170,14 +2170,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふはははは！サイボーグとは言え本能には逆らえないか」"
+                                "Fuhahahaha! Even if you're a cyborg, you can't go\nagainst your instincts, can you?"
                             ]
                         },
                         {
@@ -2247,7 +2247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んん!?」"
+                                "Nnn!?"
                             ]
                         },
                         {
@@ -2258,14 +2258,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうだ、私の子を孕む気になったか？」"
+                                "So, are you ready to bear my child?"
                             ]
                         },
                         {
@@ -2323,7 +2323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ん…ぷぁ…っふ、ふざけないでよ…！」"
+                                "Nn... Pa... Don't... don't joke around...!"
                             ]
                         },
                         {
@@ -2334,14 +2334,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「残念だ、では今日はここまでにしておこう」"
+                                "What a pity, let's call it a day for now."
                             ]
                         },
                         {
@@ -2408,7 +2408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぇ…？」"
+                                "Eh...?"
                             ]
                         },
                         {
@@ -2419,21 +2419,21 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「時間はいっぱいあるんだ、ゆっくり分かり合おうじゃないか"
+                                "We have plenty of time, let's take it slow and\nunderstand each other... hehehe."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…くくく」"
+                                ""
                             ]
                         },
                         {
@@ -2481,7 +2481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…っ」"
+                                "...!"
                             ]
                         },
                         {
@@ -2499,7 +2499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絶頂に至らず、物足りなさを訴えるように子宮がぎゅっと絞まる。"
+                                "Without reaching climax, her womb tightens as if\nto express dissatisfaction."
                             ]
                         },
                         {
@@ -2522,14 +2522,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それから数日間、エスカは犯され続けた。"
+                                "For several days after that, Esuka was\ncontinuously violated. However, the act was always\ninterrupted just before Esuka's climax."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ただしエスカの絶頂寸前で行為はいつも中断された。"
+                                ""
                             ]
                         },
                         {
@@ -2580,7 +2580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁ…んっ…ぁあ」"
+                                "Ah... Nn... Ahh..."
                             ]
                         },
                         {
@@ -2591,32 +2591,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だいぶいい反応するようになってきたじゃないか」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                "エスカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…ぅるさい」"
+                                "You've started to react quite well, haven't you?"
                             ]
                         },
                         {
@@ -2634,7 +2616,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふふ…」"
+                                "...Shut up."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "エスカ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Hehehe..."
                             ]
                         },
                         {
@@ -2712,14 +2712,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さてと、そろそろ仕事に戻るかな」"
+                                "Well then, it's about time I get back to work."
                             ]
                         },
                         {
@@ -2737,7 +2737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…また…」"
+                                "...Again..."
                             ]
                         },
                         {
@@ -2748,14 +2748,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おや？何か言ったかな？」"
+                                "Oh? Did you say something?"
                             ]
                         },
                         {
@@ -2789,7 +2789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんでも…ないわよ…」"
+                                "It's... it's nothing..."
                             ]
                         },
                         {
@@ -2812,7 +2812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さらに数日後、エスカのフラストレーションは限界を迎えていた。"
+                                "Several days later, Esuka's frustration had\nreached its limit."
                             ]
                         },
                         {
@@ -2875,7 +2875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁ…はぁ…んちゅ…」"
+                                "Ah... Haa... Nchu..."
                             ]
                         },
                         {
@@ -2886,14 +2886,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ははは、そんなにがっつくな」"
+                                "Hahaha, don't be so eager."
                             ]
                         },
                         {
@@ -2932,7 +2932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うるさい…だまって腰ふってなさいよ…」"
+                                "Shut up... Just keep moving your hips..."
                             ]
                         },
                         {
@@ -2943,14 +2943,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あいかわらず生意気なやつだ」"
+                                "You're as cheeky as ever."
                             ]
                         },
                         {
@@ -3005,7 +3005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んぅっ！」"
+                                "Nngh!"
                             ]
                         },
                         {
@@ -3016,50 +3016,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さてと…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                "エスカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まって…！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                "総統"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おや、どうしたのかな？そろそろ仕事に戻る時間なのだが」"
+                                "Well then..."
                             ]
                         },
                         {
@@ -3077,7 +3041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ちゃ、ちゃんと最後まで…して…」"
+                                "Wait...!"
                             ]
                         },
                         {
@@ -3088,14 +3052,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ん？どういう事かな？」"
+                                "Oh, what's the matter? It's about time to get back\nto work."
                             ]
                         },
                         {
@@ -3113,14 +3077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「い、いつも中途半端で…むかつくのよ…っ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんと…イかせて…」"
+                                "Make sure... to go all the way... to the end..."
                             ]
                         },
                         {
@@ -3131,14 +3088,57 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふはははは！それはそれは失礼した」"
+                                "Hm? What do you mean?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "エスカ"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "You always leave me hanging... It's frustrating...\nMake sure... to make me cum..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "President"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Hahaha! My apologies then."
                             ]
                         },
                         {
@@ -3220,7 +3220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁああっ！ぃいっく…」"
+                                "Aaah! I'm... coming..."
                             ]
                         },
                         {
@@ -3231,21 +3231,21 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しかし君だけ気持ち良くなるのは不公平だなぁ？"
+                                "But isn't it unfair for only you to feel good? Of\ncourse, I'll also ejaculate. You don't mind, do\nyou?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私ももちろん射精させてもらうがかまわんね？」"
+                                ""
                             ]
                         },
                         {
@@ -3293,7 +3293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁあん…そ、それはぁ…」"
+                                "Aahn... Th-that is..."
                             ]
                         },
                         {
@@ -3304,14 +3304,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「では今日はここまでだなぁ」"
+                                "Well then, that's it for today."
                             ]
                         },
                         {
@@ -3359,7 +3359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ！ま、まって！いいから、出していいから…！」"
+                                "W-wait! It's okay, you can... you can cum...!"
                             ]
                         },
                         {
@@ -3370,14 +3370,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いいのかな？今の君の体は妊娠率100％だぞ…？」"
+                                "Are you sure? Your body right now has a 100%\nchance of getting pregnant, you know...?"
                             ]
                         },
                         {
@@ -3395,14 +3395,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「う、うるさいっ！"
+                                "S-shut up! There's no way I would get pregnant by\nsomeone like you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "わ、わたしがあんたなんかに孕まされるわけないでしょっ！」"
+                                ""
                             ]
                         },
                         {
@@ -3413,14 +3413,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうかそうか、ではこっちもその気でいくとしよう」"
+                                "I see, I see, then I'll also go with the flow."
                             ]
                         },
                         {
@@ -3502,14 +3502,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁあああっ…！"
+                                "Aaah...! It's... it's so good! Your cock feels so\ngood...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いぃ…っ、きもちぃいっ！おチンポきもちぃいよぉっ…！」"
+                                ""
                             ]
                         },
                         {
@@ -3520,14 +3520,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふふ…すっかり堕ちたな」"
+                                "Hehehe... You've completely fallen, haven't you?"
                             ]
                         },
                         {
@@ -3545,7 +3545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まける！まけちゃう…！受精アクメしちゃうぅうう！」"
+                                "I'm losing! I'm going to lose...! I'm going to\nclimax from fertilization!"
                             ]
                         },
                         {
@@ -3622,7 +3622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んぉおおおおおおぉぉおおっ!?」"
+                                "Nnnooooooo!?"
                             ]
                         },
                         {
@@ -3633,14 +3633,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はははは！私の子を孕めっ！エスカ！」"
+                                "Hahaha! Bear my child, Esuka!"
                             ]
                         },
                         {
@@ -3703,14 +3703,14 @@
                                 0,
                                 0,
                                 2,
-                                "総統"
+                                "President"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふふ…どんな子が産まれるか今から楽しみだな」"
+                                "Hehehe... I'm looking forward to seeing what kind\nof child will be born."
                             ]
                         },
                         {
@@ -3728,7 +3728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁ…あひぃ…」"
+                                "Aaah... Ahii..."
                             ]
                         },
                         {

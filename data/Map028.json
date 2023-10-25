@@ -1466,14 +1466,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "帝国重役の邸宅。"
+                                "The mansion of the imperial executive. Esuka, who\nwas captured, was kept as a pet by the residents\nof this house."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "囚われたエスカはこの家の住人にペットとして飼われていた。"
+                                ""
                             ]
                         },
                         {
@@ -1505,14 +1505,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役の息子"
+                                "Son of the Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぶへへ！おらおら！もっと早く走れ！」"
+                                "Hehehe! Hurry, hurry! Run faster!"
                             ]
                         },
                         {
@@ -1530,7 +1530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぅう…ぁん！」"
+                                "Uuh... Ah!"
                             ]
                         },
                         {
@@ -1541,21 +1541,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役"
+                                "Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほほほ…少々やんちゃなワンちゃんだが、"
+                                "Hohoho... She's a bit of a mischievous pup, but\nshe's just right for my son."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "息子ちゃんにはちょうどいいわい」"
+                                ""
                             ]
                         },
                         {
@@ -1618,14 +1618,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役の息子"
+                                "Son of the Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おらっ！おらっ！遅いぞバカ犬！」"
+                                "Hey! Hey! You're slow, stupid dog!"
                             ]
                         },
                         {
@@ -1643,7 +1643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「きゃいぃんっ！」"
+                                "Kyaiin!"
                             ]
                         },
                         {
@@ -1677,7 +1677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（こ、このバカガキ…逃げだしたら絶対ぶん殴ってやるから…！）"
+                                "(This... this brat... If I manage to escape, I'll\ndefinitely punch him...!)"
                             ]
                         },
                         {
@@ -1695,14 +1695,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エスカは義肢による身体の制御に加えて、声帯も改造され、"
+                                "In addition to her body being controlled by\nprosthetics, Esuka's vocal cords had been\nmodified, leaving her only able to imitate the\nsound of a dog."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "犬の鳴きまねしかできなくなっていた。"
+                                ""
                             ]
                         },
                         {
@@ -1729,14 +1729,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役の息子"
+                                "Son of the Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「パパ！ペスを連れてくるからちょっとお願い」"
+                                "Papa! I'm going to bring Pess, so please take care\nof her for a bit."
                             ]
                         },
                         {
@@ -1747,14 +1747,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役"
+                                "Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どれどれ、わしも躾を手伝ってやろう、おすわり」"
+                                "Well, well, I'll help with the training too. Sit."
                             ]
                         },
                         {
@@ -1788,7 +1788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（うぅ…屈辱だわ…）"
+                                "(Ugh... This is humiliating...)"
                             ]
                         },
                         {
@@ -1799,14 +1799,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役"
+                                "Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほっほっほ、次はちんちんだ」"
+                                "Hohoho, next is the dick."
                             ]
                         },
                         {
@@ -1854,7 +1854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁうう…⁉」"
+                                "Ahh...⁉"
                             ]
                         },
                         {
@@ -1893,14 +1893,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役"
+                                "Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほほほ、芸もしっかりできるようになったな」"
+                                "Hohoho, she's become quite skilled at performing\ntricks."
                             ]
                         },
                         {
@@ -1918,7 +1918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（こ…このヘンタイ野郎！覚えてなさいぃ）"
+                                "(This... this perverted bastard! I'll remember\nthis...)"
                             ]
                         },
                         {
@@ -1929,14 +1929,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役の息子"
+                                "Son of the Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「パパ！連れてきたよ！」"
+                                "Papa! I brought her!"
                             ]
                         },
                         {
@@ -1994,7 +1994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぅうっ!?」"
+                                "Ahh...⁉"
                             ]
                         },
                         {
@@ -2005,14 +2005,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役"
+                                "Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おぉペス！」"
+                                "Oh, Pess!"
                             ]
                         },
                         {
@@ -2030,7 +2030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（な、なによこのバカでかい犬は）"
+                                "(Wha, what's with this ridiculously large dog?)"
                             ]
                         },
                         {
@@ -2048,14 +2048,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ペスと呼ばれたその動物は要人の護衛から、"
+                                "The creature referred to as Pess was the Empire's\nbiological weapon, Bio Orthros, capable of\neverything from guarding VIPs to eliminating\nsuspicious individuals."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "不審者の排除までこなす帝国の生物兵器バイオオルトロスだった。"
+                                ""
                             ]
                         },
                         {
@@ -2103,7 +2103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（な、なにやってんのよこのバカ犬ぅ！）"
+                                "(Wha, what is this stupid dog doing!)"
                             ]
                         },
                         {
@@ -2114,14 +2114,14 @@
                                 0,
                                 0,
                                 2,
-                                "ペス"
+                                "Pess"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ウルゥウウウ…」"
+                                "Uruuuu..."
                             ]
                         },
                         {
@@ -2139,7 +2139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「きゃぅ…」"
+                                "Kyau..."
                             ]
                         },
                         {
@@ -2150,14 +2150,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役の息子"
+                                "Son of the Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あれ、ペスの様子が変だよ？」"
+                                "Huh, Pess seems to be acting strange, doesn't he?"
                             ]
                         },
                         {
@@ -2168,14 +2168,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役"
+                                "Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふむ？メスの匂いで興奮しているのか？」"
+                                "Hmm? Is he getting excited by the scent of a\nfemale?"
                             ]
                         },
                         {
@@ -2233,7 +2233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「きゃうんっ!?」"
+                                "Kyauun!?"
                             ]
                         },
                         {
@@ -2244,14 +2244,14 @@
                                 0,
                                 0,
                                 2,
-                                "ペス"
+                                "Pess"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「オルルルルル！」"
+                                "Orururururu!"
                             ]
                         },
                         {
@@ -2262,14 +2262,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役の息子"
+                                "Son of the Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あはははは！交尾する気だこいつ」"
+                                "Ahahaha! This guy wants to mate!"
                             ]
                         },
                         {
@@ -2287,21 +2287,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「きゃん！きゃんきゃん！」"
+                                "Kyaa! Kyaa, kyaa! (Stop it, I said!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（と、止めなさいよ！）"
+                                ""
                             ]
                         },
                         {
@@ -2364,14 +2364,14 @@
                                 0,
                                 0,
                                 2,
-                                "ペス"
+                                "Pes"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「グォオオオオオオォオオ」"
+                                "Gwoooooooooo!"
                             ]
                         },
                         {
@@ -2389,7 +2389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ぅうう！最低最低最低！）"
+                                "(Uuuu! This is the worst, the worst, the worst!)"
                             ]
                         },
                         {
@@ -2400,14 +2400,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役"
+                                "Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はははは！なんだ結構相性いいんじゃないか？」"
+                                "Hahaha! Isn't their compatibility quite good?"
                             ]
                         },
                         {
@@ -2425,14 +2425,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（こ、こんなバカ犬の…ただただ乱暴なだけな交尾で、"
+                                "(Th-this stupid dog's... just purely violent\nmating, I-I'm not feeling anything...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "か、感じてなんて…）"
+                                ""
                             ]
                         },
                         {
@@ -2495,14 +2495,14 @@
                                 0,
                                 0,
                                 2,
-                                "ペス"
+                                "Pess"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ウルァ！」"
+                                "Ura!"
                             ]
                         },
                         {
@@ -2520,7 +2520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（だ、だめ…こんなの…ほ、ほんとに犬みたいじゃない…っ！）"
+                                "(N-no... this is... just like a real dog...!)"
                             ]
                         },
                         {
@@ -2583,14 +2583,14 @@
                                 0,
                                 0,
                                 2,
-                                "ペス"
+                                "Pess"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ウロォオオオオオオオ！」"
+                                "Urooooooooo!"
                             ]
                         },
                         {
@@ -2608,7 +2608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（イクぅううううううううぅうう!?）"
+                                "(I-I'm going to cum!?)"
                             ]
                         },
                         {
@@ -2642,7 +2642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（あぁ…だめ…体が…強い雄に屈服しちゃってる…）"
+                                "(Ah...no...my body...is succumbing to a strong\nmale...)"
                             ]
                         },
                         {
@@ -2653,14 +2653,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役"
+                                "Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんだなんだ、ペスのチンポが気に入ったのか？」"
+                                "What's this, what's this, has Pess's cock caught\nyour fancy?"
                             ]
                         },
                         {
@@ -2706,7 +2706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（こんな乱暴で力強い交尾…勝てるわけないよぉ…）"
+                                "(There's no way I can win against such rough and\npowerful mating...)"
                             ]
                         },
                         {
@@ -2717,21 +2717,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国重役の息子"
+                                "Son of the Imperial Executive"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「すげぇや、さっそく仲良しだなお前ら！"
+                                "Wow, you two are getting along so well already! I\nwonder if you could reproduce."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "繁殖とか出来るかなぁ」"
+                                ""
                             ]
                         },
                         {

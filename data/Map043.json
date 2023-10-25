@@ -4161,7 +4161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「潜入完了、通信はどう？」"
+                                "Infiltration complete, how's the communication?"
                             ]
                         },
                         {
@@ -4179,14 +4179,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「バッチリだ！捕まっている仲間は3人だ"
+                                "Perfect! There should be three of our captured\ncomrades ahead. Please find and rescue them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この先に居るはずだ見つけて救出してくれ」"
+                                ""
                             ]
                         },
                         {
@@ -4204,7 +4204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「了解！」"
+                                "Understood!"
                             ]
                         },
                         {
@@ -4849,7 +4849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大容量電池を手に入れた！"
+                                "I've obtained a high-capacity battery!"
                             ]
                         },
                         {
@@ -5096,7 +5096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "電磁装甲を手に入れた！"
+                                "I've obtained the electromagnetic armor!"
                             ]
                         },
                         {
@@ -5444,7 +5444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大容量電池を手に入れた！"
+                                "I've obtained a high-capacity battery!"
                             ]
                         },
                         {

@@ -739,7 +739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くそ！通信が切れた‼エスカ！エスカぁ！」"
+                                "Damn! The communication got cut off!! Esuka!\nEsuka!!"
                             ]
                         },
                         {
@@ -750,57 +750,21 @@
                                 0,
                                 0,
                                 2,
-                                "ハンバード"
+                                "Humbert"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「落ち着け、この通信はエスカの端末から送られている、"
+                                "Calm down, this communication is being sent from\nEsuka's terminal. If we trace the communication,\nwe should be able to find her location..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "通信を辿れば場所が分かるはずじゃ…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                "シュウ\\mpd[rpanic]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、そうか…こ、ここは!?総統府…!?」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                "ハンバード"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「とんでもない場所に連れていかれたようじゃな」"
+                                ""
                             ]
                         },
                         {
@@ -818,14 +782,50 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「早く助けに行かないと、"
+                                "I-Is that so... W-Where is this!? The Presidential\nPalace...!?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Humbert"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、そうだ本部に連絡して救出隊を組織してもらおう」"
+                                "It seems she's been taken to an unthinkable place."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "シュウ\\mpd[rpanic]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "We need to hurry and rescue her, that's right,\nI'll contact the headquarters and ask them to\norganize a rescue team."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -860,7 +860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「本部から返信が来ている」"
+                                "There's a reply from the headquarters."
                             ]
                         },
                         {
@@ -878,28 +878,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『エスカの件、非常に残念だ。君の提案もわかるが、"
+                                "The situation with Esuka is indeed regrettable. I\nunderstand your proposal, but launching an attack\non the Presidential Palace now is too risky. In\nfact, it seems that the UN forces will be\nmobilizing soon. We have no choice but to wait and\nsee. You should also avoid taking any rash\nactions."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今総統府へ攻撃を仕掛けるのは危険性が高すぎる。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "実はもう少しで国連軍が動きそうなんだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今は静観するしかない。君も軽率な行動をするな』"
+                                ""
                             ]
                         },
                         {
@@ -917,14 +917,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、そんな馬鹿な…エスカは仲間を助けるために捕まったんだぞ"
+                                "Th-That's ridiculous... Esuka got captured trying\nto help her comrades. What on earth should we\ndo..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いったいどうしたら…」"
+                                ""
                             ]
                         },
                         {
@@ -942,14 +942,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※この後選択肢が出ますセーブしますか？"
+                                "*After this, a choice will appear. Would you like\nto save? (Depending on your choice, the game may\nend.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（選択肢によってはゲームオーバーになります）"
+                                ""
                             ]
                         },
                         {
@@ -957,8 +957,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "セーブする",
-                                    "いいえ"
+                                    "Save",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -1076,7 +1076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうする"
+                                "What will you do?"
                             ]
                         },
                         {
@@ -1084,8 +1084,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "本部にもなにか作戦があるはずだ…指示に従おう",
-                                    "俺一人でも行く！"
+                                    "There must be some strategy at the headquarters Let's follow the instructions",
+                                    "I'll go alone if I have to!"
                                 ],
                                 1,
                                 -1,
@@ -1116,7 +1116,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ここは、本部を信じよう」"
+                                "Let's trust in the headquarters here."
                             ]
                         },
                         {
@@ -1193,7 +1193,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「エスカが危険だ、静観なんかできるか！俺は一人でも行く！」"
+                                "Esuka is in danger, I can't just stand by and\nwatch! I'll go even if I have to do it alone!"
                             ]
                         },
                         {
@@ -1275,14 +1275,14 @@
                                 0,
                                 0,
                                 2,
-                                "ハンバード"
+                                "Humbert"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「シュウ、エスカの事をたのむぞ。それとこれを渡しておく」"
+                                "Shuu, I'm entrusting Esuka to you. Also, I'll hand\nthis over to you."
                             ]
                         },
                         {
@@ -1300,7 +1300,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「これは…？」"
+                                "What is this...?"
                             ]
                         },
                         {
@@ -1311,71 +1311,21 @@
                                 0,
                                 0,
                                 2,
-                                "ハンバード"
+                                "Humbert"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「爆弾じゃ！制御のきかない失敗作じゃが馬鹿みたいに派手じゃ！"
+                                "It's a bomb! It's a failed creation that can't be\ncontrolled, but it's ridiculously flashy! I call\nit the Ultimate Tantrum Orb! It can be used as a\ndecoy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "名付けてアルティメット癇癪玉！おとりには使えるじゃろ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                "シュウ\\mpd[real]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「博士…！ありがとう！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                "ハンバード"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「それと、これを。エスカ用のワイヤレス充電器をじゃ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "きっとまた無茶をしてエネルギーを使い切っておるじゃろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これなら遠くからエスカのエネルギーを回復してくれる」"
+                                ""
                             ]
                         },
                         {
@@ -1393,7 +1343,57 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「わかった！かならず連れ戻すよ！」"
+                                "Doctor...! Thank you!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Humbert"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Also, take this. It's a wireless charger for\nEsuka. She's probably used up all her energy doing\nsomething reckless again. With this, you can\nrestore Esuka's energy from a distance."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "シュウ\\mpd[real]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Understood! I'll definitely bring her back!"
                             ]
                         },
                         {

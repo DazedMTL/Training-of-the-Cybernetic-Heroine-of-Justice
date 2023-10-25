@@ -1478,7 +1478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「⁉な、なによこれ!?」"
+                                "⁉ What, what is this!?"
                             ]
                         },
                         {
@@ -1489,14 +1489,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「気が付いたか、レジスタンスのサイボーグ」"
+                                "Awake, are you, Resistance's Cyborg?"
                             ]
                         },
                         {
@@ -1514,7 +1514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんなのよ！このふざけた格好は！もとに戻しなさい」"
+                                "What the hell is this!? This ridiculous outfit!\nChange it back right now!"
                             ]
                         },
                         {
@@ -1525,21 +1525,21 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お前はずいぶん暴れん坊のようだからな、"
+                                "You seem to be quite the troublemaker, so we've\nmodified you to be more obedient. It suits you\nwell."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "従順になるように改造させてもらった、よく似合っているぜ」"
+                                ""
                             ]
                         },
                         {
@@ -1566,21 +1566,21 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうだ、抵抗できないだろう？義肢に付いている装置で"
+                                "How is it, you can't resist, can you? We're\ncontrolling your body with the device attached to\nyour prosthetic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お前の身体を制御しているのさ」"
+                                ""
                             ]
                         },
                         {
@@ -1598,7 +1598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うぅ！あんたたちの好きになんてならないから…！」"
+                                "Ugh! I won't just let you guys have your way with\nme...!"
                             ]
                         },
                         {
@@ -1609,21 +1609,21 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おぉ、さすがサイボーグすごい力だ…"
+                                "Oh, as expected of a cyborg, such incredible\nstrength... But... Sit."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だが…『お手』」"
+                                ""
                             ]
                         },
                         {
@@ -1667,7 +1667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ～！」"
+                                "Ugh~!"
                             ]
                         },
                         {
@@ -1678,14 +1678,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぎゃはは！よくできました～」"
+                                "Gyahahaha! Well done~"
                             ]
                         },
                         {
@@ -1703,7 +1703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「体が勝手に…！絶対許さないからぁっ…！」"
+                                "My body is moving on its own...! I'll never\nforgive you for this...!"
                             ]
                         },
                         {
@@ -1730,21 +1730,21 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まったく失態だ、オークション会場がばれるとは、"
+                                "This is a complete disgrace. If the auction venue\nis exposed, we'll have to change the location and\npostpone it. The losses would be incalculable."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "場所も変えて延期しなければ、損失は計り知れないな」"
+                                ""
                             ]
                         },
                         {
@@ -1762,7 +1762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ざまぁないわね！いい気味だわ！」"
+                                "Serves you right! It's what you deserve!"
                             ]
                         },
                         {
@@ -1773,21 +1773,21 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Enhanced Empire Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「損失をカバーするために人面犬ロボとしてお前を売り出すんだ"
+                                "To cover the losses, we're going to market you as\na humanoid dog robot. Today, you'll be doing some\nadvertising for us."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今日はその宣伝をしてもらうぞ」"
+                                ""
                             ]
                         },
                         {
@@ -1805,7 +1805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふ、ふざけないで！クズ野郎ども」"
+                                "Don't mess with me! You scumbags!"
                             ]
                         },
                         {
@@ -1816,14 +1816,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Empire Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お前らあれを持ってこい」"
+                                "You guys, bring that over here."
                             ]
                         },
                         {
@@ -1857,7 +1857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ちょっと！なにをする気よ!?」"
+                                "Hey! What do you think you're doing!?"
                             ]
                         },
                         {
@@ -1868,14 +1868,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぎゃはは！いまからこいつをお前の膀胱にぶち込んでやるぜ」"
+                                "Gyahahaha! I'm going to shove this into your\nbladder now."
                             ]
                         },
                         {
@@ -1931,7 +1931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ～!?」"
+                                "Huh~!?"
                             ]
                         },
                         {
@@ -1942,14 +1942,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぎゃはは！さて、ワンちゃんには散歩させないとな！」"
+                                "Gyahahaha! Well, we can't neglect to take the\ndoggy for a walk!"
                             ]
                         },
                         {
@@ -1976,14 +1976,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「な、こんな状態で…できるわけないでしょ⁉」"
+                                "No, there's no way it can be done in this state,\nright⁉"
                             ]
                         },
                         {
@@ -1994,21 +1994,21 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Enhanced Empire Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さぁワンちゃんおでかけしまちゅよ～"
+                                "Now, let's take the doggy out for a walk~ We have\nto show the townsfolk what happens when they\noppose the Empire."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "町のやつらにも帝国に歯向かうとどうなるか見せてやらないとな」"
+                                ""
                             ]
                         },
                         {
@@ -2049,14 +2049,14 @@
                                 0,
                                 0,
                                 2,
-                                "市民"
+                                "Citizen"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「酷いわ…あれがレジスタンスなの…？」"
+                                "How terrible... Is that the Resistance...?"
                             ]
                         },
                         {
@@ -2081,14 +2081,14 @@
                                 0,
                                 0,
                                 2,
-                                "市民"
+                                "Citizen"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「帝国に歯向かうからだ、自業自得だよ」"
+                                "It's because they opposed the Empire, they got\nwhat they deserved."
                             ]
                         },
                         {
@@ -2106,7 +2106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うぅ…」"
+                                "Ugh..."
                             ]
                         },
                         {
@@ -2117,14 +2117,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「大人気だな！しっぽでも振って挨拶してみろ」"
+                                "You're quite popular! Try wagging your tail and\ngreet them."
                             ]
                         },
                         {
@@ -2158,7 +2158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（こいつら…絶対殺してやる…！）"
+                                "(These bastards... I'll definitely kill them...!)"
                             ]
                         },
                         {
@@ -2169,14 +2169,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さぁて次の場所へ行くか」"
+                                "Now, let's move on to the next location."
                             ]
                         },
                         {
@@ -2194,7 +2194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（く…はやくしてよ…さいあく…）"
+                                "(Ugh... hurry up... this is the worst...)"
                             ]
                         },
                         {
@@ -2228,14 +2228,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（しっかりするのよ私…"
+                                "(I need to hold it together... I can't let\nmyself... wet myself... in front of these guys...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こんな奴らの前で…お漏らしなんて…）"
+                                ""
                             ]
                         },
                         {
@@ -2246,14 +2246,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さぁてたばこ休憩でもするか」"
+                                "Well then, shall we take a smoke break?"
                             ]
                         },
                         {
@@ -2301,7 +2301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「!?ちょ…ちょっと…はやくしなさいよ…！」"
+                                "!? W-wait... hurry up...!"
                             ]
                         },
                         {
@@ -2312,21 +2312,21 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まぁまぁ、そんなにカリカリすんなって、"
+                                "Well, well, don't get so worked up. You're shaking\nlike a Chihuahua."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "プルプル震えてるとチワワみたいだぜ」"
+                                ""
                             ]
                         },
                         {
@@ -2360,7 +2360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（あぁあああっ、だ、だめ！もうだめっ！）"
+                                "(Ahh, no, no more! I can't take it anymore!)"
                             ]
                         },
                         {
@@ -2371,14 +2371,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おいおい、小便するなら犬らしくしろよ」"
+                                "Hey, hey, if you're going to pee, do it like a\ndog."
                             ]
                         },
                         {
@@ -2430,7 +2430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "帝国兵の言葉に反応して、エスカの義肢が跳ね上がった。"
+                                "Reacting to the Imperial Soldier's words, Esuka's\nprosthetic limb jerked upwards."
                             ]
                         },
                         {
@@ -2448,7 +2448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あっ…あぁああああ！こんな！こんなやつらの前でぇええっ！」"
+                                "Ah... Aaaaah! Not like this! Not in front of these\nguys!"
                             ]
                         },
                         {
@@ -2497,14 +2497,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵"
+                                "Strengthened Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぎゃはははは！躾の悪いワンちゃんだぜぇ！」"
+                                "Gyahahaha! What a poorly trained little dog!"
                             ]
                         },
                         {
@@ -2529,14 +2529,14 @@
                                 0,
                                 0,
                                 2,
-                                "市民"
+                                "Citizen"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「酷いわ人間としてのプライドはないのかしら」"
+                                "How cruel. Don't they have any human pride?"
                             ]
                         },
                         {
@@ -2561,14 +2561,14 @@
                                 0,
                                 0,
                                 2,
-                                "市民"
+                                "Citizen"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もうこの国は終わりだな」"
+                                "This country is finished."
                             ]
                         },
                         {
@@ -2586,7 +2586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぅうう…みないでぇ…」"
+                                "Uuu... Don't look..."
                             ]
                         },
                         {
@@ -2609,7 +2609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "帝国兵によるエスカの「お散歩」は、それから何回も行われた。"
+                                "The walks with the Imperial Soldier were repeated\nseveral times after that for Esuka."
                             ]
                         },
                         {

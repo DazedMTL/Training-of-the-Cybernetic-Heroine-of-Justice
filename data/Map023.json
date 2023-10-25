@@ -800,14 +800,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エスカからの連絡が途絶えてしばらくしてから、"
+                                "After losing contact with Esuka for a while, a\npackage arrived at the base."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "拠点に荷物が届いた。"
+                                ""
                             ]
                         },
                         {
@@ -830,7 +830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「一体なんだ…？もしかして…罠？」"
+                                "What on earth is this...? Could it be... a trap?"
                             ]
                         },
                         {
@@ -848,7 +848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いや…罠だとしても…エスカの手がかりかもしれない…！」"
+                                "No... even if it's a trap... it might be a clue to\nEsuka...!"
                             ]
                         },
                         {
@@ -866,7 +866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警戒しつつも包装を解く。"
+                                "While remaining cautious, he unwraps the package."
                             ]
                         },
                         {
@@ -929,7 +929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…っうわぁ！」"
+                                "...Whoa!"
                             ]
                         },
                         {
@@ -947,7 +947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エ…エスカ…⁉」"
+                                "E...Esuka...⁉"
                             ]
                         },
                         {
@@ -981,7 +981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ん…ぅ…」"
+                                "Mm...uh..."
                             ]
                         },
                         {
@@ -999,7 +999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「苦しいのか…⁉いま口の拘束具を取ってやるからな!?」"
+                                "Are you in pain...⁉ I'll remove the gag from your\nmouth now, okay!?"
                             ]
                         },
                         {
@@ -1055,7 +1055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うぁあぁ！」"
+                                "Uwaaa!"
                             ]
                         },
                         {
@@ -1073,14 +1073,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シュウがエスカの口の器具を外すと、"
+                                "When Shuu removed the device from Esuka's mouth, a\nmass of something overflowed from her mouth."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何かの塊が口からあふれ出てきた。"
+                                ""
                             ]
                         },
                         {
@@ -1098,7 +1098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ごほっ！えほっ！」"
+                                "Cough! Cough!"
                             ]
                         },
                         {
@@ -1116,14 +1116,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エスカが苦しそうに咽る。口の塊が邪魔なようだ。"
+                                "Esuka seems to be choking in discomfort. The mass\nin her mouth appears to be causing her trouble.\nFearfully, Shuu removes the mass."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "シュウはおそるおそる塊を取り除く。"
+                                ""
                             ]
                         },
                         {
@@ -1169,7 +1169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こ…これって…エスカの…？」"
+                                "Is... is this... Esuka's...?"
                             ]
                         },
                         {
@@ -1187,7 +1187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「シュウ…にげ…て…」"
+                                "Shuu... run... away..."
                             ]
                         },
                         {
@@ -1275,14 +1275,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エスカの頭部に仕掛けられた爆弾が起動し、"
+                                "The bomb planted in Esuka's head activates,\nblowing everything in the vicinity away."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "辺り一面を吹き飛ばす。"
+                                ""
                             ]
                         },
                         {
@@ -1305,7 +1305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それがシュウのみた最後の光景になった。"
+                                "That became the last sight Shuu ever saw."
                             ]
                         },
                         {

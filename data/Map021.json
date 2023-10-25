@@ -685,14 +685,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エスカからの連絡が途絶えて一か月以上がたった。"
+                                "It's been over a month since I last heard from\nEsuka. Despite desperate searches, there's not a\nsingle trace of her."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "必死の捜索にもかかわらず、足取り一つつかめていない。"
+                                ""
                             ]
                         },
                         {
@@ -710,7 +710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くそっ！一体どこにいるんだ…。頼むから連絡をくれ…！」"
+                                "Damn it! Where on earth is she... Please, I beg\nyou, contact me...!"
                             ]
                         },
                         {
@@ -749,7 +749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「本部から連絡…⁉もしかしてエスカが見つかったのか…⁉」"
+                                "A message from headquarters...⁉ Could it be that\nthey've found Esuka...⁉"
                             ]
                         },
                         {
@@ -767,28 +767,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『シュウ、例のオークションの件だが、"
+                                "Shuu, about the auction we discussed, we've\nreceived several videos from the infiltrated\nresistance. It's hard to say, but we've also\nspotted a person who appears to be Esuka in them.\nIt's painful, but if it's true, as a resistance..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "潜入させたレジスタンスから映像がいくつか届いた。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "言いにくい事だが、その中でエスカと思われる人物も発見した。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "辛いだろうが、事実であればレジスタンスとしても"
+                                ""
                             ]
                         },
                         {
@@ -806,14 +806,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "対応を考えなければならない。"
+                                "We must consider our response. I'll send you the\nfootage, so I want you to confirm if it's her."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "君にも映像を送るので本人か確認して欲しい』"
+                                ""
                             ]
                         },
                         {
@@ -831,14 +831,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんな、エスカが…？"
+                                "What do you mean, Esuka...? If that's the case,\nwhy aren't we immediately going to rescue her...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だったらどうしてすぐ救出にいかないんだ…！」"
+                                ""
                             ]
                         },
                         {
@@ -856,7 +856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "苛立ちを抑えながら送られてきた映像を再生する。"
+                                "While suppressing his frustration, he plays the\nvideo that was sent to him."
                             ]
                         },
                         {
@@ -997,7 +997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「な、なんだこれ…」"
+                                "Wha, what is this..."
                             ]
                         },
                         {
@@ -1015,14 +1015,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "拷問されたのか、顔はひどく損傷していたが、"
+                                "He must have been tortured, his face was terribly\ndamaged, but there was no mistaking that face I\nhad seen over and over again."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何度も何度も突き合せたその顔を見間違うはずはなかった。"
+                                ""
                             ]
                         },
                         {
@@ -1040,7 +1040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エ…エスカなのか…!?」"
+                                "Is... Is that you, Esuka...!?"
                             ]
                         },
                         {
@@ -1058,14 +1058,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だ…れか…！だれか私を買ってください！お願いします！"
+                                "So...someone...! Please, someone buy me! I beg\nyou! I'll do...I'll do anything...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なんでも…なんでもします…！」"
+                                ""
                             ]
                         },
                         {
@@ -1099,39 +1099,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お願い！お願いだから！このままじゃ殺されちゃう…！"
+                                "Please! I beg you! If things stay like this, I'll\nbe killed...! Help me... Help me, Shuu..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "助けて…助けてよ…シュウ…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                "小太りの男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁさぁ！誰もいませんか⁉レジスタンスのサイボーグ女！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今ならたったの500円！そこいらのおもちゃより安いよ！」"
+                                ""
                             ]
                         },
                         {
@@ -1142,14 +1117,39 @@
                                 0,
                                 0,
                                 2,
-                                "小太りの男"
+                                "Chubby Man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こんなですけど意識はしっかりしてますから、ほら！」"
+                                "Come on, anyone there⁉ The cyborg woman from the\nResistance! Now for just 500 yen! Cheaper than any\ntoy around!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Chubby Man"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Even in this state, she's fully conscious, see!"
                             ]
                         },
                         {
@@ -1219,7 +1219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぎぃぃいいいいいいぃあぁっ!?」"
+                                "Giiiiiiiiiaaah!?"
                             ]
                         },
                         {
@@ -1246,21 +1246,21 @@
                                 0,
                                 0,
                                 2,
-                                "小太りの男"
+                                "Chubby Man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうです、なかなかいい声で鳴くでしょう？"
+                                "How about it, she screams quite nicely, doesn't\nshe? No...? Then how about for 300 yen!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だめ…？じゃぁ300円でどうだ！」"
+                                ""
                             ]
                         },
                         {
@@ -1271,14 +1271,14 @@
                                 0,
                                 0,
                                 2,
-                                "小太りの男"
+                                "Chubby Man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほら！お前からもお願いしなさい！」"
+                                "Come on! You should beg too!"
                             ]
                         },
                         {
@@ -1348,7 +1348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぎゃぁあああああぁああああああ！」"
+                                "Agyaaaaaaaaaaaa!"
                             ]
                         },
                         {
@@ -1382,14 +1382,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お、おねがい…！お願いしますっ！"
+                                "P-Please...! I beg you! Someone! Someone help me!\nHelp me!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だれか！だれか助けて！たすけてよぉ！」"
+                                ""
                             ]
                         },
                         {
@@ -1400,21 +1400,21 @@
                                 0,
                                 0,
                                 2,
-                                "小太りの男"
+                                "Chubby Man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もっと、お客様に媚びへつらってお願いするんだ！"
+                                "Beg and grovel to the customers more! You've seen\nwhat happens to the ones who don't sell, haven't\nyou...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "売れ残りがどうなるか、散々見てきただろう…？」"
+                                ""
                             ]
                         },
                         {
@@ -1462,7 +1462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…っ！」"
+                                "...!"
                             ]
                         },
                         {
@@ -1496,21 +1496,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「み、みなさ～ん、わたしなんでもやります…！"
+                                "E-Everyone, I'll do anything...! My body may be\nbroken, but my breasts are still soft, and I can\nstill use my mouth~?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "身体は壊れちゃったけどオッパイもちゃんとやわらかいし、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "口はまだ使えますよ～？」"
+                                ""
                             ]
                         },
                         {
@@ -1547,14 +1547,14 @@
                                 0,
                                 0,
                                 2,
-                                "会場"
+                                "Venue"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「実践してみせろ！」"
+                                "Show it in practice!"
                             ]
                         },
                         {
@@ -1575,14 +1575,14 @@
                                 0,
                                 0,
                                 2,
-                                "会場"
+                                "Venue"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうだ！そうだ！ちゃんとオナホとして使えるのか!?」"
+                                "That's right! That's right! Can she properly be\nused as a sex toy!?"
                             ]
                         },
                         {
@@ -1593,14 +1593,14 @@
                                 0,
                                 0,
                                 2,
-                                "小太りの男"
+                                "Chubby Man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほほほ…その通りですねぇ」"
+                                "Hohoho... That's right, isn't it?"
                             ]
                         },
                         {
@@ -1648,7 +1648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おぐっ…!?」"
+                                "Ugh...!?"
                             ]
                         },
                         {
@@ -1666,14 +1666,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほら！これをご主人様だと思って、"
+                                "Come on! Think of this as your master, and show us\nyour service!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "奉仕してみせろ！」"
+                                ""
                             ]
                         },
                         {
@@ -1707,7 +1707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぅぐ…おぇ…」"
+                                "Ugh... Huh..."
                             ]
                         },
                         {
@@ -1725,7 +1725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんだ、なんだそんなんじゃご主人は満足しないぞ！」"
+                                "What's this, what's this? Your master won't be\nsatisfied with just that!"
                             ]
                         },
                         {
@@ -1795,7 +1795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぎゃぅううううっ‼」"
+                                "Gyaaaaaah‼"
                             ]
                         },
                         {
@@ -1829,7 +1829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "咥内で電流を流され思わず棒を離してしまったエスカに罵声が飛ぶ"
+                                "Insults were hurled at Esuka, who inadvertently\nlet go of the rod when an electric current was\nsent through her mouth."
                             ]
                         },
                         {
@@ -1850,14 +1850,14 @@
                                 0,
                                 0,
                                 2,
-                                "会場"
+                                "Venue"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なにやってんだ！」"
+                                "What are you doing!"
                             ]
                         },
                         {
@@ -1878,14 +1878,14 @@
                                 0,
                                 0,
                                 2,
-                                "会場"
+                                "Venue"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「やる気あるのか！」"
+                                "Do you even want to do this!"
                             ]
                         },
                         {
@@ -1919,7 +1919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まって…もう一度、もう一回やらせてください…っ！」"
+                                "Wait... Please let me do it one more time, just\nonce more...!"
                             ]
                         },
                         {
@@ -1937,7 +1937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エスカの懇願を無視するように会場からはブーイングが響く"
+                                "Ignoring Esuka's plea, boos echoed from the crowd."
                             ]
                         },
                         {
@@ -1948,14 +1948,14 @@
                                 0,
                                 0,
                                 2,
-                                "小太りの男"
+                                "Chubby Man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ざんね～ん、それじゃあ売れ残りは恒例の処刑という事で！」"
+                                "Too bad, then the unsold one will be executed as\nusual!"
                             ]
                         },
                         {
@@ -2001,42 +2001,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いやっ！やめて！なんで！なんでだれも買ってくれないの！"
+                                "No! Stop! Why! Why won't anyone buy me! I'll do\nanything, absolutely anything!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私なんでも、なんでもするからぁ！」"
-                            ]
-                        },
-                        {
-                            "code": 225,
-                            "indent": 0,
-                            "parameters": [
-                                5,
-                                5,
-                                30,
-                                false
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                "観客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うるせぇぞ！売れ残り！」"
+                                ""
                             ]
                         },
                         {
@@ -2057,14 +2029,14 @@
                                 0,
                                 0,
                                 2,
-                                "観客"
+                                "Spectator"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だれもお前なんか欲しくねぇんだよ」"
+                                "Shut up! Unsold goods!"
                             ]
                         },
                         {
@@ -2085,14 +2057,14 @@
                                 0,
                                 0,
                                 2,
-                                "観客"
+                                "Spectator"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「死んじまえ！反逆者」"
+                                "No one wants someone like you."
                             ]
                         },
                         {
@@ -2113,14 +2085,42 @@
                                 0,
                                 0,
                                 2,
-                                "観客"
+                                "Spectator"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「価値のないゴミ！」"
+                                "Die! Traitor!"
+                            ]
+                        },
+                        {
+                            "code": 225,
+                            "indent": 0,
+                            "parameters": [
+                                5,
+                                5,
+                                30,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Spectator"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "You're worthless trash!"
                             ]
                         },
                         {
@@ -2154,7 +2154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…っ！」"
+                                "...!"
                             ]
                         },
                         {
@@ -2165,14 +2165,14 @@
                                 0,
                                 0,
                                 2,
-                                "小太りの男"
+                                "Chubby Man"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それじゃぁみなさん目を離さないように！」"
+                                "Now, everyone, don't take your eyes off!"
                             ]
                         },
                         {
@@ -2190,14 +2190,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "会場からの罵声に言葉を失うエスカ。一瞬動揺した表情を見せたが"
+                                "Esuka lost her words to the jeers from the\naudience. She showed a moment of agitation, but\nsoon murmured as if she had given up on\neverything."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "すぐに全てをあきらめたように呟いた。"
+                                ""
                             ]
                         },
                         {
@@ -2231,7 +2231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ごめんね、シュウ…」"
+                                "I'm sorry, Shuu..."
                             ]
                         },
                         {
@@ -2317,28 +2317,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "呟くのと同時にエスカの頭部が爆発する。"
+                                "At the same time as she murmured, Esuka's head\nexploded. Perhaps the power was restrained for\nspectacle, parts of Esuka's head remained intact,\nemphasizing the brutality even more."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "見世物用に威力は抑えられていたのだろうか、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "エスカの頭部はところどころ原型を残しており、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それがより無残さを強調している。"
+                                ""
                             ]
                         },
                         {
@@ -2356,14 +2356,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フェイクだと信じたかった。画面を食い入るように確認するが、"
+                                "I wanted to believe it was a fake. But as I stared\nintently at the screen, all I could do was\nacknowledge Esuka's death once again."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "エスカの死を改めて認識させられるだけだった。"
+                                ""
                             ]
                         },
                         {
@@ -2482,7 +2482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "崩れ落ちたまま、動けなかった。"
+                                "Unable to move, I remained collapsed."
                             ]
                         },
                         {
@@ -2500,7 +2500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おうぇ…」"
+                                "Ugh..."
                             ]
                         },
                         {
@@ -2518,28 +2518,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レジスタンスに入るとき、仲間を失う事もあると"
+                                "When he joined the Resistance, he had been\nthoroughly briefed that there might be times when\nhe would lose his comrades. Yet, the overly harsh\nreality of his partner's death was more than\nenough to shatter Shuu's heart."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "十分説明は受けていたはずだった。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それでもパートナーの死という重すぎる現実は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "シュウの心を壊すのに十分過ぎた。"
+                                ""
                             ]
                         },
                         {
@@ -2562,21 +2562,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その後直ぐ、レジスタンスの本部にシュウの拠点が攻撃されたと"
+                                "Immediately after that, a report came in to the\nResistance headquarters that Shuu's base had been\nattacked. There were no survivors. That was all\nthe report contained."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "報告が上がった。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "生存者はなし。内容はそれのみだった。"
+                                ""
                             ]
                         },
                         {

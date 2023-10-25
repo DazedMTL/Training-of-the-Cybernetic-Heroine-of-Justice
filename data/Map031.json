@@ -1430,21 +1430,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エスカからの連絡が途絶えてしばらくしてから、"
+                                "After losing contact with Esuka for a while, the\nImperial Army's hunt for the Resistance\nintensified. Shuu had been on the run, but he was\nfinally captured."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "帝国軍によるレジスタンス狩りが激しくなった。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "シュウも逃げ続けていたが、ついに捕縛されてしまう。"
+                                ""
                             ]
                         },
                         {
@@ -1467,7 +1467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くっ…殺すなら殺せ…」"
+                                "Damn... If you're going to kill me, then do it..."
                             ]
                         },
                         {
@@ -1478,14 +1478,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵\\mpd[b]"
+                                "Strengthened Imperial Soldier\\mpd[b]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうはいかないぶひひ！」"
+                                "That's not going to happen, buhihi!"
                             ]
                         },
                         {
@@ -1514,14 +1514,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵\\mpd[b]"
+                                "Strengthened Imperial Soldier\\mpd[b]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お前がエスカちゃんの『元』思い人ぶひねぇ？」"
+                                "So you're Esuka-chan's 'former' lover, huh?"
                             ]
                         },
                         {
@@ -1539,7 +1539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「貴様！エスカの事を知ってるのか…？」"
+                                "You bastard! Do you know about Esuka...?"
                             ]
                         },
                         {
@@ -1550,14 +1550,14 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵\\mpd[b]"
+                                "Enhanced Empire Soldier\\mpd[b]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぶひひひ！結婚式に招待してあげるぶひぃ」"
+                                "Buhihihi! I'll invite you to the wedding, buhii."
                             ]
                         },
                         {

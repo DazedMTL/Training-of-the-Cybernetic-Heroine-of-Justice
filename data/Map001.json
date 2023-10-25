@@ -4254,7 +4254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大容量電池を手に入れた！"
+                                "I've obtained a high-capacity battery!"
                             ]
                         },
                         {
@@ -4444,14 +4444,14 @@
                                 0,
                                 0,
                                 2,
-                                "レジスタンス"
+                                "Resistance"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「た、助けに来てくれたのか…！」"
+                                "D-did you come to save me...!"
                             ]
                         },
                         {
@@ -4469,7 +4469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もちろんでしょ！さぁ一緒に逃げましょう」"
+                                "Of course! Now, let's escape together."
                             ]
                         },
                         {
@@ -4480,21 +4480,21 @@
                                 0,
                                 0,
                                 2,
-                                "レジスタンス"
+                                "Resistance"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いや、一人で大丈夫だ。それより他の仲間を…"
+                                "No, I'm fine on my own. Instead, our comrades...\nthey must be going through something much worse."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もっとひどい目にあってるはずだ」"
+                                ""
                             ]
                         },
                         {
@@ -4512,14 +4512,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この人のサポートはこっちでするよ、"
+                                "I'll take care of supporting this person, Esuka,\nyou continue the search."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "エスカは捜索を続けてくれ」"
+                                ""
                             ]
                         },
                         {
@@ -4537,7 +4537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「わかったわ」"
+                                "Understood."
                             ]
                         },
                         {
@@ -4762,7 +4762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くそっ！間に合わなかったか！」"
+                                "Damn it! I didn't make it in time!"
                             ]
                         },
                         {
@@ -4780,7 +4780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ごめんなさい…ごめんなさい…」"
+                                "I'm sorry... I'm sorry..."
                             ]
                         },
                         {
@@ -4798,7 +4798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エスカ、捕まってる仲間はまだいる、急ぐんだ」"
+                                "Esuka, there are still comrades who have been\ncaptured, we need to hurry."
                             ]
                         },
                         {
@@ -4816,7 +4816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うん…そうね…」"
+                                "Yeah... That's right..."
                             ]
                         },
                         {
@@ -4893,7 +4893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "息絶えている…酷い拷問を受けたようだ…"
+                                "She seems to have suffered a terrible torture...\nshe's barely breathing..."
                             ]
                         },
                         {
@@ -4973,14 +4973,14 @@
                                 0,
                                 0,
                                 2,
-                                "レジスタンス"
+                                "Resistance"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うぅうう…」"
+                                "Uuuu..."
                             ]
                         },
                         {
@@ -4998,7 +4998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しっかり！しっかりして！」"
+                                "Hold on! Stay strong!"
                             ]
                         },
                         {
@@ -5016,7 +5016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くそ…なにか薬物を打たれたのか？」"
+                                "Damn... Have I been injected with some kind of\ndrug?"
                             ]
                         },
                         {
@@ -5034,7 +5034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「シュウ、一人で立てそうにないわ、私が担いで逃げる！」"
+                                "Shuu, you don't seem to be able to stand on your\nown. I'll carry you and we'll escape!"
                             ]
                         },
                         {
@@ -5052,7 +5052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「頼むぞエスカ！」"
+                                "I'm counting on you, Esuka!"
                             ]
                         },
                         {
@@ -5251,14 +5251,14 @@
                                 0,
                                 0,
                                 2,
-                                "レジスタンス？"
+                                "Resistance?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁ！助けに来てくれたのですね！」"
+                                "Ah! You've come to help me!"
                             ]
                         },
                         {
@@ -5276,7 +5276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さぁ逃げるわよ！立てる？」"
+                                "Now, let's escape! Can you stand?"
                             ]
                         },
                         {
@@ -5287,14 +5287,14 @@
                                 0,
                                 0,
                                 2,
-                                "レジスタンス？"
+                                "Resistance?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「足を折られてしまって…すみませんがおぶってくれませんか？」"
+                                "I'm afraid my leg is broken... Could you possibly\ncarry me?"
                             ]
                         },
                         {
@@ -5312,7 +5312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「わかったわ！」"
+                                "Understood!"
                             ]
                         },
                         {
@@ -5330,7 +5330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まてエスカ、なにか気になる」"
+                                "Wait, Esuka, something's bothering me."
                             ]
                         },
                         {
@@ -5357,7 +5357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…？どうしたのシュウなにか気になるの？」"
+                                "...? What's wrong, Shuu? Is something bothering\nyou?"
                             ]
                         },
                         {
@@ -5384,7 +5384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あのぅ…急いだほうがいいんじゃ…」"
+                                "Um... Shouldn't we hurry...?"
                             ]
                         },
                         {
@@ -5402,14 +5402,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※この後選択肢が出ますセーブしますか？"
+                                "※A choice will appear after this. Do you want to\nsave? (Depending on your choice, it may result in\na game over)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（選択肢によってはゲームオーバーになります）"
+                                ""
                             ]
                         },
                         {
@@ -5417,8 +5417,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "セーブする",
-                                    "いいえ"
+                                    "Save",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5477,7 +5477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうする"
+                                "What will you do?"
                             ]
                         },
                         {
@@ -5485,8 +5485,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "気のせいか…",
-                                    "もう少し調べよう"
+                                    "Is it just my imagination",
+                                    "Let's investigate a bit more"
                                 ],
                                 1,
                                 0,
@@ -5517,7 +5517,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「さぁ！逃げるわよ！」"
+                                "Come on! Let's escape!"
                             ]
                         },
                         {
@@ -5528,14 +5528,14 @@
                                 0,
                                 0,
                                 2,
-                                "レジスタンス？"
+                                "Resistance?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ぶひひひ…」"
+                                "Buhuhuhu..."
                             ]
                         },
                         {
@@ -5598,7 +5598,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うぅ…!?」"
+                                "Ugh...!?"
                             ]
                         },
                         {
@@ -5616,7 +5616,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「エスカ!?」"
+                                "Esuka!?"
                             ]
                         },
                         {
@@ -5627,21 +5627,21 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵\\mpd[b]"
+                                "Strengthened Imperial Soldier\\mpd[b]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「やったぶひ！失敗作と蔑まされていた僕チンが！"
+                                "Buhuhu! I did it! I, who was scorned as a failure,\nhave captured the Resistance!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "レジスタンスをつかまえたぶひ！」"
+                                ""
                             ]
                         },
                         {
@@ -5659,7 +5659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「し、しまった…」"
+                                "D-damn it..."
                             ]
                         },
                         {
@@ -5714,7 +5714,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「なんかあやしくないか？」"
+                                "Isn't something suspicious?"
                             ]
                         },
                         {
@@ -5732,7 +5732,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「そういわれれば…」"
+                                "Now that you mention it..."
                             ]
                         },
                         {
@@ -5743,14 +5743,14 @@
                                 0,
                                 0,
                                 2,
-                                "レジスタンス？"
+                                "Resistance?"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ぶひぃ!?」"
+                                "Buhii!?"
                             ]
                         },
                         {
@@ -5768,7 +5768,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「あんたほんとにレジスタンス？」"
+                                "Are you really with the Resistance?"
                             ]
                         },
                         {
@@ -5800,21 +5800,21 @@
                                 0,
                                 0,
                                 2,
-                                "強化帝国兵\\mpd[b]"
+                                "Enhanced Empire Soldier\\mpd[b]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ばれちゃぁ仕方ねぇ！失敗作とはいえおれも改造兵士の一人！"
+                                "Well, it can't be helped if I'm found out! Even\nthough I'm considered a failure, I'm still one of\nthe modified soldiers! Let's have a fair and\nsquare fight! A fight!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "いざ尋常に勝負ぶひ！勝負ぶひぃ！」"
+                                ""
                             ]
                         },
                         {
@@ -5832,7 +5832,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「な、なによこいつ」"
+                                "W-what is this guy?"
                             ]
                         },
                         {
@@ -6016,14 +6016,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんだかよくわからなかったけど、"
+                                "I'm not quite sure what happened, but at least I'm\nglad we didn't have to call for backup."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "とにかく仲間を呼ばれなくてよかったわ」"
+                                ""
                             ]
                         },
                         {
@@ -6041,14 +6041,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「改造兵士にするためにかなり無茶な実験もしているらしい、"
+                                "It seems they're conducting quite reckless\nexperiments to turn people into modified soldiers.\nI suppose there are some who end up with issues in\ntheir judgment and personality."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "判断力や人格に問題がでる奴もいるんだろう」"
+                                ""
                             ]
                         },
                         {
@@ -7084,7 +7084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大容量電池を手に入れた！"
+                                "I've obtained a high-capacity battery!"
                             ]
                         },
                         {

@@ -15383,7 +15383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここの建物怪しいわね」"
+                                "This building seems suspicious."
                             ]
                         },
                         {
@@ -15401,7 +15401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁ…潜入方法を考えないと…」"
+                                "Ah... I need to think of a way to infiltrate..."
                             ]
                         },
                         {
@@ -15419,14 +15419,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※この後選択肢が出ますセーブしますか？"
+                                "※After this, a choice will appear. Do you want to\nsave? (Depending on your choice, it may result in\na game over.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（選択肢によってはゲームオーバーになります）"
+                                ""
                             ]
                         },
                         {
@@ -15434,8 +15434,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "セーブする",
-                                    "いいえ"
+                                    "Save",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15494,7 +15494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうする」"
+                                "What should we do?"
                             ]
                         },
                         {
@@ -15502,8 +15502,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "強硬突破だ！",
-                                    "『商品』のふりをして紛れ込む"
+                                    "Let's force our way through!",
+                                    "Pretend to be a 'product' and sneak in"
                                 ],
                                 1,
                                 0,
@@ -15534,7 +15534,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「強行突破しかないでしょ！」"
+                                "We have no choice but to force our way through!"
                             ]
                         },
                         {
@@ -15552,7 +15552,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「まてまて！」"
+                                "Wait, wait!"
                             ]
                         },
                         {
@@ -15797,14 +15797,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うわぁなんだこいつ！」"
+                                "Whoa, what's with this guy!"
                             ]
                         },
                         {
@@ -15860,7 +15860,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うおりゃぁああああああぁああ！」"
+                                "Uoryaaaaaaa!"
                             ]
                         },
                         {
@@ -15871,21 +15871,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うわぁあ！武器が効かないぞ!?"
+                                "Uwaaa! Our weapons aren't working!? Bring the\nrocket launcher!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ロケットランチャーもってこい！」"
+                                ""
                             ]
                         },
                         {
@@ -15896,14 +15896,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「撤退！撤退だ！」"
+                                "Retreat! It's a retreat!"
                             ]
                         },
                         {
@@ -15965,7 +15965,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ねぇ商品のふりして紛れ込めばいいんじゃない？」"
+                                "Hey, wouldn't it be a good idea to blend in by\npretending to be merchandise?"
                             ]
                         },
                         {
@@ -15983,7 +15983,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「危険すぎる。賛成できないな…」"
+                                "It's too dangerous. I can't agree to that..."
                             ]
                         },
                         {
@@ -16001,7 +16001,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「大丈夫だって！私の事、信用できない？」"
+                                "It's okay! Can't you trust me?"
                             ]
                         },
                         {
@@ -16019,7 +16019,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「…わかった、ただし危なくなったらすぐ撤退だからな」"
+                                "...Alright, but if it gets dangerous, we're\nretreating immediately."
                             ]
                         },
                         {
@@ -16037,7 +16037,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「そうこなくっちゃ！」"
+                                "That's the spirit!"
                             ]
                         },
                         {
@@ -16055,7 +16055,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「本部に連絡して準備する。しばらく身を潜めていてくれ」"
+                                "Contact headquarters and prepare. Please lay low\nfor a while."
                             ]
                         },
                         {
@@ -16626,14 +16626,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ん？なんだお前」"
+                                "Hm? Who are you?"
                             ]
                         },
                         {
@@ -16651,14 +16651,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「へい…あたらしい商品を持ってきたのですが、"
+                                "Hey... I've brought some new merchandise, where\nshould I take it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どこへ運びましょうか」"
+                                ""
                             ]
                         },
                         {
@@ -16669,21 +16669,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁなんかそんな連絡きてたな。"
+                                "Ah, I remember receiving some sort of notification\nabout that. It's fine, it's fine, we'll carry it\nfrom here. Thanks for your hard work."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いいよいいよこっちで運ぶから、ごくろうさん」"
+                                ""
                             ]
                         },
                         {
@@ -16701,7 +16701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はいお願いします」"
+                                "Yes, please do."
                             ]
                         },
                         {
@@ -16728,7 +16728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（頼むぞ、エスカ…）"
+                                "(I'm counting on you, Esuka...)"
                             ]
                         },
                         {
@@ -17293,7 +17293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここの建物怪しいわね」"
+                                "This building seems suspicious."
                             ]
                         },
                         {
@@ -17311,7 +17311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁ…潜入方法を考えないと…」"
+                                "Ah... I need to think of a way to infiltrate..."
                             ]
                         },
                         {
@@ -17329,14 +17329,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※この後選択肢が出ますセーブしますか？"
+                                "※After this, a choice will appear. Do you want to\nsave? (Depending on the choice, it may result in\ngame over)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（選択肢によってはゲームオーバーになります）"
+                                ""
                             ]
                         },
                         {
@@ -17344,8 +17344,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "セーブする",
-                                    "いいえ"
+                                    "Save the game",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17404,7 +17404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうする」"
+                                "What should we do?"
                             ]
                         },
                         {
@@ -17412,8 +17412,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "強硬突破だ！",
-                                    "『商品』のふりをして紛れ込む"
+                                    "Let's break through forcefully!",
+                                    "Pretend to be a 'product' and sneak in"
                                 ],
                                 1,
                                 0,
@@ -17444,7 +17444,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「強行突破しかないでしょ！」"
+                                "We have no choice but to force our way through!"
                             ]
                         },
                         {
@@ -17462,7 +17462,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「まてまて！」"
+                                "Wait, wait!"
                             ]
                         },
                         {
@@ -17707,14 +17707,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うわぁなんだこいつ！」"
+                                "Whoa, what's with this guy!"
                             ]
                         },
                         {
@@ -17758,7 +17758,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うおりゃぁああああああぁああ！」"
+                                "Uoryaaaaaaaah!"
                             ]
                         },
                         {
@@ -17769,21 +17769,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うわぁあ！武器が効かないぞ!?"
+                                "Uwaaaah! Our weapons aren't working!? Bring the\nrocket launcher!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ロケットランチャーもってこい！」"
+                                ""
                             ]
                         },
                         {
@@ -17794,14 +17794,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「撤退！撤退だ！」"
+                                "Retreat! It's a retreat!"
                             ]
                         },
                         {
@@ -17863,7 +17863,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ねぇ商品のふりして紛れ込めばいいんじゃない？」"
+                                "Hey, wouldn't it be a good idea to blend in by\npretending to be merchandise?"
                             ]
                         },
                         {
@@ -17881,7 +17881,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「危険すぎる。賛成できないな…」"
+                                "It's too dangerous. I can't agree to that..."
                             ]
                         },
                         {
@@ -17899,7 +17899,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「大丈夫だって！私の事、信用できない？」"
+                                "It's okay! Can't you trust me?"
                             ]
                         },
                         {
@@ -17917,7 +17917,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「…わかった、ただし危なくなったらすぐ撤退だからな」"
+                                "...Alright, but if it gets dangerous, we're\nretreating immediately."
                             ]
                         },
                         {
@@ -17935,7 +17935,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「そうこなくっちゃ！」"
+                                "That's the spirit!"
                             ]
                         },
                         {
@@ -17953,7 +17953,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「本部に連絡して準備する。しばらく身を潜めていてくれ」"
+                                "Contact headquarters and prepare. Please lay low\nfor a while."
                             ]
                         },
                         {
@@ -18193,7 +18193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここの建物怪しいわね」"
+                                "This building seems suspicious."
                             ]
                         },
                         {
@@ -18211,7 +18211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁ…潜入方法を考えないと…」"
+                                "Ah... I need to think of a way to infiltrate..."
                             ]
                         },
                         {
@@ -18229,14 +18229,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※この後選択肢が出ますセーブしますか？"
+                                "※After this, a choice will appear. Do you want to\nsave? (Depending on the choice, the game may end.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（選択肢によってはゲームオーバーになります）"
+                                ""
                             ]
                         },
                         {
@@ -18244,8 +18244,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "セーブする",
-                                    "いいえ"
+                                    "Save",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18304,7 +18304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうする」"
+                                "What should we do?"
                             ]
                         },
                         {
@@ -18312,8 +18312,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "強硬突破だ！",
-                                    "『商品』のふりをして紛れ込む"
+                                    "Let's break through forcefully!",
+                                    "Pretend to be a 'product' and sneak in"
                                 ],
                                 1,
                                 0,
@@ -18344,7 +18344,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「強行突破しかないでしょ！」"
+                                "We have no choice but to force our way through!"
                             ]
                         },
                         {
@@ -18362,7 +18362,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「まてまて！」"
+                                "Wait, wait!"
                             ]
                         },
                         {
@@ -18607,14 +18607,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うわぁなんだこいつ！」"
+                                "Whoa, what's with this guy!"
                             ]
                         },
                         {
@@ -18658,7 +18658,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うおりゃぁああああああぁああ！」"
+                                "Uoryaaaaaaaah!"
                             ]
                         },
                         {
@@ -18669,21 +18669,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うわぁあ！武器が効かないぞ!?"
+                                "Whoa! Our weapons aren't working!? Bring the\nrocket launcher!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ロケットランチャーもってこい！」"
+                                ""
                             ]
                         },
                         {
@@ -18694,14 +18694,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「撤退！撤退だ！」"
+                                "Retreat! It's a retreat!"
                             ]
                         },
                         {
@@ -18763,7 +18763,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ねぇ商品のふりして紛れ込めばいいんじゃない？」"
+                                "Hey, why don't we blend in by pretending to be\nmerchandise?"
                             ]
                         },
                         {
@@ -18781,7 +18781,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「危険すぎる。賛成できないな…」"
+                                "It's too dangerous. I can't agree to that..."
                             ]
                         },
                         {
@@ -18799,7 +18799,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「大丈夫だって！私の事、信用できない？」"
+                                "It's okay! Don't you trust me?"
                             ]
                         },
                         {
@@ -18817,7 +18817,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「…わかった、ただし危なくなったらすぐ撤退だからな」"
+                                "...Alright, but if it gets dangerous, we're\nretreating immediately."
                             ]
                         },
                         {
@@ -18835,7 +18835,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「そうこなくっちゃ！」"
+                                "That's the spirit!"
                             ]
                         },
                         {
@@ -18853,7 +18853,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「本部に連絡して準備する。しばらく身を潜めていてくれ」"
+                                "Contact headquarters and prepare. Please lay low\nfor a while."
                             ]
                         },
                         {
@@ -19195,7 +19195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここの建物怪しいわね」"
+                                "This building seems suspicious."
                             ]
                         },
                         {
@@ -19213,7 +19213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁ…潜入方法を考えないと…」"
+                                "Ah... I need to think of a way to infiltrate..."
                             ]
                         },
                         {
@@ -19231,14 +19231,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※この後選択肢が出ますセーブしますか？"
+                                "※After this, a choice will appear. Do you want to\nsave? (Depending on the choice, it may result in\ngame over)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（選択肢によってはゲームオーバーになります）"
+                                ""
                             ]
                         },
                         {
@@ -19246,8 +19246,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "セーブする",
-                                    "いいえ"
+                                    "Save the game",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -19306,7 +19306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうする」"
+                                "What should we do?"
                             ]
                         },
                         {
@@ -19314,8 +19314,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "強硬突破だ！",
-                                    "『商品』のふりをして紛れ込む"
+                                    "Let's break through forcefully!",
+                                    "Pretend to be a 'product' and sneak in"
                                 ],
                                 1,
                                 0,
@@ -19346,7 +19346,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「強行突破しかないでしょ！」"
+                                "We have no choice but to force our way through!"
                             ]
                         },
                         {
@@ -19364,7 +19364,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「まてまて！」"
+                                "Wait, wait!"
                             ]
                         },
                         {
@@ -19609,14 +19609,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うわぁなんだこいつ！」"
+                                "Whoa, what's with this guy!"
                             ]
                         },
                         {
@@ -19660,7 +19660,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うおりゃぁああああああぁああ！」"
+                                "Uoryaaaaaaa!"
                             ]
                         },
                         {
@@ -19671,21 +19671,21 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うわぁあ！武器が効かないぞ!?"
+                                "Whoa! Our weapons aren't working!? Bring the\nrocket launcher!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ロケットランチャーもってこい！」"
+                                ""
                             ]
                         },
                         {
@@ -19696,14 +19696,14 @@
                                 0,
                                 0,
                                 2,
-                                "帝国兵"
+                                "Imperial Soldier"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「撤退！撤退だ！」"
+                                "Retreat! It's a retreat!"
                             ]
                         },
                         {
@@ -19765,7 +19765,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ねぇ商品のふりして紛れ込めばいいんじゃない？」"
+                                "Hey, wouldn't it be a good idea to blend in by\npretending to be merchandise?"
                             ]
                         },
                         {
@@ -19783,7 +19783,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「危険すぎる。賛成できないな…」"
+                                "It's too dangerous. I can't agree to that..."
                             ]
                         },
                         {
@@ -19801,7 +19801,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「大丈夫だって！私の事、信用できない？」"
+                                "It's okay! Don't you trust me?"
                             ]
                         },
                         {
@@ -19819,7 +19819,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「…わかった、ただし危なくなったらすぐ撤退だからな」"
+                                "...Alright, but if it gets dangerous, we're\nretreating immediately."
                             ]
                         },
                         {
@@ -19837,7 +19837,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「そうこなくっちゃ！」"
+                                "That's the spirit!"
                             ]
                         },
                         {
@@ -19855,7 +19855,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「本部に連絡して準備する。しばらく身を潜めていてくれ」"
+                                "Contact headquarters and prepare. Please lay low\nfor a while."
                             ]
                         },
                         {
@@ -21195,7 +21195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エスカ！無事か！」"
+                                "Esuka! Are you alright!"
                             ]
                         },
                         {
@@ -21213,7 +21213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「シュウ！この騒ぎは…⁉」"
+                                "Shuu! What's all this commotion...⁉"
                             ]
                         },
                         {
@@ -21231,7 +21231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「近くに来ていたレジスタンスに陽動をお願いしたんだ！」"
+                                "I asked the resistance nearby to create a\ndiversion!"
                             ]
                         },
                         {
@@ -21242,21 +21242,21 @@
                                 0,
                                 0,
                                 2,
-                                "レジスタンス"
+                                "Resistance"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どのみちオークションを潰すためには"
+                                "Either way, we needed to attack that building to\nbring down the auction!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの建物を攻撃する必要があったからな！」"
+                                ""
                             ]
                         },
                         {
@@ -21274,14 +21274,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんにせよ助かったわ！"
+                                "Regardless, I'm glad we made it! They're creating\nincreasingly powerful modified soldiers..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あいつら、どんどん強力な改造兵を作ってる…」"
+                                ""
                             ]
                         },
                         {
@@ -21299,7 +21299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「話はあとだ、撤退しよう。皆さんも撤退を」"
+                                "We'll talk later, let's retreat. Everyone else\nshould also withdraw."
                             ]
                         },
                         {
@@ -21310,14 +21310,14 @@
                                 0,
                                 0,
                                 2,
-                                "レジスタンス"
+                                "Resistance"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おう、さっさとずらかるぞ！」"
+                                "Yeah, let's get out of here quickly!"
                             ]
                         },
                         {
@@ -22877,7 +22877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "電池を手に入れた！"
+                                "I've obtained the battery!"
                             ]
                         },
                         {
@@ -23125,7 +23125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "電池を手に入れた！"
+                                "I've obtained the battery!"
                             ]
                         },
                         {
@@ -23372,7 +23372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "追加装甲Mk-2を手に入れた！"
+                                "I've obtained the Additional Armor Mk-2!"
                             ]
                         },
                         {
@@ -23620,7 +23620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "電池を手に入れた！"
+                                "I've obtained the battery!"
                             ]
                         },
                         {

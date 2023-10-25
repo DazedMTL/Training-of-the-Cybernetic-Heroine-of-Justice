@@ -807,21 +807,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "国連軍の攻撃に紛れ、俺は一人で総統府から脱出した。"
+                                "Amidst the United Nations' attack, I managed to\nescape from the Presidential Palace alone. After\nthat, I went to the ruins of the palace almost\nevery day, searching through the rubble, but I\ncouldn't find Esuka."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの後、毎日のように総統府の跡地に行き瓦礫の中を探したが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "エスカは見つからなかった。"
+                                ""
                             ]
                         },
                         {
@@ -839,7 +839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなある日、一つの荷物が届いた。"
+                                "One day, a package arrived."
                             ]
                         },
                         {
@@ -862,7 +862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いやな予感を抱きつつ、荷物を開ける。"
+                                "With a bad feeling, I open the package."
                             ]
                         },
                         {
@@ -906,7 +906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "荷物を開けると、変わり果てた姿のエスカが目に飛び込んできた。"
+                                "When I opened the package, a drastically changed\nEsuka jumped into my sight."
                             ]
                         },
                         {
@@ -924,14 +924,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "帝国の報復に間違いなかった。四肢は切り取られ、"
+                                "There was no doubt it was the Empire's\nretaliation. Her limbs had been severed, and there\nwere signs of assault everywhere."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いたるところに暴行の跡がある。"
+                                ""
                             ]
                         },
                         {
@@ -949,14 +949,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "罪悪感と後悔が何度も何度も波になって襲ってくる。"
+                                "Waves of guilt and regret keep hitting me over and\nover again. Why didn't I escape with her at that\ntime...."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうしてあの時一緒に逃げなかったのか…。"
+                                ""
                             ]
                         },
                         {
@@ -990,14 +990,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エスカの顔がほんの少し動いた。"
+                                "Esuka's face moved just a little. Is it a\nhallucination...? No... Esuka is still alive."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "幻覚だろうか…？いや…エスカはまだ生きているのだ。"
+                                ""
                             ]
                         },
                         {
@@ -1099,21 +1099,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テレビからニュースの音が聞こえる。"
+                                "The sound of the news can be heard from the TV.\nSomething about the government, something about\nterrorism, it's all pointless chatter. It has\nnothing to do with me, there's nothing I can do\nabout it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "政権がどうとか、テロがどうとかくだらない話しだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おれには関係ない、おれにはどうしようもない。"
+                                ""
                             ]
                         },
                         {
@@ -1164,7 +1164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エスカっ！エスカっ！」"
+                                "Esuka! Esuka!"
                             ]
                         },
                         {
@@ -1182,28 +1182,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "動かないエスカに何度も何度も腰を打ち付ける。"
+                                "I thrust my hips into the unmoving Esuka over and\nover again. How many days have we been doing this?\nFor some reason, I had no appetite or desire to\nsleep, only the self-destructive act of thrusting\nmy hips gave me any sense of reality."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何日こうしているのだろうか。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "食欲も睡眠欲もどうしてか湧いてこなかった、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "自暴自棄に腰を打ち付けている時だけが"
+                                ""
                             ]
                         },
                         {
@@ -1221,7 +1221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "罪悪感も虚無感を忘れられた。"
+                                "I was able to forget the guilt and the feeling of\nemptiness."
                             ]
                         },
                         {
@@ -1288,7 +1288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁああっ！」"
+                                "Ahhh!"
                             ]
                         },
                         {
@@ -1306,21 +1306,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また射精してしまった。"
+                                "I've ejaculated again. I think Esuka must hate\nbeing treated like this. I wanted her to wake up\nand curse at me. I wanted her to attack me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "エスカはきっとこんな風に扱われるのは嫌だろうと思う。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "起きてきて罵倒して欲しかった。殴りかかってきて欲しかった。"
+                                ""
                             ]
                         },
                         {
@@ -1338,7 +1338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし、あの日からエスカはなんの反応も示さない。"
+                                "However, since that day, Esuka has shown no\nreaction."
                             ]
                         },
                         {
@@ -1384,14 +1384,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "またおれはエスカに腰を打ち付け始める。"
+                                "Once again, I start thrusting my hips into Esuka.\nI'm sure I'll keep repeating the same thing from\nnow on."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "きっとこれからもずっと同じ事を繰り返すのだろう。"
+                                ""
                             ]
                         },
                         {
@@ -1444,14 +1444,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※ヒント※"
+                                "*Hint* For the final battle, please review your\nitem list as well."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "最後の戦いは、アイテム欄も見直してみてください。"
+                                ""
                             ]
                         },
                         {
