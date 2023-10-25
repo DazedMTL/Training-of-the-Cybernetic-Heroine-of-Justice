@@ -146,7 +146,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「エスカ！エスカ！返事をしてくれ…！」"
+                            "Esuka! Esuka! Please respond...!"
                         ]
                     },
                     {
@@ -164,7 +164,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「シュウ…なの…良かった…また会えて…」"
+                            "Shuu... it's you... thank goodness... we meet\nagain..."
                         ]
                     },
                     {
@@ -182,7 +182,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「エスカ…！何とかする、しっかりしてくれ」"
+                            "Esuka...! I'll do something, please hold on."
                         ]
                     },
                     {
@@ -200,21 +200,21 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「えへへ…ごめん、もうエネルギーがないみたい…"
+                            "Ehehe... I'm sorry, it seems I don't have any\nenergy left... They intend to use this child and\nme to annihilate the resistance... If we go out\nlike this, it won't be good..."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "あいつらこの子と私を使ってレジスタンスを殲滅する気よ…"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "このまま外に出したらダメ…」"
+                            ""
                         ]
                     },
                     {
@@ -232,14 +232,14 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "まだ意識は残ってそうだが、エネルギーを使い果たしたのか、"
+                            "She still seems to be conscious, but she's\ncompletely exhausted... What should I do..."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "ぐったりしている…どうすれば…"
+                            ""
                         ]
                     },
                     {
@@ -551,14 +551,14 @@
                             0,
                             0,
                             2,
-                            "強化帝国兵"
+                            "Strengthened Imperial Soldier"
                         ]
                     },
                     {
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「ふははは、貴様では俺に傷一つ負わせられんぞ！」"
+                            "Fuhahaha, you can't even inflict a single wound\non me!"
                         ]
                     },
                     {
@@ -593,14 +593,14 @@
                             0,
                             0,
                             2,
-                            "強化帝国兵"
+                            "Strengthened Imperial Soldier"
                         ]
                     },
                     {
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「これが…総統閣下に頂いた超再生能力…！」"
+                            "This is... the super regeneration ability...\nbestowed upon me by President Waltin...!"
                         ]
                     },
                     {
@@ -635,14 +635,14 @@
                             0,
                             0,
                             2,
-                            "強化帝国兵"
+                            "Strengthened Imperial Soldier"
                         ]
                     },
                     {
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「ふふふ…無駄無駄」"
+                            "Hehehe... futile, futile."
                         ]
                     },
                     {
@@ -702,28 +702,28 @@
                             0,
                             0,
                             2,
-                            "帝国兵"
+                            "Imperial Soldier"
                         ]
                     },
                     {
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「な、なんだコイツ!?武器が効いてないぞ…!?"
+                            "Wha, what is this guy!? Our weapons aren't\nworking...!? Are the Resistance's cyborgs this\nstrong? We, we need to bring in anti-tank\nweaponry... it's impossible otherwise..."
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "レジスタンスのサイボーグはこんなに強いのか？"
+                            ""
                         ]
                     },
                     {
-                        "code": 401,
+                        "code": 0,
                         "indent": 0,
                         "parameters": [
-                            "た、対戦車兵器でも持ってこなきゃむりだ…」"
+                            ""
                         ]
                     },
                     {
@@ -772,14 +772,14 @@
                             0,
                             0,
                             2,
-                            "強化帝国兵\\mp[0]"
+                            "Strengthened Imperial Soldier\\mp[0]"
                         ]
                     },
                     {
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「ふふふ…逃げ場は無いぞ？」"
+                            "Hehehe... There's no place to run, is there?"
                         ]
                     },
                     {
@@ -814,14 +814,14 @@
                             0,
                             0,
                             2,
-                            "強化帝国兵\\mp[0]"
+                            "Strengthened Imperial Soldier\\mp[0]"
                         ]
                     },
                     {
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「その程度か？総統閣下はどうしてこんな玩具を欲しがるのだ…」"
+                            "Is that all? Why would President Waltin want such\na toy..."
                         ]
                     },
                     {
@@ -987,14 +987,14 @@
                             0,
                             0,
                             2,
-                            "強化帝国兵\\mp[0]"
+                            "Strengthened Imperial Soldier\\mp[0]"
                         ]
                     },
                     {
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「ぶひゃひゃ、可愛い女の子ぶひぃ～、エッチしたいぶひぃ」"
+                            "Buhya hya, cute girl buhii~, I want to do naughty\nthings buhii."
                         ]
                     },
                     {
@@ -1029,14 +1029,14 @@
                             0,
                             0,
                             2,
-                            "強化帝国兵\\mp[0]"
+                            "Strengthened Imperial Soldier\\mp[0]"
                         ]
                     },
                     {
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「ぶひゃぁああああああ！」"
+                            "Buhhyaaaaaaaaa!"
                         ]
                     },
                     {
@@ -1225,7 +1225,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「寄生生物が孵化した…」"
+                            "The parasitic organism has hatched..."
                         ]
                     },
                     {
@@ -1304,14 +1304,14 @@
                             0,
                             0,
                             2,
-                            "強化帝国兵\\mp[0]"
+                            "Strengthened Imperial Soldier\\mp[0]"
                         ]
                     },
                     {
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「ぶひゃひゃ、可愛い女の子ぶひぃ～、エッチしたいぶひぃ」"
+                            "Buhya hya, cute girl buhii~, I want to have sex\nbuhii"
                         ]
                     },
                     {
@@ -1346,14 +1346,14 @@
                             0,
                             0,
                             2,
-                            "強化帝国兵"
+                            "Strengthened Imperial Soldier"
                         ]
                     },
                     {
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「ぶひひ…！かわいいぶひね～！」"
+                            "Buhhihi...! You're so cute, buhhi~!"
                         ]
                     },
                     {
@@ -1371,7 +1371,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "強化帝国兵が抱きついてきた…"
+                            "The Strengthened Imperial Soldier hugged me..."
                         ]
                     },
                     {
@@ -1407,7 +1407,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「は、離しなさいよ…！ブタ！」"
+                            "L-let go of me...! You pig!"
                         ]
                     },
                     {
@@ -1474,14 +1474,14 @@
                             0,
                             0,
                             2,
-                            "強化帝国兵\\mp[0]"
+                            "Enhanced Empire Soldier\\mp[0]"
                         ]
                     },
                     {
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "「ぶひゃぁああああああ！」"
+                            "Buhhaaaaaaaaa!"
                         ]
                     },
                     {

@@ -58,7 +58,7 @@
             }
         ],
         "gold": 0,
-        "name": "帝国兵",
+        "name": "Imperial Soldier",
         "note": "",
         "params": [
             190,
@@ -139,7 +139,7 @@
             }
         ],
         "gold": 0,
-        "name": "帝国警備ロボ近接型",
+        "name": "Imperial Guard Robot Close-Range Type",
         "note": "",
         "params": [
             350,
@@ -215,7 +215,7 @@
             }
         ],
         "gold": 0,
-        "name": "帝国警備ロボ",
+        "name": "Imperial Security Robot",
         "note": "",
         "params": [
             400,
@@ -291,7 +291,7 @@
             }
         ],
         "gold": 0,
-        "name": "帝国警備ロボMk-2",
+        "name": "Imperial Guard Robot Mk-2",
         "note": "",
         "params": [
             450,
@@ -355,7 +355,7 @@
             }
         ],
         "gold": 0,
-        "name": "帝国ドローン",
+        "name": "Imperial Drone",
         "note": "",
         "params": [
             100,
@@ -421,7 +421,7 @@
             }
         ],
         "gold": 0,
-        "name": "帝国ドローンMk-2",
+        "name": "Imperial Drone Mk-2",
         "note": "",
         "params": [
             200,
@@ -504,7 +504,7 @@
             }
         ],
         "gold": 0,
-        "name": "大型バイオ帝国兵",
+        "name": "Large Bio-Empire Soldier",
         "note": "",
         "params": [
             1000,
@@ -563,7 +563,7 @@
             }
         ],
         "gold": 0,
-        "name": "帝国キメラ",
+        "name": "Imperial Chimera",
         "note": "<BigEnemy:OriginalRatio> ",
         "params": [
             9999,
@@ -620,7 +620,7 @@
             }
         ],
         "gold": 0,
-        "name": "下級帝国兵",
+        "name": "Low-ranking Imperial Soldier",
         "note": "",
         "params": [
             100,
@@ -706,7 +706,7 @@
             }
         ],
         "gold": 0,
-        "name": "量産型強化帝国兵",
+        "name": "Mass-Produced Enhanced Imperial Soldier",
         "note": "",
         "params": [
             1000,
@@ -780,7 +780,7 @@
             }
         ],
         "gold": 0,
-        "name": "バイオ帝国兵",
+        "name": "Bio Empire Soldier",
         "note": "",
         "params": [
             200,
@@ -856,7 +856,7 @@
             }
         ],
         "gold": 0,
-        "name": "強化帝国兵",
+        "name": "Enhanced Imperial Soldier",
         "note": "<BigEnemy:OriginalRatio> \n",
         "params": [
             5000,
@@ -925,7 +925,7 @@
             }
         ],
         "gold": 0,
-        "name": "強化帝国兵Ｂ型",
+        "name": "Enhanced Imperial Soldier Type B",
         "note": "<BigEnemy:OriginalRatio> \n",
         "params": [
             800,
@@ -987,7 +987,7 @@
             }
         ],
         "gold": 0,
-        "name": "だみ",
+        "name": "Dammy",
         "note": "",
         "params": [
             1000,
@@ -1063,7 +1063,7 @@
             }
         ],
         "gold": 0,
-        "name": "強化帝国兵",
+        "name": "Enhanced Imperial Soldier",
         "note": "<BigEnemy:OriginalRatio> \n",
         "params": [
             5000,
@@ -1139,7 +1139,7 @@
             }
         ],
         "gold": 0,
-        "name": "強化帝国兵Ｃ型",
+        "name": "Enhanced Imperial Soldier Type C",
         "note": "<BigEnemy:OriginalRatio> \n",
         "params": [
             1000,
@@ -1213,7 +1213,7 @@
             }
         ],
         "gold": 0,
-        "name": "？？？",
+        "name": "???",
         "note": "<BigEnemy:OriginalRatio> \n",
         "params": [
             1000,
@@ -1275,7 +1275,7 @@
             }
         ],
         "gold": 0,
-        "name": "強化帝国兵Ｂ型",
+        "name": "Enhanced Imperial Soldier Type B",
         "note": "<BigEnemy:OriginalRatio> \n",
         "params": [
             1000,

@@ -3,7 +3,7 @@
     {
         "id": 1,
         "expanded": true,
-        "name": "拷問施設",
+        "name": "Torture Facility",
         "order": 19,
         "parentId": 0,
         "scrollX": 842.1818181818182,
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "expanded": true,
-        "name": "拠点",
+        "name": "Base",
         "order": 1,
         "parentId": 0,
         "scrollX": 842.1818181818182,
@@ -21,7 +21,7 @@
     {
         "id": 3,
         "expanded": true,
-        "name": "Ａ市",
+        "name": "A City",
         "order": 28,
         "parentId": 0,
         "scrollX": 850.909090909091,
@@ -30,7 +30,7 @@
     {
         "id": 4,
         "expanded": true,
-        "name": "オークション会場A",
+        "name": "Auction Venue A",
         "order": 35,
         "parentId": 3,
         "scrollX": 842.1818181818182,
@@ -39,7 +39,7 @@
     {
         "id": 5,
         "expanded": true,
-        "name": "ブローカーの部屋",
+        "name": "Broker's Room",
         "order": 30,
         "parentId": 3,
         "scrollX": 842.1818181818182,
@@ -48,7 +48,7 @@
     {
         "id": 6,
         "expanded": true,
-        "name": "路上",
+        "name": "On the street",
         "order": 38,
         "parentId": 0,
         "scrollX": 842.1818181818182,
@@ -57,7 +57,7 @@
     {
         "id": 7,
         "expanded": true,
-        "name": "脱出路",
+        "name": "Escape Route",
         "order": 27,
         "parentId": 1,
         "scrollX": 842.1818181818182,
@@ -66,7 +66,7 @@
     {
         "id": 8,
         "expanded": true,
-        "name": "総統府",
+        "name": "President's Office",
         "order": 11,
         "parentId": 0,
         "scrollX": 842.1818181818182,
@@ -75,7 +75,7 @@
     {
         "id": 9,
         "expanded": true,
-        "name": "暗闇",
+        "name": "Darkness",
         "order": 44,
         "parentId": 0,
         "scrollX": 842.1818181818182,
@@ -84,7 +84,7 @@
     {
         "id": 10,
         "expanded": false,
-        "name": "ブローカーの部屋B",
+        "name": "Broker's Room B",
         "order": 31,
         "parentId": 3,
         "scrollX": 842.1818181818182,
@@ -93,7 +93,7 @@
     {
         "id": 11,
         "expanded": true,
-        "name": "拠点2",
+        "name": "Base 2",
         "order": 2,
         "parentId": 2,
         "scrollX": 842.1818181818182,
@@ -102,7 +102,7 @@
     {
         "id": 12,
         "expanded": true,
-        "name": "脱出路後",
+        "name": "After the Escape Route",
         "order": 26,
         "parentId": 1,
         "scrollX": 842.1818181818182,
@@ -111,7 +111,7 @@
     {
         "id": 13,
         "expanded": true,
-        "name": "回想",
+        "name": "Flashback",
         "order": 37,
         "parentId": 0,
         "scrollX": 842.1818181818182,
@@ -120,7 +120,7 @@
     {
         "id": 14,
         "expanded": true,
-        "name": "総統府３",
+        "name": "President's Office 3",
         "order": 15,
         "parentId": 8,
         "scrollX": 842.1818181818182,
@@ -129,7 +129,7 @@
     {
         "id": 15,
         "expanded": true,
-        "name": "総統府２",
+        "name": "President's Office 2",
         "order": 14,
         "parentId": 8,
         "scrollX": 842.1818181818182,
@@ -138,7 +138,7 @@
     {
         "id": 16,
         "expanded": false,
-        "name": "研究室",
+        "name": "Laboratory",
         "order": 12,
         "parentId": 8,
         "scrollX": 842.1818181818182,
@@ -147,7 +147,7 @@
     {
         "id": 17,
         "expanded": true,
-        "name": "拠点３",
+        "name": "Base 3",
         "order": 3,
         "parentId": 2,
         "scrollX": 842.1818181818182,
@@ -156,7 +156,7 @@
     {
         "id": 18,
         "expanded": true,
-        "name": "拠点４",
+        "name": "Base 4",
         "order": 4,
         "parentId": 2,
         "scrollX": 842.1818181818182,
@@ -165,7 +165,7 @@
     {
         "id": 19,
         "expanded": true,
-        "name": "記録ルーム",
+        "name": "Record Room",
         "order": 10,
         "parentId": 2,
         "scrollX": 842.1818181818182,
@@ -318,7 +318,7 @@
     {
         "id": 36,
         "expanded": true,
-        "name": "まけイベ",
+        "name": "Defeat Event",
         "order": 16,
         "parentId": 14,
         "scrollX": 842.1818181818182,
@@ -327,7 +327,7 @@
     {
         "id": 37,
         "expanded": false,
-        "name": "クリア後",
+        "name": "After Clearing",
         "order": 5,
         "parentId": 2,
         "scrollX": 772,
@@ -372,7 +372,7 @@
     {
         "id": 42,
         "expanded": true,
-        "name": "オークション　道中",
+        "name": "On the way to the Auction",
         "order": 36,
         "parentId": 3,
         "scrollX": 842.1818181818182,
@@ -381,7 +381,7 @@
     {
         "id": 43,
         "expanded": true,
-        "name": "拷問施設　道中",
+        "name": "En Route to the Torture Facility",
         "order": 20,
         "parentId": 1,
         "scrollX": 850.909090909091,
@@ -390,7 +390,7 @@
     {
         "id": 44,
         "expanded": true,
-        "name": "Ａ市襲撃",
+        "name": "Attack on City A",
         "order": 29,
         "parentId": 3,
         "scrollX": 842.1818181818182,
