@@ -1,0 +1,2913 @@
+[
+    null,
+    {
+        "id": 1,
+        "list": [
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    "シュウ"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "「…っ！そうだ！博士からバッテリーを預かってたんだった！」"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    "シュウ"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "「エスカ！これでなんとか持ち直してくれ…！」"
+                ]
+            },
+            {
+                "code": 340,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 121,
+                "indent": 0,
+                "parameters": [
+                    37,
+                    37,
+                    0
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "最終戦",
+        "switchId": 35,
+        "trigger": 1
+    },
+    {
+        "id": 2,
+        "list": [
+            {
+                "code": 250,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "name": "Attack1",
+                        "volume": 30,
+                        "pitch": 100,
+                        "pan": 0
+                    }
+                ]
+            },
+            {
+                "code": 213,
+                "indent": 0,
+                "parameters": [
+                    -1,
+                    1,
+                    true
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    "エスカ\\mpd[panic]"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "「しまった！見つかった！」"
+                ]
+            },
+            {
+                "code": 301,
+                "indent": 0,
+                "parameters": [
+                    2,
+                    0,
+                    true,
+                    true
+                ]
+            },
+            {
+                "code": 601,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 214,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 602,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 205,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    {
+                        "list": [
+                            {
+                                "code": 37,
+                                "indent": 0
+                            },
+                            {
+                                "code": 42,
+                                "parameters": [
+                                    128
+                                ],
+                                "indent": 0
+                            },
+                            {
+                                "code": 15,
+                                "parameters": [
+                                    120
+                                ],
+                                "indent": null
+                            },
+                            {
+                                "code": 42,
+                                "parameters": [
+                                    255
+                                ],
+                                "indent": null
+                            },
+                            {
+                                "code": 38,
+                                "indent": null
+                            },
+                            {
+                                "code": 0
+                            }
+                        ],
+                        "repeat": false,
+                        "skippable": false,
+                        "wait": false
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 37,
+                        "indent": 0
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 42,
+                        "parameters": [
+                            128
+                        ],
+                        "indent": 0
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 15,
+                        "parameters": [
+                            120
+                        ],
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 42,
+                        "parameters": [
+                            255
+                        ],
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 38,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 603,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 231,
+                "indent": 1,
+                "parameters": [
+                    2,
+                    "EXCG_010",
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    255,
+                    0
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 1,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    "帝国軍人"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "「この前の情報を活かして対戦車兵器を持ってきて良かったぜ！」"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 1,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    "エスカ\\mp[0]"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "「うぅ…油断したわ…」"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 1,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    ""
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "任務に失敗してしまった…！"
+                ]
+            },
+            {
+                "code": 314,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "code": 235,
+                "indent": 1,
+                "parameters": [
+                    2
+                ]
+            },
+            {
+                "code": 201,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    3,
+                    3,
+                    16,
+                    2,
+                    0
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 604,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "A市敗北",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 3,
+        "list": [
+            {
+                "code": 250,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "name": "Attack1",
+                        "volume": 30,
+                        "pitch": 100,
+                        "pan": 0
+                    }
+                ]
+            },
+            {
+                "code": 213,
+                "indent": 0,
+                "parameters": [
+                    -1,
+                    1,
+                    true
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    "エスカ\\mpd[panic]"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "「しまった！見つかった！」"
+                ]
+            },
+            {
+                "code": 301,
+                "indent": 0,
+                "parameters": [
+                    2,
+                    0,
+                    true,
+                    true
+                ]
+            },
+            {
+                "code": 601,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 214,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 602,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 205,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    {
+                        "list": [
+                            {
+                                "code": 37,
+                                "indent": 0
+                            },
+                            {
+                                "code": 42,
+                                "parameters": [
+                                    128
+                                ],
+                                "indent": 0
+                            },
+                            {
+                                "code": 15,
+                                "parameters": [
+                                    120
+                                ],
+                                "indent": null
+                            },
+                            {
+                                "code": 42,
+                                "parameters": [
+                                    255
+                                ],
+                                "indent": null
+                            },
+                            {
+                                "code": 38,
+                                "indent": null
+                            },
+                            {
+                                "code": 0
+                            }
+                        ],
+                        "repeat": false,
+                        "skippable": false,
+                        "wait": false
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 37,
+                        "indent": 0
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 42,
+                        "parameters": [
+                            128
+                        ],
+                        "indent": 0
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 15,
+                        "parameters": [
+                            120
+                        ],
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 42,
+                        "parameters": [
+                            255
+                        ],
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 38,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 603,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 231,
+                "indent": 1,
+                "parameters": [
+                    2,
+                    "EXCG_011",
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    255,
+                    0
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 1,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    "帝国警備ロボ"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "「シンニュウシャハイジョ！シンニュウシャハイジョ！」"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 1,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    ""
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "エスカは対戦車機関銃でハチの巣にされてしまった…"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 1,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    ""
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "任務に失敗してしまった…！"
+                ]
+            },
+            {
+                "code": 314,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "code": 235,
+                "indent": 1,
+                "parameters": [
+                    2
+                ]
+            },
+            {
+                "code": 201,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    42,
+                    0,
+                    1,
+                    2,
+                    0
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 604,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "オークション敗北1",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 4,
+        "list": [
+            {
+                "code": 250,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "name": "Attack1",
+                        "volume": 30,
+                        "pitch": 100,
+                        "pan": 0
+                    }
+                ]
+            },
+            {
+                "code": 213,
+                "indent": 0,
+                "parameters": [
+                    -1,
+                    1,
+                    true
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    "エスカ\\mpd[panic]"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "「しまった！見つかった！」"
+                ]
+            },
+            {
+                "code": 301,
+                "indent": 0,
+                "parameters": [
+                    2,
+                    0,
+                    true,
+                    true
+                ]
+            },
+            {
+                "code": 601,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 214,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 602,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 205,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    {
+                        "list": [
+                            {
+                                "code": 37,
+                                "indent": 0
+                            },
+                            {
+                                "code": 42,
+                                "parameters": [
+                                    128
+                                ],
+                                "indent": 0
+                            },
+                            {
+                                "code": 15,
+                                "parameters": [
+                                    120
+                                ],
+                                "indent": null
+                            },
+                            {
+                                "code": 42,
+                                "parameters": [
+                                    255
+                                ],
+                                "indent": null
+                            },
+                            {
+                                "code": 38,
+                                "indent": null
+                            },
+                            {
+                                "code": 0
+                            }
+                        ],
+                        "repeat": false,
+                        "skippable": false,
+                        "wait": false
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 37,
+                        "indent": 0
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 42,
+                        "parameters": [
+                            128
+                        ],
+                        "indent": 0
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 15,
+                        "parameters": [
+                            120
+                        ],
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 42,
+                        "parameters": [
+                            255
+                        ],
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 38,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 603,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 231,
+                "indent": 1,
+                "parameters": [
+                    2,
+                    "EXCG_011",
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    255,
+                    0
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 1,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    "帝国警備ロボ"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "「シンニュウシャハイジョ！シンニュウシャハイジョ！」"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 1,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    ""
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "エスカは対戦車機関銃でハチの巣にされてしまった…"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 1,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    ""
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "任務に失敗してしまった…！"
+                ]
+            },
+            {
+                "code": 314,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "code": 235,
+                "indent": 1,
+                "parameters": [
+                    2
+                ]
+            },
+            {
+                "code": 201,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    4,
+                    0,
+                    1,
+                    2,
+                    0
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 604,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "オークション敗北2",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 5,
+        "list": [
+            {
+                "code": 250,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "name": "Attack1",
+                        "volume": 30,
+                        "pitch": 100,
+                        "pan": 0
+                    }
+                ]
+            },
+            {
+                "code": 213,
+                "indent": 0,
+                "parameters": [
+                    -1,
+                    1,
+                    true
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    "エスカ\\mpd[panic]"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "「しまった！見つかった！」"
+                ]
+            },
+            {
+                "code": 301,
+                "indent": 0,
+                "parameters": [
+                    2,
+                    0,
+                    true,
+                    true
+                ]
+            },
+            {
+                "code": 601,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 214,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 602,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 205,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    {
+                        "list": [
+                            {
+                                "code": 37,
+                                "indent": 0
+                            },
+                            {
+                                "code": 42,
+                                "parameters": [
+                                    128
+                                ],
+                                "indent": 0
+                            },
+                            {
+                                "code": 15,
+                                "parameters": [
+                                    120
+                                ],
+                                "indent": null
+                            },
+                            {
+                                "code": 42,
+                                "parameters": [
+                                    255
+                                ],
+                                "indent": null
+                            },
+                            {
+                                "code": 38,
+                                "indent": null
+                            },
+                            {
+                                "code": 0
+                            }
+                        ],
+                        "repeat": false,
+                        "skippable": false,
+                        "wait": false
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 37,
+                        "indent": 0
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 42,
+                        "parameters": [
+                            128
+                        ],
+                        "indent": 0
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 15,
+                        "parameters": [
+                            120
+                        ],
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 42,
+                        "parameters": [
+                            255
+                        ],
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 38,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 603,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 231,
+                "indent": 1,
+                "parameters": [
+                    2,
+                    "EXCG_012",
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    255,
+                    0
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 1,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    "帝国警備ロボ"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "「シンニュウシャハイジョ！シンニュウシャハイジョ！」"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 1,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    ""
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "エスカは高出力レーザーで打ちぬかれバラバラにされてしまった…"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 1,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    ""
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "任務に失敗してしまった…！"
+                ]
+            },
+            {
+                "code": 314,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "code": 235,
+                "indent": 1,
+                "parameters": [
+                    2
+                ]
+            },
+            {
+                "code": 201,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    43,
+                    1,
+                    2,
+                    2,
+                    0
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 604,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "拷問敗北１",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 6,
+        "list": [
+            {
+                "code": 250,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "name": "Attack1",
+                        "volume": 30,
+                        "pitch": 100,
+                        "pan": 0
+                    }
+                ]
+            },
+            {
+                "code": 213,
+                "indent": 0,
+                "parameters": [
+                    -1,
+                    1,
+                    true
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    "エスカ\\mpd[panic]"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "「しまった！見つかった！」"
+                ]
+            },
+            {
+                "code": 301,
+                "indent": 0,
+                "parameters": [
+                    2,
+                    0,
+                    true,
+                    true
+                ]
+            },
+            {
+                "code": 601,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 214,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 602,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 205,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    {
+                        "list": [
+                            {
+                                "code": 37,
+                                "indent": 0
+                            },
+                            {
+                                "code": 42,
+                                "parameters": [
+                                    128
+                                ],
+                                "indent": 0
+                            },
+                            {
+                                "code": 15,
+                                "parameters": [
+                                    120
+                                ],
+                                "indent": null
+                            },
+                            {
+                                "code": 42,
+                                "parameters": [
+                                    255
+                                ],
+                                "indent": null
+                            },
+                            {
+                                "code": 38,
+                                "indent": null
+                            },
+                            {
+                                "code": 0
+                            }
+                        ],
+                        "repeat": false,
+                        "skippable": false,
+                        "wait": false
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 37,
+                        "indent": 0
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 42,
+                        "parameters": [
+                            128
+                        ],
+                        "indent": 0
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 15,
+                        "parameters": [
+                            120
+                        ],
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 42,
+                        "parameters": [
+                            255
+                        ],
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 38,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 603,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 231,
+                "indent": 1,
+                "parameters": [
+                    2,
+                    "EXCG_012",
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    255,
+                    0
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 1,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    "帝国警備ロボ"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "「シンニュウシャハイジョ！シンニュウシャハイジョ！」"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 1,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    ""
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "エスカは高出力レーザーで打ちぬかれバラバラにされてしまった…"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 1,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    ""
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "任務に失敗してしまった…！"
+                ]
+            },
+            {
+                "code": 314,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "code": 235,
+                "indent": 1,
+                "parameters": [
+                    2
+                ]
+            },
+            {
+                "code": 201,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    1,
+                    1,
+                    2,
+                    2,
+                    0
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 604,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "拷問敗北２",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 7,
+        "list": [
+            {
+                "code": 250,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "name": "Attack1",
+                        "volume": 30,
+                        "pitch": 100,
+                        "pan": 0
+                    }
+                ]
+            },
+            {
+                "code": 213,
+                "indent": 0,
+                "parameters": [
+                    -1,
+                    1,
+                    true
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    "エスカ\\mpd[panic]"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "「しまった！見つかった！」"
+                ]
+            },
+            {
+                "code": 301,
+                "indent": 0,
+                "parameters": [
+                    2,
+                    0,
+                    true,
+                    true
+                ]
+            },
+            {
+                "code": 601,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 214,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 602,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 205,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    {
+                        "list": [
+                            {
+                                "code": 37,
+                                "indent": 0
+                            },
+                            {
+                                "code": 42,
+                                "parameters": [
+                                    128
+                                ],
+                                "indent": 0
+                            },
+                            {
+                                "code": 15,
+                                "parameters": [
+                                    120
+                                ],
+                                "indent": null
+                            },
+                            {
+                                "code": 42,
+                                "parameters": [
+                                    255
+                                ],
+                                "indent": null
+                            },
+                            {
+                                "code": 38,
+                                "indent": null
+                            },
+                            {
+                                "code": 0
+                            }
+                        ],
+                        "repeat": false,
+                        "skippable": false,
+                        "wait": false
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 37,
+                        "indent": 0
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 42,
+                        "parameters": [
+                            128
+                        ],
+                        "indent": 0
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 15,
+                        "parameters": [
+                            120
+                        ],
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 42,
+                        "parameters": [
+                            255
+                        ],
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 38,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 603,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 231,
+                "indent": 1,
+                "parameters": [
+                    2,
+                    "EXCG_014",
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    255,
+                    0
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 1,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    "帝国警備ロボ"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "「シンニュウシャハイジョ！シンニュウシャハイジョ！」"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 1,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    ""
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "エスカはアクメマシーンに捕まり、神経回路が焼き切れるまで、"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "敵の目の前で何度も絶頂してしまった"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 1,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    ""
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 1,
+                "parameters": [
+                    "任務に失敗してしまった…！"
+                ]
+            },
+            {
+                "code": 314,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "code": 235,
+                "indent": 1,
+                "parameters": [
+                    2
+                ]
+            },
+            {
+                "code": 201,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    8,
+                    25,
+                    2,
+                    4,
+                    0
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 604,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "総統府敗北１",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 8,
+        "list": [
+            {
+                "code": 250,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "name": "Attack1",
+                        "volume": 30,
+                        "pitch": 100,
+                        "pan": 0
+                    }
+                ]
+            },
+            {
+                "code": 213,
+                "indent": 0,
+                "parameters": [
+                    -1,
+                    1,
+                    true
+                ]
+            },
+            {
+                "code": 243,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 242,
+                "indent": 0,
+                "parameters": [
+                    1
+                ]
+            },
+            {
+                "code": 221,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    ""
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "帝国兵に捕まってしまった…"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "それからしばらく後…"
+                ]
+            },
+            {
+                "code": 222,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    "シュウ\\mpd[rangry]"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "「くっ！離せ！エスカ！エスカはどこだ…！」"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    "帝国兵"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "「なんだお前あのガラクタを助けに来たのか…"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "たった一人とは舐められたもんだぜ！」"
+                ]
+            },
+            {
+                "code": 121,
+                "indent": 0,
+                "parameters": [
+                    30,
+                    30,
+                    0
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    "帝国兵"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "「へへへ…そんなに会いたいなら合わせてやるよ」"
+                ]
+            },
+            {
+                "code": 231,
+                "indent": 0,
+                "parameters": [
+                    1,
+                    "EXCG_013",
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    255,
+                    0
+                ]
+            },
+            {
+                "code": 225,
+                "indent": 0,
+                "parameters": [
+                    5,
+                    5,
+                    60,
+                    false
+                ]
+            },
+            {
+                "code": 224,
+                "indent": 0,
+                "parameters": [
+                    [
+                        255,
+                        255,
+                        255,
+                        170
+                    ],
+                    60,
+                    false
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    "帝国兵"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "「エスカ…！そんな…」"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    "帝国兵"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "「お前が捕まったって聞いたらこんなになるまで大暴れしてな、"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "大変だったぜ！ひゃははは！」"
+                ]
+            },
+            {
+                "code": 221,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 235,
+                "indent": 0,
+                "parameters": [
+                    1
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    ""
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "エスカの救出に失敗してしまった…。"
+                ]
+            },
+            {
+                "code": 201,
+                "indent": 0,
+                "parameters": [
+                    0,
+                    14,
+                    29,
+                    8,
+                    2,
+                    0
+                ]
+            },
+            {
+                "code": 121,
+                "indent": 0,
+                "parameters": [
+                    30,
+                    30,
+                    1
+                ]
+            },
+            {
+                "code": 244,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 222,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "総統府敗北２",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 9,
+        "list": [
+            {
+                "code": 250,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "name": "Attack1",
+                        "volume": 30,
+                        "pitch": 100,
+                        "pan": 0
+                    }
+                ]
+            },
+            {
+                "code": 213,
+                "indent": 0,
+                "parameters": [
+                    -1,
+                    1,
+                    true
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    "エスカ\\mpd[panic]"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "「しまった！見つかった！」"
+                ]
+            },
+            {
+                "code": 301,
+                "indent": 0,
+                "parameters": [
+                    0,
+                    16,
+                    true,
+                    true
+                ]
+            },
+            {
+                "code": 601,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 214,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 602,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 205,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    {
+                        "list": [
+                            {
+                                "code": 37,
+                                "indent": 0
+                            },
+                            {
+                                "code": 42,
+                                "parameters": [
+                                    128
+                                ],
+                                "indent": 0
+                            },
+                            {
+                                "code": 15,
+                                "parameters": [
+                                    120
+                                ],
+                                "indent": null
+                            },
+                            {
+                                "code": 42,
+                                "parameters": [
+                                    255
+                                ],
+                                "indent": null
+                            },
+                            {
+                                "code": 38,
+                                "indent": null
+                            },
+                            {
+                                "code": 0
+                            }
+                        ],
+                        "repeat": false,
+                        "skippable": false,
+                        "wait": false
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 37,
+                        "indent": 0
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 42,
+                        "parameters": [
+                            128
+                        ],
+                        "indent": 0
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 15,
+                        "parameters": [
+                            120
+                        ],
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 42,
+                        "parameters": [
+                            255
+                        ],
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 38,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 603,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 314,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "code": 235,
+                "indent": 1,
+                "parameters": [
+                    2
+                ]
+            },
+            {
+                "code": 201,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    42,
+                    0,
+                    1,
+                    0,
+                    0
+                ]
+            },
+            {
+                "code": 201,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    8,
+                    25,
+                    2,
+                    4,
+                    0
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 604,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "みこと１",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 10,
+        "list": [
+            {
+                "code": 250,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "name": "Attack1",
+                        "volume": 30,
+                        "pitch": 100,
+                        "pan": 0
+                    }
+                ]
+            },
+            {
+                "code": 213,
+                "indent": 0,
+                "parameters": [
+                    -1,
+                    1,
+                    true
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    "エスカ\\mpd[panic]"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "「しまった！見つかった！」"
+                ]
+            },
+            {
+                "code": 301,
+                "indent": 0,
+                "parameters": [
+                    0,
+                    16,
+                    true,
+                    true
+                ]
+            },
+            {
+                "code": 601,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 214,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 602,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 205,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    {
+                        "list": [
+                            {
+                                "code": 37,
+                                "indent": 0
+                            },
+                            {
+                                "code": 42,
+                                "parameters": [
+                                    128
+                                ],
+                                "indent": 0
+                            },
+                            {
+                                "code": 15,
+                                "parameters": [
+                                    120
+                                ],
+                                "indent": null
+                            },
+                            {
+                                "code": 42,
+                                "parameters": [
+                                    255
+                                ],
+                                "indent": null
+                            },
+                            {
+                                "code": 38,
+                                "indent": null
+                            },
+                            {
+                                "code": 0
+                            }
+                        ],
+                        "repeat": false,
+                        "skippable": false,
+                        "wait": false
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 37,
+                        "indent": 0
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 42,
+                        "parameters": [
+                            128
+                        ],
+                        "indent": 0
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 15,
+                        "parameters": [
+                            120
+                        ],
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 42,
+                        "parameters": [
+                            255
+                        ],
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 38,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 603,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 314,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "code": 235,
+                "indent": 1,
+                "parameters": [
+                    2
+                ]
+            },
+            {
+                "code": 201,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    43,
+                    1,
+                    2,
+                    2,
+                    0
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 604,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "みこと２",
+        "switchId": 1,
+        "trigger": 0
+    },
+    {
+        "id": 11,
+        "list": [
+            {
+                "code": 250,
+                "indent": 0,
+                "parameters": [
+                    {
+                        "name": "Attack1",
+                        "volume": 30,
+                        "pitch": 100,
+                        "pan": 0
+                    }
+                ]
+            },
+            {
+                "code": 213,
+                "indent": 0,
+                "parameters": [
+                    -1,
+                    1,
+                    true
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2,
+                    "エスカ\\mpd[panic]"
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "「しまった！見つかった！」"
+                ]
+            },
+            {
+                "code": 301,
+                "indent": 0,
+                "parameters": [
+                    0,
+                    16,
+                    true,
+                    true
+                ]
+            },
+            {
+                "code": 601,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 214,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 602,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 205,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    {
+                        "list": [
+                            {
+                                "code": 37,
+                                "indent": 0
+                            },
+                            {
+                                "code": 42,
+                                "parameters": [
+                                    128
+                                ],
+                                "indent": 0
+                            },
+                            {
+                                "code": 15,
+                                "parameters": [
+                                    120
+                                ],
+                                "indent": null
+                            },
+                            {
+                                "code": 42,
+                                "parameters": [
+                                    255
+                                ],
+                                "indent": null
+                            },
+                            {
+                                "code": 38,
+                                "indent": null
+                            },
+                            {
+                                "code": 0
+                            }
+                        ],
+                        "repeat": false,
+                        "skippable": false,
+                        "wait": false
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 37,
+                        "indent": 0
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 42,
+                        "parameters": [
+                            128
+                        ],
+                        "indent": 0
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 15,
+                        "parameters": [
+                            120
+                        ],
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 42,
+                        "parameters": [
+                            255
+                        ],
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 505,
+                "indent": 1,
+                "parameters": [
+                    {
+                        "code": 38,
+                        "indent": null
+                    }
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 603,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 314,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "code": 235,
+                "indent": 1,
+                "parameters": [
+                    2
+                ]
+            },
+            {
+                "code": 201,
+                "indent": 1,
+                "parameters": [
+                    0,
+                    8,
+                    25,
+                    2,
+                    4,
+                    0
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 1,
+                "parameters": []
+            },
+            {
+                "code": 604,
+                "indent": 0,
+                "parameters": []
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": []
+            }
+        ],
+        "name": "みこと３",
+        "switchId": 1,
+        "trigger": 0
+    }
+]

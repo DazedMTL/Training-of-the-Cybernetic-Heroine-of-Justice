@@ -1,0 +1,193 @@
+[
+    null,
+    {
+        "id": 1,
+        "battlerName": "エスカ３",
+        "characterIndex": 0,
+        "characterName": "エスカ",
+        "classId": 1,
+        "equips": [
+            37,
+            0,
+            0,
+            10,
+            94
+        ],
+        "faceIndex": 0,
+        "faceName": "",
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            }
+        ],
+        "initialLevel": 5,
+        "maxLevel": 99,
+        "name": "エスカ",
+        "nickname": "",
+        "note": "<StandPicture:esk>",
+        "profile": ""
+    },
+    {
+        "id": 2,
+        "battlerName": "シュウ３",
+        "characterIndex": 0,
+        "characterName": "シュウ１",
+        "classId": 2,
+        "equips": [
+            1,
+            0,
+            0,
+            9,
+            0
+        ],
+        "faceIndex": 1,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "シュウ",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 3,
+        "battlerName": "エスカ３",
+        "characterIndex": 0,
+        "characterName": "エスカ（子）",
+        "classId": 5,
+        "equips": [
+            0,
+            0,
+            65,
+            0,
+            0
+        ],
+        "faceIndex": 2,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "赤い髪の少女",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 4,
+        "battlerName": "Actor1_4",
+        "characterIndex": 0,
+        "characterName": "ミコト（小）",
+        "classId": 5,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 3,
+        "faceName": "",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "ミコト",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 5,
+        "battlerName": "Actor1_5",
+        "characterIndex": 4,
+        "characterName": "Actor1",
+        "classId": 2,
+        "equips": [
+            7,
+            0,
+            0,
+            20,
+            0
+        ],
+        "faceIndex": 4,
+        "faceName": "Actor1",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "アルベール",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 6,
+        "battlerName": "Actor1_6",
+        "characterIndex": 5,
+        "characterName": "Actor1",
+        "classId": 2,
+        "equips": [
+            7,
+            0,
+            65,
+            21,
+            0
+        ],
+        "faceIndex": 5,
+        "faceName": "Actor1",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "ケイシー",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 7,
+        "battlerName": "Actor1_7",
+        "characterIndex": 6,
+        "characterName": "Actor1",
+        "classId": 3,
+        "equips": [
+            7,
+            0,
+            0,
+            20,
+            0
+        ],
+        "faceIndex": 6,
+        "faceName": "Actor1",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "エリオット",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    },
+    {
+        "id": 8,
+        "battlerName": "Actor1_8",
+        "characterIndex": 7,
+        "characterName": "Actor1",
+        "classId": 3,
+        "equips": [
+            7,
+            0,
+            0,
+            20,
+            0
+        ],
+        "faceIndex": 7,
+        "faceName": "Actor1",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "ローザ",
+        "nickname": "",
+        "note": "",
+        "profile": ""
+    }
+]
