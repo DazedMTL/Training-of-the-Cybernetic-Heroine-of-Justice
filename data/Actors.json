@@ -2,7 +2,7 @@
     null,
     {
         "id": 1,
-        "battlerName": "エスカ３",
+        "battlerName": "Esuka 3",
         "characterIndex": 0,
         "characterName": "エスカ",
         "classId": 1,
@@ -31,7 +31,7 @@
     },
     {
         "id": 2,
-        "battlerName": "シュウ３",
+        "battlerName": "Esuka 3",
         "characterIndex": 0,
         "characterName": "シュウ１",
         "classId": 2,
@@ -54,9 +54,9 @@
     },
     {
         "id": 3,
-        "battlerName": "エスカ３",
+        "battlerName": "Esuka 3",
         "characterIndex": 0,
-        "characterName": "エスカ（子）",
+        "characterName": "Esuka (Child)",
         "classId": 5,
         "equips": [
             0,
@@ -79,7 +79,7 @@
         "id": 4,
         "battlerName": "Actor1_4",
         "characterIndex": 0,
-        "characterName": "ミコト（小）",
+        "characterName": "Mikoto (Small)",
         "classId": 5,
         "equips": [
             0,

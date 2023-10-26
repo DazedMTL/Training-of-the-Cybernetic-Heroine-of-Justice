@@ -7,7 +7,7 @@
         "uiAreaHeight": 624,
         "numberFontFilename": "mplus-2p-bold-sub.woff",
         "fallbackFonts": "Verdana, sans-serif",
-        "fontSize": 26,
+        "fontSize": 24,
         "mainFontFilename": "mplus-1m-regular.woff",
         "windowOpacity": 192
     },
@@ -456,7 +456,7 @@
             "seVolume": "Sound Effects Volume",
             "possession": "Number of items held",
             "expTotal": "Current %1",
-            "expNext": "Until the next %1",
+            "expNext": "Next %1",
             "saveMessage": "Which file would you like to save to?",
             "loadMessage": "Which file would you like to load?",
             "file": "File",
