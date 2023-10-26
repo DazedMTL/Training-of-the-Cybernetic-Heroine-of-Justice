@@ -86,7 +86,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The following is a frame for skills that you want to display\nabove the combat skills when you open the menu.",
+        "description": "The following is a frame for skills that you want to display above the combat skills when\nyou open the menu.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
@@ -652,7 +652,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Stab a single enemy with a paralysis needle, causing them to\nbecome paralyzed.",
+        "description": "Stab a single enemy with a paralysis needle, causing them to become paralyzed.",
         "effects": [
             {
                 "code": 21,
@@ -690,7 +690,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflicts damage on a single enemy and disrupts their\nbalance.",
+        "description": "Inflicts damage on a single enemy and disrupts their balance.",
         "effects": [
             {
                 "code": 21,
@@ -728,7 +728,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflicts lightning attribute damage on a single enemy and\nparalyzes them.",
+        "description": "Inflicts lightning attribute damage on a single enemy and paralyzes them.",
         "effects": [
             {
                 "code": 21,
@@ -842,7 +842,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It stirs up the user's fighting spirit and enhances their\nabilities.",
+        "description": "It stirs up the user's fighting spirit and enhances their abilities.",
         "effects": [
             {
                 "code": 31,
@@ -935,7 +935,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Stares down a single enemy, causing them to become\nparalyzed.",
+        "description": "Stares down a single enemy, causing them to become paralyzed.",
         "effects": [
             {
                 "code": 21,
@@ -2122,7 +2122,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It cures all abnormal conditions except for incapacitation\nof an ally.",
+        "description": "It cures all abnormal conditions except for incapacitation of an ally.",
         "effects": [
             {
                 "code": 22,
@@ -2202,7 +2202,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It cures all status abnormalities other than incapacitation\nfor the entire team.",
+        "description": "It cures all status abnormalities other than incapacitation for the entire team.",
         "effects": [
             {
                 "code": 22,
@@ -2351,7 +2351,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "Revives a single ally from incapacitation and greatly\nrestores HP.",
+        "description": "Revives a single ally from incapacitation and greatly restores HP.",
         "effects": [
             {
                 "code": 22,
@@ -2896,7 +2896,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Esuka's limiter is released, gaining explosive combat power.\nDamage is inflicted on the drive system. Special weaponry\nbecomes unusable.",
+        "description": "Esuka's limiter is released, gaining explosive combat power. Damage is inflicted on the\ndrive system. Special weaponry becomes unusable.",
         "effects": [
             {
                 "code": 21,
@@ -2934,7 +2934,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Lowers the attack power of all enemies. Can be stacked up to\ntwo times.",
+        "description": "Lowers the attack power of all enemies. Can be stacked up to two times.",
         "effects": [
             {
                 "code": 32,
@@ -2972,7 +2972,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increases the defense of a single ally. Can be stacked up to\ntwo times.",
+        "description": "Increases the defense of a single ally. Can be stacked up to two times.",
         "effects": [
             {
                 "code": 31,
@@ -3010,7 +3010,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Lowers the defense of all enemies. Can be stacked up to two\ntimes.",
+        "description": "Lowers the defense of all enemies. Can be stacked up to two times.",
         "effects": [
             {
                 "code": 32,
@@ -3048,7 +3048,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increases the magic power of a single ally. Can be stacked\nup to two times.",
+        "description": "Increases the magic power of a single ally. Can be stacked up to two times.",
         "effects": [
             {
                 "code": 31,
@@ -3086,7 +3086,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Lowers the magic power of all enemies. Can be stacked up to\ntwo times.",
+        "description": "Lowers the magic power of all enemies. Can be stacked up to two times.",
         "effects": [
             {
                 "code": 32,
@@ -3124,7 +3124,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increases the magic defense of a single ally. Can be stacked\nup to two times.",
+        "description": "Increases the magic defense of a single ally. Can be stacked up to two times.",
         "effects": [
             {
                 "code": 21,
@@ -3162,7 +3162,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Lowers the magic defense of all enemies. Can be stacked up\nto two times.",
+        "description": "Lowers the magic defense of all enemies. Can be stacked up to two times.",
         "effects": [
             {
                 "code": 32,
@@ -3200,7 +3200,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increases the agility of a single ally. Can be stacked up to\ntwo times.",
+        "description": "Increases the agility of a single ally. Can be stacked up to two times.",
         "effects": [
             {
                 "code": 31,
@@ -3238,7 +3238,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Lowers the agility of all enemies. Can be stacked up to two\ntimes.",
+        "description": "Lowers the agility of all enemies. Can be stacked up to two times.",
         "effects": [
             {
                 "code": 32,
@@ -3710,7 +3710,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "She sweeps away her enemies with a kick enveloped in the\nflames of anger.",
+        "description": "She sweeps away her enemies with a kick enveloped in the flames of anger.",
         "effects": [],
         "hitType": 2,
         "iconIndex": 64,
@@ -4020,7 +4020,7 @@
             "type": 1,
             "variance": 10
         },
-        "description": "She channels the electricity within her body into her fist\nand strikes.",
+        "description": "She channels the electricity within her body into her fist and strikes.",
         "effects": [],
         "hitType": 2,
         "iconIndex": 66,
@@ -4082,7 +4082,7 @@
             "type": 1,
             "variance": 10
         },
-        "description": "While releasing energy from within her body, she strikes\nwith a full-force elbow.",
+        "description": "While releasing energy from within her body, she strikes with a full-force elbow.",
         "effects": [],
         "hitType": 2,
         "iconIndex": 66,
@@ -5229,7 +5229,7 @@
             "type": 1,
             "variance": 10
         },
-        "description": "She releases her internal energy and strikes with a full-\nforce elbow.",
+        "description": "She releases her internal energy and strikes with a full- force elbow.",
         "effects": [],
         "hitType": 2,
         "iconIndex": 78,
@@ -5894,7 +5894,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It stirs up the user's fighting spirit, increasing their\nattack power. It can be stacked up to two times.",
+        "description": "It stirs up the user's fighting spirit, increasing their attack power. It can be stacked\nup to two times.",
         "effects": [
             {
                 "code": 31,
@@ -5963,7 +5963,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Performs an extremely powerful attack against a single\nenemy.",
+        "description": "Performs an extremely powerful attack against a single enemy.",
         "effects": [
             {
                 "code": 21,
@@ -6249,7 +6249,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increases the defense and magic defense of all allies. Can\nbe stacked up to two times.",
+        "description": "Increases the defense and magic defense of all allies. Can be stacked up to two times.",
         "effects": [
             {
                 "code": 31,
@@ -6293,7 +6293,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increases the user's magical power significantly for 5\nturns.",
+        "description": "Increases the user's magical power significantly for 5 turns.",
         "effects": [
             {
                 "code": 31,
@@ -6337,7 +6337,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It stirs up the fighting spirit of the entire team,\nincreasing their attack power. This can be stacked up to two\ntimes.",
+        "description": "It stirs up the fighting spirit of the entire team, increasing their attack power. This\ncan be stacked up to two times.",
         "effects": [
             {
                 "code": 31,
@@ -6620,7 +6620,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For one turn, automatically protect the ally with the least\nHP.",
+        "description": "For one turn, automatically protect the ally with the least HP.",
         "effects": [
             {
                 "code": 21,
@@ -6772,7 +6772,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It stirs up the fighting spirit of the entire team,\nincreasing their attack power. This can be stacked up to two\ntimes.",
+        "description": "It stirs up the fighting spirit of the entire team, increasing their attack power. This\ncan be stacked up to two times.",
         "effects": [
             {
                 "code": 31,
@@ -7746,7 +7746,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Strike the ground beneath all enemies, disrupting their\nbalance.",
+        "description": "Strike the ground beneath all enemies, disrupting their balance.",
         "effects": [
             {
                 "code": 21,

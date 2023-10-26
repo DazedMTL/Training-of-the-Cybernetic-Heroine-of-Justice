@@ -1157,9 +1157,9 @@ Scene_MenuBase.prototype.createHelpWindow = function () {
 
 Scene_MenuBase.prototype.helpWindowRect = function () {
     const wx = 0;
-    const wy = this.helpAreaTop() - 50;
+    const wy = this.helpAreaTop();
     const ww = Graphics.boxWidth;
-    const wh = this.helpAreaHeight() + 50;
+    const wh = this.helpAreaHeight();
     return new Rectangle(wx, wy, ww, wh);
 };
 
@@ -1715,7 +1715,7 @@ Scene_Skill.prototype.itemWindowRect = function () {
     const wx = 0;
     const wy = this._statusWindow.y + this._statusWindow.height;
     const ww = Graphics.boxWidth;
-    const wh = this.mainAreaHeight() - this._statusWindow.height - 50;
+    const wh = this.mainAreaHeight() - this._statusWindow.height;
     return new Rectangle(wx, wy, ww, wh);
 };
 
@@ -3219,7 +3219,7 @@ Scene_Battle.prototype.helpWindowRect = function () {
     const wx = 0;
     const wy = this.helpAreaTop();
     const ww = Graphics.boxWidth;
-    const wh = this.helpAreaHeight() + 40;
+    const wh = this.helpAreaHeight();
     return new Rectangle(wx, wy, ww, wh);
 };
 

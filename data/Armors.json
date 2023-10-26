@@ -84,7 +84,7 @@
     {
         "id": 4,
         "atypeId": 1,
-        "description": "[GeneralEquipment] Durable clothes that can withstand harsh\njourneys.",
+        "description": "[GeneralEquipment] Durable clothes that can withstand harsh journeys.",
         "etypeId": 4,
         "traits": [
             {
@@ -111,7 +111,7 @@
     {
         "id": 5,
         "atypeId": 1,
-        "description": "A hard leather vest, reinforced with oak, under General\nEquipment.",
+        "description": "A hard leather vest, reinforced with oak, under General Equipment.",
         "etypeId": 4,
         "traits": [
             {
@@ -138,7 +138,7 @@
     {
         "id": 6,
         "atypeId": 1,
-        "description": "[GeneralEquipment] Clothes made of tanned leather,\nreinforced with steel plates.",
+        "description": "[GeneralEquipment] Clothes made of tanned leather, reinforced with steel plates.",
         "etypeId": 4,
         "traits": [
             {
@@ -288,7 +288,7 @@
     {
         "id": 12,
         "atypeId": 3,
-        "description": "An external armor that enhances defense. It reacts to\nabnormal status attacks and explodes, preventing them from\nreaching the main body.",
+        "description": "An external armor that enhances defense. It reacts to abnormal status attacks and\nexplodes, preventing them from reaching the main body.",
         "etypeId": 4,
         "traits": [
             {
@@ -330,7 +330,7 @@
     {
         "id": 13,
         "atypeId": 3,
-        "description": "An external armor that enhances defense. The latest model\nequipped with defense against special weaponry.",
+        "description": "An external armor that enhances defense. The latest model equipped with defense against\nspecial weaponry.",
         "etypeId": 4,
         "traits": [
             {
@@ -627,7 +627,7 @@
     {
         "id": 24,
         "atypeId": 2,
-        "description": "[MagicEquipment] The ultimate cloak imbued with the power of\nthe Spirit King.",
+        "description": "[MagicEquipment] The ultimate cloak imbued with the power of the Spirit King.",
         "etypeId": 4,
         "traits": [
             {
@@ -735,7 +735,7 @@
     {
         "id": 28,
         "atypeId": 5,
-        "description": "[SmallShield] A wooden round shield reinforced with an iron\nframe.",
+        "description": "[SmallShield] A wooden round shield reinforced with an iron frame.",
         "etypeId": 2,
         "traits": [
             {
@@ -762,7 +762,7 @@
     {
         "id": 29,
         "atypeId": 5,
-        "description": "[SmallShield] A round shield with spikes for attack on its\nsurface.",
+        "description": "[SmallShield] A round shield with spikes for attack on its surface.",
         "etypeId": 2,
         "traits": [
             {
@@ -1248,7 +1248,7 @@
     {
         "id": 47,
         "atypeId": 1,
-        "description": "[GeneralEquipment] A leather headband to protect the\nforehead.",
+        "description": "[GeneralEquipment] A leather headband to protect the forehead.",
         "etypeId": 3,
         "traits": [
             {
@@ -1302,7 +1302,7 @@
     {
         "id": 49,
         "atypeId": 1,
-        "description": "[GeneralEquipment] A thick cloth that is wrapped around\nmultiple times to protect the head.",
+        "description": "[GeneralEquipment] A thick cloth that is wrapped around multiple times to protect the\nhead.",
         "etypeId": 3,
         "traits": [
             {
@@ -1437,7 +1437,7 @@
     {
         "id": 54,
         "atypeId": 3,
-        "description": "[LightArmor] A lightweight helmet reinforced with copper\nplates.",
+        "description": "[LightArmor] A lightweight helmet reinforced with copper plates.",
         "etypeId": 3,
         "traits": [
             {
@@ -1464,7 +1464,7 @@
     {
         "id": 55,
         "atypeId": 3,
-        "description": "[LightArmor] A lightweight helmet reinforced with iron\nplates.",
+        "description": "[LightArmor] A lightweight helmet reinforced with iron plates.",
         "etypeId": 3,
         "traits": [
             {
@@ -1518,7 +1518,7 @@
     {
         "id": 57,
         "atypeId": 3,
-        "description": "[LightArmor] A lightweight helmet reinforced with dragon\nscales.",
+        "description": "[LightArmor] A lightweight helmet reinforced with dragon scales.",
         "etypeId": 3,
         "traits": [
             {
@@ -1734,7 +1734,7 @@
     {
         "id": 65,
         "atypeId": 2,
-        "description": "[MagicEquipment] A wide-brimmed triangular hat made of\ntanned leather.",
+        "description": "[MagicEquipment] A wide-brimmed triangular hat made of tanned leather.",
         "etypeId": 3,
         "traits": [
             {
@@ -1761,7 +1761,7 @@
     {
         "id": 66,
         "atypeId": 2,
-        "description": "[MagicEquipment] A simple crown enchanted with protective\nmagic.",
+        "description": "[MagicEquipment] A simple crown enchanted with protective magic.",
         "etypeId": 3,
         "traits": [
             {
@@ -1788,7 +1788,7 @@
     {
         "id": 67,
         "atypeId": 2,
-        "description": "[MagicEquipment] A silver filigree crown enchanted with\nprotective magic.",
+        "description": "[MagicEquipment] A silver filigree crown enchanted with protective magic.",
         "etypeId": 3,
         "traits": [
             {
@@ -1815,7 +1815,7 @@
     {
         "id": 68,
         "atypeId": 2,
-        "description": "[MagicEquipment] A pure gold crown enchanted with protective\nmagic.",
+        "description": "[MagicEquipment] A pure gold crown enchanted with protective magic.",
         "etypeId": 3,
         "traits": [
             {
@@ -1842,7 +1842,7 @@
     {
         "id": 69,
         "atypeId": 2,
-        "description": "[MagicEquipment] A mithril crown enchanted with protective\nmagic.",
+        "description": "[MagicEquipment] A mithril crown enchanted with protective magic.",
         "etypeId": 3,
         "traits": [
             {
@@ -1869,7 +1869,7 @@
     {
         "id": 70,
         "atypeId": 2,
-        "description": "[MagicEquipment] A sage's crown imbued with protective\nmagic.",
+        "description": "[MagicEquipment] A sage's crown imbued with protective magic.",
         "etypeId": 3,
         "traits": [
             {
@@ -2375,7 +2375,7 @@
     {
         "id": 88,
         "atypeId": 1,
-        "description": "[Accessory] A ring that makes one less susceptible to poison\nand paralysis.",
+        "description": "[Accessory] A ring that makes one less susceptible to poison and paralysis.",
         "etypeId": 5,
         "traits": [
             {
@@ -2417,7 +2417,7 @@
     {
         "id": 89,
         "atypeId": 1,
-        "description": "[Accessory] A ring that completely prevents poison and\nparalysis.",
+        "description": "[Accessory] A ring that completely prevents poison and paralysis.",
         "etypeId": 5,
         "traits": [
             {
@@ -2486,7 +2486,7 @@
     {
         "id": 91,
         "atypeId": 1,
-        "description": "[Accessory] A ring that makes it harder to be affected by\nsleep, silence, confusion, charm, and rage.",
+        "description": "[Accessory] A ring that makes it harder to be affected by sleep, silence, confusion,\ncharm, and rage.",
         "etypeId": 5,
         "traits": [
             {
@@ -2538,7 +2538,7 @@
     {
         "id": 92,
         "atypeId": 1,
-        "description": "[Accessory] A ring that completely prevents sleep, silence,\nconfusion, charm, and rage.",
+        "description": "[Accessory] A ring that completely prevents sleep, silence, confusion, charm, and rage.",
         "etypeId": 5,
         "traits": [
             {
@@ -2664,7 +2664,7 @@
     {
         "id": 96,
         "atypeId": 1,
-        "description": "[Accessory] An accessory that carries over TP to the next\nbattle.",
+        "description": "[Accessory] An accessory that carries over TP to the next battle.",
         "etypeId": 5,
         "traits": [
             {
@@ -2760,7 +2760,7 @@
     {
         "id": 99,
         "atypeId": 1,
-        "description": "[Accessory] Under the protection of the Four Great Spirits\nHalves the damage received from fire, water, wind, and earth\nattribute attacks.",
+        "description": "[Accessory] Under the protection of the Four Great Spirits Halves the damage received from\nfire, water, wind, and earth attribute attacks.",
         "etypeId": 5,
         "traits": [
             {

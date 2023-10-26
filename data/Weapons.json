@@ -201,7 +201,7 @@
     {
         "id": 7,
         "animationId": 1,
-        "description": "[Cane] A cane that is inexpensive and widely available to\nthe general public.",
+        "description": "[Cane] A cane that is inexpensive and widely available to the general public.",
         "etypeId": 1,
         "traits": [
             {
@@ -234,7 +234,7 @@
     {
         "id": 8,
         "animationId": 1,
-        "description": "[Staff] A staff that slightly amplifies the magic power of\nthe caster.",
+        "description": "[Staff] A staff that slightly amplifies the magic power of the caster.",
         "etypeId": 1,
         "traits": [
             {
@@ -267,7 +267,7 @@
     {
         "id": 9,
         "animationId": 1,
-        "description": "[Staff] A silver staff that amplifies the magic power of the\ncaster.",
+        "description": "[Staff] A silver staff that amplifies the magic power of the caster.",
         "etypeId": 1,
         "traits": [
             {
@@ -300,7 +300,7 @@
     {
         "id": 10,
         "animationId": 1,
-        "description": "[Staff] A mithril staff that amplifies the magic power of\nthe caster.",
+        "description": "[Staff] A mithril staff that amplifies the magic power of the caster.",
         "etypeId": 1,
         "traits": [
             {
@@ -333,7 +333,7 @@
     {
         "id": 11,
         "animationId": 1,
-        "description": "[Staff] A dragon's staff that amplifies the magic power of\nthe caster.",
+        "description": "[Staff] A dragon's staff that amplifies the magic power of the caster.",
         "etypeId": 1,
         "traits": [
             {
@@ -399,7 +399,7 @@
     {
         "id": 13,
         "animationId": 1,
-        "description": "[Frail] A flail with a stone ball attached to the end of the\nhandle by a chain.",
+        "description": "[Frail] A flail with a stone ball attached to the end of the handle by a chain.",
         "etypeId": 1,
         "traits": [
             {
@@ -432,7 +432,7 @@
     {
         "id": 14,
         "animationId": 1,
-        "description": "[Frail] A chain mace with a copper ball attached to the end\nof the handle.",
+        "description": "[Frail] A chain mace with a copper ball attached to the end of the handle.",
         "etypeId": 1,
         "traits": [
             {
@@ -1122,7 +1122,7 @@
     {
         "id": 34,
         "animationId": 16,
-        "description": "Claw A hand-to-hand combat weapon equipped with mithril\nclaws.",
+        "description": "Claw A hand-to-hand combat weapon equipped with mithril claws.",
         "etypeId": 1,
         "traits": [
             {
@@ -1274,7 +1274,7 @@
     {
         "id": 38,
         "animationId": 116,
-        "description": "A laser is fired from the satellite orbit. Anyone other than\nthose in the event battle will die.",
+        "description": "A laser is fired from the satellite orbit. Anyone other than those in the event battle\nwill die.",
         "etypeId": 1,
         "traits": [
             {
@@ -1317,7 +1317,7 @@
     {
         "id": 39,
         "animationId": 11,
-        "description": "[Bow] A stone bow that launches arrows with a powerful\nspring.",
+        "description": "[Bow] A stone bow that launches arrows with a powerful spring.",
         "etypeId": 1,
         "traits": [
             {
@@ -1350,7 +1350,7 @@
     {
         "id": 40,
         "animationId": 11,
-        "description": "[Bow] A stone bow that launches mithril arrows with a\npowerful spring.",
+        "description": "[Bow] A stone bow that launches mithril arrows with a powerful spring.",
         "etypeId": 1,
         "traits": [
             {
@@ -1383,7 +1383,7 @@
     {
         "id": 41,
         "animationId": 11,
-        "description": "[Bow] A longbow made for combat, crafted from a dragon's\nwhiskers.",
+        "description": "[Bow] A longbow made for combat, crafted from a dragon's whiskers.",
         "etypeId": 1,
         "traits": [
             {

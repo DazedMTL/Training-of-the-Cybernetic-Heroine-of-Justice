@@ -11,7 +11,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "This is a frame for items you want to display higher than\nrecovery items.",
+        "description": "This is a frame for items you want to display higher than recovery items.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
@@ -589,7 +589,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For a while, it reduces the encounter rate with enemies by\nhalf.",
+        "description": "For a while, it reduces the encounter rate with enemies by half.",
         "effects": [
             {
                 "code": 21,
@@ -622,7 +622,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For a while, increase the acquisition rate of items and\nprize money obtained in battle.",
+        "description": "For a while, increase the acquisition rate of items and prize money obtained in battle.",
         "effects": [
             {
                 "code": 21,
@@ -655,7 +655,7 @@
             "type": 1,
             "variance": 0
         },
-        "description": "A self-destruct weapon to prevent information leakage from\nthe resistance. If used, it will result in defeat in battle.",
+        "description": "A self-destruct weapon to prevent information leakage from the resistance. If used, it\nwill result in defeat in battle.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 1,
