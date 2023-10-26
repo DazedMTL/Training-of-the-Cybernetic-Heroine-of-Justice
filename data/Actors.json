@@ -56,7 +56,7 @@
         "id": 3,
         "battlerName": "Esuka 3",
         "characterIndex": 0,
-        "characterName": "Esuka (Child)",
+        "characterName": "エスカ（子）",
         "classId": 5,
         "equips": [
             0,
@@ -79,7 +79,7 @@
         "id": 4,
         "battlerName": "Actor1_4",
         "characterIndex": 0,
-        "characterName": "Mikoto (Small)",
+        "characterName": "ミコト（小）",
         "classId": 5,
         "equips": [
             0,
